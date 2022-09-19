@@ -1,0 +1,13 @@
+# Site settings
+title: Genomics Platform
+theme: jekyll-theme-merlot
+email:
+description: reNEW & CPR
+baseurl:
+url:
+twitter_username:
+github_username: DanStemGenomics
+
+# Build settings
+markdown: kramdown
+permalink: pretty
