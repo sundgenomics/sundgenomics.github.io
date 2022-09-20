@@ -37,4 +37,4 @@ During that process, if there is any question or change, please email us at geno
 
 If you have any suggestions to improve this process, please let us know.
  
-Go back to the [Genomics Platform home](https://danstemgenomics.github.io)
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
