@@ -11,4 +11,4 @@ Here is the onboarding process:
 
 
 
-
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
