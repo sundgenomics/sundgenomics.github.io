@@ -4,9 +4,9 @@
 
 The Genomics Platform team consists of:
 
-- Heike Wollmann: Sequencing Specialist
-- Adrija Kalvisa: Bioinformatics Specialist
-- Magali Michaut: Bioinformatics Specialist
+- [Heike Wollmann](https://renew.ku.dk/people/?id=710763&vis=medarbejder): Sequencing Specialist
+- [Adrija Kalvisa](https://renew.ku.dk/people/?id=645384&vis=medarbejder): Bioinformatics Specialist
+- [Magali Michaut](https://renew.ku.dk/people/?pure=en/persons/591326): Bioinformatics Specialist
 
 You can contact us by email at  [genomics@sund.ku.dk](mailto:genomics@sund.ku.dk).
 
