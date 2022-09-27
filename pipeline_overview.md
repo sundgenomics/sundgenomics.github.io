@@ -8,6 +8,7 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq files according t
 - Outputs: .fastq files, multiQC report  
 - Software used: bcl2fasta, multiQC  
 
+![demux pipeline](https://github.com/AdrijaK/sundgenomics.github.io/blob/main/images/f01_demultiplex.pdf)
 ### RNAseq
 
 RNAseq pipeline aligns reads in .fastq to a specified reference genome
