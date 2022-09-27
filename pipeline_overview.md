@@ -17,7 +17,7 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 
 ### CHORseq
 
-CHORseq pipeline aligns reads in .fastq to a specified reference genome
+CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in
 - Inputs: .fastq files, a reference genome  
 - Outputs: indexed, sorted .bam files  
 - Software used: bowtie2, samtools, picard, multiQC, custom scripts  
