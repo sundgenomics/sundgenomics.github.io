@@ -23,6 +23,9 @@ If you have computing or computational infrastructure questions, if you want to 
 - [HPC facilities at KU](https://kunet.ku.dk/work-areas/research/data/data-collection-processing-analysis/high-performance-computing-facilities/Pages/default.aspx)
 - [Computerome 2](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/computerome-2.0/Pages/default.aspx)
 
+### Available bioinformatics pipelines
+
+Genomics platform maintains several in-house bioinformatics pipelines as well as public pipelines for sequencing read demultiplexing and alignment to a reference genome. Please find more information [here](/pipelineoverview/)
 
 ### Acknowledgments
 
