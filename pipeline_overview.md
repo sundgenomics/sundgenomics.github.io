@@ -16,12 +16,16 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 - Outputs: indexed, sorted .bam files, read counts in .tsv format  
 - Software used: STAR, multiQC  
 
+![RNA pipeline](/images/f02_RNAseq.pdf)
+
 ### CHORseq
 
 CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in
 - Inputs: .fastq files, a reference genome  
 - Outputs: indexed, sorted .bam files  
 - Software used: bowtie2, samtools, picard, multiQC, custom scripts  
+
+![CHOR pipeline](/images/f03_CHOR.pdf)
 
 ### ATACseq
 
