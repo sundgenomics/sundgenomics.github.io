@@ -18,7 +18,7 @@ If you are already familiar with our direct sequencing process (i.e. we have dis
 
 If you have computing or computational infrastructure questions, if you want to get access to the server danGPUThe, please contact [Sen Li](mailto:sen.li@sund.ku.dk). Here are some reference pages for information and convenience: 
 
-- [DanGPU server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)
+- [DanGPU server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/) for reNEW and [CPRGPU](https://lzg167.gitbook.io/cprgpu/general-info/readme) for CPR
 - [Research Management and GDPR at KU](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 - [HPC facilities at KU](https://kunet.ku.dk/work-areas/research/data/data-collection-processing-analysis/high-performance-computing-facilities/Pages/default.aspx)
 - [Computerome 2](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/computerome-2.0/Pages/default.aspx)
@@ -29,7 +29,10 @@ Genomics platform maintains several in-house bioinformatics pipelines as well as
 
 ### Acknowledgments
 
-- Remember to acknowledge the platform on your publications and other dissemination materials: “The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, is supported by a Novo Nordisk Foundation grant number NNF21CC0073729” (or the CPR one if you are at CPR). 
+- Remember to acknowledge the platform on your publications and other dissemination materials
+- Remeber to mention the center grant on any publication:
+   - reNEW: "The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, is supported by a Novo Nordisk Foundation grant number NNF21CC0073729" 
+   - CPR: "The Novo Nordisk Foundation Center for Protein Research (CPR), is supported by a Novo Nordisk Foundation grant number NNF14CC0001”
 - If Computerome has been used at any point, it should appear in the acknowledgements: “Data processing and analysis were performed using the DeiC National Life Science Supercomputer at DTU (www.computerome.dk)” as mentioned on the [Deic website]( https://vidensportal.deic.dk/en/publications/acknowledgements)
 - Please send us your manuscript before you submit so we can follow the timelines of the various projects we are supporting (and report on our impact), as well as review the technical details
 
