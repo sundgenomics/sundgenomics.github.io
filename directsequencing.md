@@ -44,7 +44,7 @@ If you have any suggestions to improve this process, please let us know.
  * The max number of cycles can be distributed as you want between read 1, read 2, index 1, index 2
  * For example
    * a P2 v3 kit with 100 cycles (max=138) could be used 
-     * - 130 bp on read 1, 8 bp on index 1
+     * 130 bp on read 1, 8 bp on index 1
      * 61 on read 1, 61 on read 8, 8 bp on index 1, 8 bp on index 2
      * 28 on read 1, 90 on read 8, 10 bp on index 1, 10 bp on index 2
    * a P3 kit with 50 cycles (max=88) could be used 
