@@ -36,5 +36,21 @@ This is a sequencing service we provide for scientists who have experience with 
 During that process, if there is any question or change, please email us at genomics@sund.ku.dk mentioning the submission_ID.
 
 If you have any suggestions to improve this process, please let us know.
+
+### How many base pairs / cycles
+
+ * The number of cycles availble for sequencing is determined by the kit and it reagent size. For Illumina NextSeq 2000, the sequencing kits and sizes are listed [here](https://www.illumina.com/products/by-type/sequencing-kits/cluster-gen-sequencing-reagents/nextseq-1000-2000-reagents.html) (with their price).
+ * The kits in fact have more reagents than what is advertised on the product page and can run more cycles than the kit size. You can find the max number of cycles possible for each kit listed [here](https://support.illumina.com/bulletins/2016/10/how-many-cycles-of-sbs-chemistry-are-in-my-kit.html).
+ * The max number of cycles can be distributed as you want between read 1, read 2, index 1, index 2
+ * For example
+   * a P2 v3 kit with 100 cycles (max=138) could be used 
+     * - 130 bp on read 1, 8 bp on index 1
+     * 61 on read 1, 61 on read 8, 8 bp on index 1, 8 bp on index 2
+     * 28 on read 1, 90 on read 8, 10 bp on index 1, 10 bp on index 2
+   * a P3 kit with 50 cycles (max=88) could be used 
+     * 80 bp on read 1, 8 bp on index 1
+     * 41 on read 1, 41 on read 8, 6 bp on index 1
+ * Find a summary table [here](https://www.genecore.embl.de).
+
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
