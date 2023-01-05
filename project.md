@@ -12,7 +12,7 @@ Please join the Genomics Platform channel on the reNEW slack. If you don't have 
 If you are already familiar with our direct sequencing process (i.e. we have discussed it together in a meeting and given you all information so that you can use it), you can:
 
 - get details on the [Direct Sequencing Service](/directsequencing/)
-- submit a request [here](https://docs.google.com/forms/d/e/1FAIpQLSeSqTGVYCL0nbWNZZjvitcQ5drs0SUI86V3coCqVx7pSmD0FA/viewform)
+- submit a request [here](https://forms.office.com/e/Dgq0KkLsi3)
 
 ### Help on Computing
 
