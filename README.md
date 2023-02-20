@@ -5,6 +5,7 @@
 The Genomics Platform team consists of:
 
 - [Heike Wollmann](https://renew.ku.dk/people/?id=710763&vis=medarbejder): Sequencing Specialist
+- [Carina Emmerson](https://icmm.ku.dk/ansat/curis/?id=404570&vis=medarbejder): Laborant
 - [Adrija Kalvisa](https://renew.ku.dk/people/?id=645384&vis=medarbejder): Bioinformatics Specialist
 - [Magali Michaut](https://renew.ku.dk/people/?pure=en/persons/591326): Bioinformatics Specialist
 
