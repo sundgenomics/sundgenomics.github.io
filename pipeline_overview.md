@@ -50,7 +50,7 @@ Apart from maintaining in-house pipelines, Genomics Platform supports use of [sn
 
 #### SnakePipes
 
-To run snakepipes run the following command and follow the instructions. 
+To run snakepipes on dangpu server run the following command and follow the instructions. 
 
 ```bash
 module load miniconda/latest snakePipes/2.5.4
