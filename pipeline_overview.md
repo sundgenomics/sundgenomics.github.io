@@ -58,5 +58,4 @@ module load miniconda/latest snakePipes/2.5.4
 
 #### nf-core
 There is a [dangpu-specific profile](https://github.com/nf-core/configs/blob/master/docs/ku_sund_dangpu.md) available for nf-core pipelines. 
-Please see development (aka most uopdated) guidelines at https://github.com/AdrijaK/configs.
-
+Please see development (aka most uopdated) guidelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
