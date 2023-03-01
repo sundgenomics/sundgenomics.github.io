@@ -20,8 +20,9 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 
 ### CHORseq
 
-CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in
+CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in genome.
 - Inputs: .fastq files, a reference genome  
+- Options: single-end, paired-end, with and without spike-in
 - Outputs: indexed, sorted .bam files  
 - Software used: bowtie2, samtools, picard, multiQC, custom scripts  
 
@@ -29,11 +30,19 @@ CHORseq pipeline aligns reads in .fastq to a specified reference genome, using d
 
 ### ATACseq
 
-TBA
+ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on dm-6 genome separately.
+
+- Inputs: .fastq.gz files, a reference genome
+- Options: paired-end only
+- Outputs: indexed, sorted .bam files with chrM removed, .bw files
+- Software used: bowtie2, samtools, picard, multiQC, bedtools
 
 ### CHIPseq
 
-TBA
+- Inputs: .fastq.gz files, a reference genome
+- Options: single-end
+- Outputs: indexed, sorted .bam files with chrM removed. 
+- Software used: bowtie2, samtools, picard, multiQC
 
 ### COMMUNITY PIPELINES
 
