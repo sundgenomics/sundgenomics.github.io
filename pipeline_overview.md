@@ -59,3 +59,21 @@ module load miniconda/latest snakePipes/2.5.4
 #### nf-core
 A dangpu-specific profile available for [nf-core/configs](https://github.com/nf-core/configs). 
 Please see development (aka most uopdated) guidelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
+
+### Common genomes
+
+You can use refgenie for pre-built reference genomes. 
+```bash
+module load dangpu_libs python/3.7.13 refgenie/0.12.1
+```
+
+find available pre-built refgenie resources:
+```bash
+refgenie listr
+```
+
+find locally downloaded refgenie resources
+```bash
+refgenie seek mm10/bowtie2_index
+```
+[refgenie documentation](http://refgenie.databio.org/en/latest/)
