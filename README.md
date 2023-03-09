@@ -22,7 +22,7 @@ You did the onboarding meeting some time ago, but now is the time to actually st
 
 ### Project support
 
-The Genomics Plaform operates as a train-to-sequence and ready-to-sequence service for groups at [reNEW](https://renew.ku.dk), [CPR](https://www.cpr.ku.dk/research/facilities/genomics/) and [ICMM](https://icmm.ku.dk). If you have an open project with the Genomics Platform, you can find some more information [here](/project/).
+The Genomics Plaform operates as a train-to-sequence and ready-to-sequence service for groups at [reNEW](https://renew.ku.dk), [CPR](https://www.cpr.ku.dk/research/facilities/genomics/), CGEN and [ICMM](https://icmm.ku.dk). If you have an open project with the Genomics Platform, you can find some more information [here](/project/).
 
 ### Acknowledgments
 
