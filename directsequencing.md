@@ -52,5 +52,6 @@ If you have any suggestions to improve this process, please let us know.
      * 41 on read 1, 41 on read 2, 6 bp on index 1
  * Find a summary table [here](https://www.genecore.embl.de).
 
+![Summary table](./images/Illumina-Nextseq2000-kits.png)
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
