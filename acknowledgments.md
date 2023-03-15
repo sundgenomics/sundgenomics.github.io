@@ -19,3 +19,5 @@ If Computerome has been used at any point, it should also appear in the acknowle
 
 Please send us your manuscript before you submit: this gives us an opportunity to review and verify the technical details of the manuscript, as well as track the progress of the various projects the Genomics Platform supports. This also helps reporting our impact.
 
+
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
