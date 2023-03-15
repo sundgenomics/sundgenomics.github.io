@@ -32,6 +32,6 @@ Please remember to acknowledge the platform not only on your publications but al
 
 - [Onboarding](/onboarding/)
 - [Project](/project/)
-- [Direct sequencing](/directsequencing/)(submit a request [here](https://forms.office.com/e/Dgq0KkLsi3))
+- [Direct sequencing](/directsequencing/) (submit a request [here](https://forms.office.com/e/Dgq0KkLsi3))
 - [Pipelines](/pipeline_overview/)
 - [Acknowledgments](/acknowledgments/)
