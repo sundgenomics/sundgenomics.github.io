@@ -28,4 +28,10 @@ The Genomics Plaform operates as a train-to-sequence and ready-to-sequence servi
 
 Please remember to acknowledge the platform not only on your publications but also on any other internal or external dissemination materials (presentations, posters and similar). More details [here](/acknowledgments/).
 
+### Direct links to pages
 
+- [Onboarding](/onboarding/)
+- [Project](/project/)
+- [Direct sequencing](/directsequencing/)
+- [Pipelines](/pipeline_overview/)
+- [Acknowledgments](/acknowledgments/)
