@@ -77,3 +77,7 @@ find locally downloaded refgenie resources
 refgenie seek mm10/bowtie2_index
 ```
 [refgenie documentation](http://refgenie.databio.org/en/latest/)
+
+
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
+
