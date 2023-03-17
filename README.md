@@ -31,6 +31,7 @@ Please remember to acknowledge the platform not only on your publications but al
 ### Direct links to pages
 
 - [Onboarding](/onboarding/)
+- [PPMS](/ppms/)
 - [Project](/project/)
 - [Direct sequencing](/directsequencing/) (submit a request [here](https://forms.office.com/e/Dgq0KkLsi3))
 - [Pipelines](/pipeline_overview/)
