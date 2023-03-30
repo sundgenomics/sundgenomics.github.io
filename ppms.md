@@ -11,11 +11,11 @@ PPMS is the online booking and ordering system we use in all platforms at reNEW.
 
 ![ppms1](./images/ppms1.png)
 
-5. A new window pops up, select "reNEW internal recharging account"
+4. A new window pops up, select "reNEW internal recharging account"
 
 ![ppms2](./images/ppms2.png)
 
-7. Search for your Group and select the correct one, or just search for the account number and select it and then click Save at the bottom of the window
+5. Search for your Group and select the correct one, or just search for the account number and select it and then click Save at the bottom of the window
 
 ![ppms3](./images/ppms3.png)
  
