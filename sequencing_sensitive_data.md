@@ -15,12 +15,12 @@ The agreement covers both data and biological material.
    * When UCPH processes personal data for the Capital Region: When the University of Copenhagen processes personal data for the Capital Region of Copenhagen, the University of Copenhagen will receive instructions from the Capital Region of Denmark. The instructions must be uploaded in a [UCPH formular](https://kuforms.ku.dk/xform/frontend/FormEngine/v2/ShowForm.aspx?alias=FA3027&groupId=2&casefolderid=1&doctype=5&formid=4102), so that they can be archived in the University of Copenhagen's archiving system. 
     
 ### What do we need from you
-To be able to fill out the [UCPH formular](https://kuforms.ku.dk/xform/frontend/FormEngine/v2/ShowForm.aspx?alias=FA3027&groupId=2&casefolderid=1&doctype=5&formid=4102) beyond the part that is related to us (Registrant and Data processor),the Genomics Platform needs to know from you (see printscreens below):
+We will fill the [UCPH formular](https://kuforms.ku.dk/xform/frontend/FormEngine/v2/ShowForm.aspx?alias=FA3027&groupId=2&casefolderid=1&doctype=5&formid=4102) ourselves to register as Data Processor on your project. To be able to fill beyond the part that is related to us (Registrant and Data processor),the Genomics Platform needs to know from you (see printscreens below):
    * Registration of data controller: Organization, Person, Address
    * Specify purpose: Which box(es) to tick + text description
    * Master Agreement journal number in WorkZone (if any)
    * Specify which data are transferred to companies or collaboration partners (if any)
-   * THE DATA PROCESSOR AGREEMENT OR THE DATA PROCESSING INSTRUCTIONS FROM THE CAPITAL REGION OF COPENHAGEN
+   * The data processor agreement or the data processing instructions from the Capital Region of Copenhagen
 
 ![Form1](./images/Workzone-group515-Form1.png)
 ![Form2](./images/Workzone-group515-Form2.png)
