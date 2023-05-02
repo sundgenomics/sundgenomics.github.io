@@ -23,5 +23,7 @@ To be able to fill out the [UCPH formular](https://kuforms.ku.dk/xform/frontend/
     * Technical and organisational security measures
     * THE DATA PROCESSOR AGREEMENT OR THE DATA PROCESSING INSTRUCTIONS FROM THE CAPITAL REGION OF COPENHAGEN
 
+![Form1](./images/Workzone-group515-Form1.png)
+![Form2](./images/Workzone-group515-Form2.png)
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
