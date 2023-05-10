@@ -31,7 +31,7 @@ location: 4.5.17 and zoom
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
 
-**31-May-2023	(week 22)**	 
+**31-May-2023	(week 22)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
 
