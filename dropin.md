@@ -24,7 +24,7 @@ We look forward to see many of you :-)
 # Upcoming supporrt sessions
 
 The weekly support sessions are normally held on Wednesdays 13:00-14:00 in the room 4.5.17, hosted by Adrija and Sen. 
-However, sometimes there is a change a location or host availability. Please refer to the list below to see most updated information on the upcoming sessions. 
+However, sometimes there is a change a location or host availability. Please refer to the list below to see the most updated information on the upcoming sessions. 
 
 **10-May-2023 (week 19)**  
 time: 13:00-14:00  
