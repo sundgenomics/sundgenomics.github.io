@@ -57,3 +57,5 @@ location: 4.5.17 and zoom
 **18-Jun-2023	(week 28)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+
+Go back to the [Genomics Platform home]()
