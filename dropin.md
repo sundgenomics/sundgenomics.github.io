@@ -8,8 +8,8 @@ The reNEW/CPR genomics platform together with reNEW system administrator Sen Li 
 - Assistance in data exploration (Adrija)
 - Code reviews to improve research reproducibility (Adrija)
 
-[Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://alumni.sharepoint.com/:x:/s/UCPH_SUND_GENOMICS_PLATFORM/Eaatkti-0o5HhmAHMnrLOZYBc2OfmxNl8WMQEZw0whuA2w?e=EgOZx7). Normally we allocate 20-30 minutes per person.
- 
+[Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://forms.office.com/e/Xz1NZxXAgX). 
+
 We look forward to see many of you :-)
 
 # Upcoming support sessions
