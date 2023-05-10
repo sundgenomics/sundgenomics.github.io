@@ -12,7 +12,7 @@ The reNEW/CPR genomics platform together with reNEW system administrator Sen Li 
  
 We look forward to see many of you :-)
 
-# Upcoming supporrt sessions
+# Upcoming support sessions
 
 The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00-14:00 and on zoom and are hosted by Adrija (adrija.kalvisa@sund.ku.dk) and Sen (sen.li@sund.ku.dk).  
 
