@@ -9,14 +9,7 @@ The reNEW/CPR genomics platform together with reNEW system administrator Sen Li 
 - Code reviews to improve research reproducibility (Adrija)
  
 The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00-14:00 and on zoom and are hosted by Adrija (adrija.kalvisa@sund.ku.dk) and Sen (sen.li@sund.ku.dk). 
- 
-How to prepare for data exploration:
-- Think of your question in advance
-- Start your R session and load your current datasets, make sure necessary libraries are installed
- 
-How to prepare for troubleshooting:
-- Make sure that the error message is displayed along with the code that caused it
- 
+
 [Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://alumni.sharepoint.com/:x:/s/UCPH_SUND_GENOMICS_PLATFORM/Eaatkti-0o5HhmAHMnrLOZYBc2OfmxNl8WMQEZw0whuA2w?e=EgOZx7). Normally we allocate 20-30 minutes per person.
  
 We look forward to see many of you :-)
