@@ -25,8 +25,9 @@ The agreement covers both data and biological material.
 
 **For data controllers at KU**
    * Link to the data processing agreement registration in  [Workzone - group 515](https://kuforms.ku.dk/xform/frontend/FormEngine/v2/ShowForm.aspx?alias=FA3027&groupId=2&casefolderid=1&doctype=5&formid=4102)
+   * Confirmation that our practical workflow is in agreement with you data processing agreement
 
-**For data controllers at Capital Region od Denmark (Region H)**
+**For data controllers at Capital Region of Denmark (Region H)**
 
 If your collaboration is covered by the general data processing agreement, the genomics Platform will fill [UCPH formular](https://kuforms.ku.dk/xform/frontend/FormEngine/v2/ShowForm.aspx?alias=FA3027&groupId=2&casefolderid=1&doctype=5&formid=4102) to register as Data Processor on your project. To be able to fill beyond the part that is related to the Platform (Registrant and Data processor), the Genomics Platform needs to know from you (see printscreens below):
    * Registration of data controller: Organization, Person, Address
