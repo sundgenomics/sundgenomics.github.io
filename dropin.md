@@ -8,13 +8,13 @@ The reNEW/CPR genomics platform together with reNEW system administrator Sen Li 
 - Assistance in data exploration (Adrija)
 - Code reviews to improve research reproducibility (Adrija)
 
-[Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://forms.office.com/e/Xz1NZxXAgX). 
+[Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://forms.office.com/e/Xz1NZxXAgX)
 
 We look forward to see many of you :-)
 
 # Upcoming support sessions
 
-The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00-14:00 and on zoom and are hosted by Adrija (adrija.kalvisa@sund.ku.dk) and Sen (sen.li@sund.ku.dk).  
+The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00-14:00 and on zoom and are hosted by [Adrija Kalvisa](https://renew.ku.dk/people/?id=645384&vis=medarbejder) and [Sen Li](https://renew.ku.dk/people/?pure=en/persons/458863)
 
 However, sometimes there is a change a location or host availability. Please refer to the list below to see the most updated information on the upcoming sessions.  
 
