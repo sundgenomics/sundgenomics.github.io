@@ -39,7 +39,7 @@ If your collaboration is covered by the general data processing agreement, the g
 ### Our practical workflow
 For sensitive data projects, we will generate raw sequencing data on the sequencer only and sync the data also only on the sequencer while it's running (for other runs, we sync the data onto a N-drive while sequencing, but this is not allowed for sensitive data). After that, we need you to indicate on which location we can transfer the data, e.g.:
    * Your project-specific S-drive, to which we need access
-   * You project on [SIF](https://sif.ku.dk) (e.g. ERDA solution for sensitive data)
+   * You project on [SIF](https://sif.ku.dk) (e.g. ERDA solution for sensitive data), to which we need access
 
 ![Form1](./images/Workzone-group515-Form1.png)
 ![Form2](./images/Workzone-group515-Form2.png)
