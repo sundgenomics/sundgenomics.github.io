@@ -21,37 +21,46 @@ However, sometimes there is a change a location or host availability. Please ref
 **17-May-2023	(week 20)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
 **24-May-2023	(week 21)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Sen
 
 **31-May-2023	(week 22)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
 **7-Jun-2023	(week 23)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
 **14-Jun-2023	(week 24)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Sen
 
-**15-Jun-2023	(week 25)**  
+**21-Jun-2023	(week 25)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
-**16-Jun-2023	(week 26)**  
+**28-Jun-2023	(week 26)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
-**17-Jun-2023	(week 27)**  
+**5-Jul-2023	(week 27)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
-**18-Jun-2023	(week 28)**  
+**12-Jul-2023	(week 28)**  
 time: 13:00-14:00  
 location: 4.5.17 and zoom  
+hosts: Adrija, Sen
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
