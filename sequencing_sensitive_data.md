@@ -1,7 +1,21 @@
 ## Sequencing Sensitive Data
 
-### Patient sequences are sensitive data
-Whether the genomics sequences in themselves without any annotation and related patient data are sensitive or not is a grey zone in the field. However, following hospitals, genomics data repository and a general sense of restriction from the Danish regulations, the Genomics Platform consider the genomics sequences to be sensitive data by themselves and has to treat them as such. 
+### Patient sequences can contain sensitive data
+
+NGS sequences derived from living persons have a potential to contain sensitive personal data subjected to GDPR and Danish National Data protection law, therefore you should think if your sequencing project will need safe handling/storage procedures suited for handling sensitive personal data. You need to obtain a permission from your local Data Protection Agency and consent from the study subjects to store the data on special repositories. You can use [EMBL-EBI submission wizard](https://www.ebi.ac.uk/submission/) to understand where your data should be uploaded.
+
+Not all sequencing technologies produce sensitive data - please consider if you can select a sequencing method that restricts the possibility of re-identification of individuals from a raw sequencing file.
+
+Sequencing assays that produce sensitive data: 
+
+- whole genome sequencing  
+- full length RNA sequencing (for example, standard bulk RNA-seq)  
+- microbiome sequencing (contains human DNA contamination)  
+
+Sequencing assays that produce non-sensitive data:
+
+- for RNA expression analysis: 3’ or 5’ DGE. This is a cost-effective alternative to full-length transcriptome sequencing for either sc-RNA applications or bulk RNA. The output of these sequencing assays does not contain enough of SNPs to re-identify Individuals and can be treated as regular data.  
+
 
 ### Data Processing Agreements and Roles
 Processing of sensitive data requires a data processing agreement defining the roles of data controller and data processor(s) as well as how data will be handled between those roles. Genérally speaking, if you come to use with a data containing sensitive data (e.g. sequencing libraries from patient samples), you are the data controller and the Genomics Platform is the (or one of the) data processor.
