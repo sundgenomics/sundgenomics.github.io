@@ -2,7 +2,7 @@
 
 ### Patient sequences can contain sensitive data
 
-NGS sequences derived from living persons have a potential to contain sensitive personal data subjected to GDPR and Danish National Data protection law, therefore you should think if your sequencing project will need safe handling/storage procedures suited for handling sensitive personal data. You need to obtain a permission from your local Data Protection Agency and consent from the study subjects to store the data on special repositories. You can use [EMBL-EBI submission wizard](https://www.ebi.ac.uk/submission/) to understand where your data should be uploaded.
+NGS sequences derived from living persons can contain sensitive personal data subjected to GDPR and Danish National Data protection law, therefore you should think if your sequencing project will need safe handling/storage procedures suited for handling sensitive personal data. You need to obtain a permission from your local Data Protection Agency and consent from the study subjects to store the data on special repositories. You can use [EMBL-EBI submission wizard](https://www.ebi.ac.uk/submission/) to understand where your data should be uploaded for publication.
 
 Not all sequencing technologies produce sensitive data - please consider if you can select a sequencing method that restricts the possibility of re-identification of individuals from a raw sequencing file.
 
@@ -12,10 +12,7 @@ Sequencing assays that produce sensitive data:
 - full length RNA sequencing (for example, standard bulk RNA-seq)  
 - microbiome sequencing (contains human DNA contamination)  
 
-Sequencing assays that produce non-sensitive data:
-
-- for RNA expression analysis: 3’ or 5’ DGE. This is a cost-effective alternative to full-length transcriptome sequencing for either sc-RNA applications or bulk RNA. The output of these sequencing assays does not contain enough of SNPs to re-identify Individuals and can be treated as regular data.  
-
+If you are in doubt, please contact the KU Data Protection Officer (dpo@sund.ku.dk).
 
 ### Data Processing Agreements and Roles
 Processing of sensitive data requires a data processing agreement defining the roles of data controller and data processor(s) as well as how data will be handled between those roles. Genérally speaking, if you come to use with a data containing sensitive data (e.g. sequencing libraries from patient samples), you are the data controller and the Genomics Platform is the (or one of the) data processor.
