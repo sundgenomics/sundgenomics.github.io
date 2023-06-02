@@ -12,7 +12,7 @@ Sequencing assays that produce sensitive data:
 - full length RNA sequencing (for example, standard bulk RNA-seq)  
 - microbiome sequencing (contains human DNA contamination)  
 
-If you are in doubt, please contact the KU Data Protection Officer (dpo@sund.ku.dk).
+If you are in doubt, please contact the KU Data Protection Officer.
 
 ### Data Processing Agreements and Roles
 Processing of sensitive data requires a data processing agreement defining the roles of data controller and data processor(s) as well as how data will be handled between those roles. Genérally speaking, if you come to use with a data containing sensitive data (e.g. sequencing libraries from patient samples), you are the data controller and the Genomics Platform is the (or one of the) data processor.
