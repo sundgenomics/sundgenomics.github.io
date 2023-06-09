@@ -18,15 +18,9 @@ The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00
 
 However, sometimes there is a change a location or host availability. Please refer to the list below to see the most updated information on the upcoming sessions.  
 
-**24-May-2023	(week 21)**  
-time: 13:00-14:00  
-location: 4.5.17 and zoom  
-hosts: Sen
 
-**31-May-2023	(week 22)**  
-time: 13:00-14:00  
-location: 4.5.17 and zoom  
-hosts: Adrija, Sen
+
+
 
 **7-Jun-2023	(week 23)**  
 time: 13:00-14:00  
