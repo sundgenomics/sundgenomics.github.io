@@ -32,6 +32,8 @@ This is a sequencing service we provide for scientists who have experience with 
      * We check that we have the required files at least the day before the schedule sequencing date
 4. You place the submission pool in the freezer
      * Indicate on the tube the submission_ID and the concentration
+     * min. 10ul at 4nM (fully QCed library pools only)
+     * min. 10ul at 10nM (single or pooled libraries for platform QC)
 
 During that process, if there is any question or change, please email us at genomics@sund.ku.dk mentioning the submission_ID.
 
