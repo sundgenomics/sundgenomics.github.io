@@ -7,7 +7,12 @@ In this program participants engage in pre-made online courses to boost their da
 
 ## How does Peer Learning work? 
 
-First, genomics platform offers a matchmaking for people interested in participating in pre-made online courses. The matchmaking is done by filling a form. When there is enough of participants interested in the same course, Genomics Platform forma a Peer learning team and organizes an information meeting. During the information meeting participants sign up to pre-made online in learning platforms such as Coursera, DataCamp, Udemy or similar. 
+First, genomics platform offers a matchmaking for people interested in participating in pre-made online courses. The matchmaking is done by filling a form. When there is enough of participants interested in the same course, Genomics Platform creates a Peer Learning Team and organizes an information meeting. During the information meeting participants sign up to pre-made online in learning platforms such as Coursera, DataCamp, Udemy or similar. 
+
+## Course Completion
+
+Since these are online courses, each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and receiving a course completion certificate from the platform, participants must remember to unsubscribe from the learning platform to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
+
 
 ## Financial Responsibility for Courses 
 
@@ -16,11 +21,6 @@ Peer Learning participants are responsible for coordinating with their Principal
 ## Course Registration Process 
 
 To sign up for courses, please fill out the Matchmaking form, which will help us identify the most sought-after courses among participants. The top three courses will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the autumn semester. During an information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
-
-
-## Course Completion
-
-Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course, participants must remember to unsubscribe to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
 
 ## Coordination Opportunities 
 
