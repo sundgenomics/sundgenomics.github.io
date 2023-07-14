@@ -29,7 +29,7 @@ For those interested in taking a more active role, becoming a course coordinator
 ## Mark your calendars
 Please mark your calendars with the following dates for Peer Learning events:
 
-**Tuesday, August 22**
+**Tuesday, August 22**  
 Faculty Lounge 7.15.149 (Mærsk building)  
 13:30-14:30  There will be an opportunity to suggest courses of interest during the first Bioinformatics Peer CommunityChat (ChatBPC).
 
