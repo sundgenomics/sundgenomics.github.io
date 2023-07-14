@@ -9,7 +9,7 @@ In this program participants engage in pre-made online courses to boost their da
 
 Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and presenting a completion certificate, Genomics Platform will issue a Peer Learning certificate.
 
-Financial Responsibility for Courses 
+## Financial Responsibility for Courses 
 
 Peer Learning participants are responsible for coordinating with their Principal Investigators (PIs) regarding the funding of the online courses. While some groups may have a credit card to cover the subscription-based payment model, others can seek reimbursement. It is highly encouraged by the management of CPR and renEW for researchers who require bioinformatics training to take advantage of these courses.
 
