@@ -29,21 +29,21 @@ For those interested in taking a more active role, becoming a course coordinator
 ## Mark your calendars
 Please mark your calendars with the following dates for Peer Learning events:
 
-**Tuesday, August 22nd **
+**Tuesday, August 22nd**  
 13:30-14:30 There will be an opportunity to suggest courses of interest during the first Bioinformatics Peer CommunityChat (ChatBPC).
 
-**Wednesday, August 30th**
+**Wednesday, August 30th**  
 11:00 – 12:00 Opening of Peer Learning v.2, including signup and information session.
 
-**Wednesday, October 4th**
+**Wednesday, October 4th**  
 11:00 – 11:30: Updates, closing, and feedback session for Peer Learning v.2.
 11:30 – 12:00: Opening of Peer Learning v.3, including signup and information session.
 
-**Wednesday, November 8th**
+**Wednesday, November 8th**  
 11:00 – 11:30: Updates and feedback session for Peer Learning v.3.
 11:30 – 12:00: Opening of Peer Learning v.4, including signup and information session.
 
-**Friday, December 8th**
+**Friday, December 8th**  
 11:00 – 12:00: Closing of Peer Learning v.4. End of the year get-together for all participants, where certificates will be awarded, feedback will be shared, and an opportunity to socialize will be provided.
 
 We wish you success in connecting with your peers and learning new skills!
