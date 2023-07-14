@@ -52,3 +52,5 @@ Faculty Lounge 7.15.107A (Mærsk building)
 11:00 – 12:00  Closing of Peer Learning v.4 and End of the year get-together for all participants, where certificates will be awarded, feedback will be shared, and an opportunity to socialize will be provided.
 
 We wish you success in connecting with your peers and learning new skills!
+
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
