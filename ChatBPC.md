@@ -33,7 +33,7 @@ There will be refreshments!
  
 ## Feedback
 
-We would love to hear your input! Please suggest topics for discussion via this survey. Submit your suggestions by noon in the day before the meeting, and it will be included in the meeting agenda. 
+We would love to hear your input! [Please suggest topics for discussion via this survey](https://forms.office.com/e/Za6KbsrBsW). Submit your suggestions by noon in the day before the meeting, and it will be included in the meeting agenda. 
 Don't miss out on this excellent opportunity to connect and chat! We will be happy to see as many of you as possible!
 
 
