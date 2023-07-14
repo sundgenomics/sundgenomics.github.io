@@ -1,6 +1,6 @@
 # Peer Learning
 
-Peer Learning is an ongoing training initiative by CPR/reNEW Genomics Platform with an aim to create a learning community within the research centers that are supported by the Genomics Platform.
+Peer Learning is an ongoing training initiative by CPR/reNEW Genomics Platform with an aim to create a learning community within the research centers that are supported by the Genomics Platform: NNF reNEW, NNF CPR, ICMM and CGEN.
 
 In this program participants engage in pre-made online courses to boost their data analysis literacy and bioinformatics skills. It serves as a platform for researchers to come together and learn from each other's experiences.
 
