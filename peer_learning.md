@@ -7,7 +7,7 @@ In this program participants engage in pre-made online courses to boost their da
 
 ## How does Peer Learning work? 
 
-Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and presenting a completion certificate, Genomics Platform will issue a Peer Learning certificate.
+Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. 
 
 ## Financial Responsibility for Courses 
 
@@ -20,7 +20,7 @@ To sign up for courses, please fill out the Matchmaking form, which will help us
 
 ## Course Completion
 
-Upon finishing a course, participants must remember to unsubscribe to avoid recurring charges.
+Upon finishing a course, participants must remember to unsubscribe to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
 
 ## Coordination Opportunities 
 
@@ -29,21 +29,26 @@ For those interested in taking a more active role, becoming a course coordinator
 ## Mark your calendars
 Please mark your calendars with the following dates for Peer Learning events:
 
-**Tuesday, August 22**  
+**Tuesday, August 22**
+Faculty Lounge 7.15.149 (Mærsk building)
 13:30-14:30  There will be an opportunity to suggest courses of interest during the first Bioinformatics Peer CommunityChat (ChatBPC).
 
 **Wednesday, August 30**  
+Faculty Lounge 7.15.107A (Mærsk building)
 11:00 – 12:00  Opening of Peer Learning v.2, including signup and information session.  
 
 **Wednesday, October 4**  
+Classroom 13.1.63 (Mærsk building)
 11:00 – 11:30  Updates, closing, and feedback session for Peer Learning v.2.  
 11:30 – 12:00  Opening of Peer Learning v.3, including signup and information session.  
 
 **Wednesday, November 8**  
+Classroom 21.2.14 (Panum building)
 11:00 – 11:30  Updates and feedback session for Peer Learning v.3.  
 11:30 – 12:00  Opening of Peer Learning v.4, including signup and information session.  
 
 **Friday, December 8**  
+Faculty Lounge 7.15.107A (Mærsk building)
 11:00 – 12:00  Closing of Peer Learning v.4 and End of the year get-together for all participants, where certificates will be awarded, feedback will be shared, and an opportunity to socialize will be provided.
 
 We wish you success in connecting with your peers and learning new skills!
