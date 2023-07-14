@@ -4,10 +4,10 @@ Chat for Bioinformatics Peer Community (ChatBPC) is an informal Bioinformatician
 Join us for an informal gathering aimed to activate the bioinformatics community at reNEW, CPR, ICMM and CGEN.
 
 ## Date and Time
-Tuesday, 22 August 2023: 13:00 - 14:00
-Thursday, 28 September 2023: 14:00 - 15:00
-Wednesday, 1 November 2023: 11:00 - 12:00
-Wednesday, 13 December 2023: 10:30 - 11:30
+Tuesday, 22 August 2023: 13:00 - 14:00  
+Thursday, 28 September 2023: 14:00 - 15:00  
+Wednesday, 1 November 2023: 11:00 - 12:00  
+Wednesday, 13 December 2023: 10:30 - 11:30  
  
 ## Place
 Faculty Lounge 7.15.149 (Maersk tower)
