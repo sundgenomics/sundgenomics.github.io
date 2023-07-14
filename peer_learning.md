@@ -7,7 +7,7 @@ In this program participants engage in pre-made online courses to boost their da
 
 ## How does Peer Learning work? 
 
-Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. 
+First, genomics platform offers a matchmaking for people interested in participating in pre-made online courses. The matchmaking is done by filling a form. When there is enough of participants interested in the same course, Genomics Platform forma a Peer learning team and organizes an information meeting. During the information meeting participants sign up to pre-made online in learning platforms such as Coursera, DataCamp, Udemy or similar. 
 
 ## Financial Responsibility for Courses 
 
@@ -20,7 +20,7 @@ To sign up for courses, please fill out the Matchmaking form, which will help us
 
 ## Course Completion
 
-Upon finishing a course, participants must remember to unsubscribe to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
+Each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course, participants must remember to unsubscribe to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
 
 ## Coordination Opportunities 
 
