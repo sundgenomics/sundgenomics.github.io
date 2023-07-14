@@ -17,15 +17,16 @@ The meetings will take one hour, with an opportunity to use Maersk tower space a
 
 Each meeting will be divided into three theme slots:
 
-**1. Fantastic Pipelines & where to find them**
+
+**1. Fantastic Pipelines & where to find them**  
 beginner-friendly tools for bioinformatics 
 
-**2. Intermediate Bioinformagics**
+**2. Intermediate Bioinformagics**  
 discuss assay-specific data analysis and integration approaches
 
-
-**3. Advanced Sorcery**
+**3. Advanced Sorcery**  
 discuss machine learning, present new techniques, present open problems
+
 
 The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR, reNEW
 There will be refreshments!
