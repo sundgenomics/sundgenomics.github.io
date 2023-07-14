@@ -11,7 +11,7 @@ First, genomics platform offers a matchmaking for people interested in participa
 
 ## Course Completion
 
-Since these are online courses, each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and receiving a course completion certificate from the platform, participants must remember to unsubscribe from the learning platform to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge teh effort, Genomics Platform will issue a Peer Learning certificate to the participant.
+Since these are online courses, each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and receiving a course completion certificate from the platform, participants must remember to unsubscribe from the learning platform to avoid recurring charges. When a participant finished the course and presents the certificate of completion, to acknowledge the effort, Genomics Platform will issue a Peer Learning certificate to the participant.
 
 
 ## Financial Responsibility for Courses 
