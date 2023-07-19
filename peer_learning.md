@@ -7,25 +7,25 @@ In this program participants engage in pre-made online courses to boost their da
 
 ## How does Peer Learning work? 
 
-- First, genomics platform offers a matchmaking for people interested in participating in pre-made online courses or tutorials.
+- First, people interested in participating the program fill the MATCHMAKING FORM.
 - The matchmaking is done by filling a microsoft form.
 - When there is enough of participants interested in the same course, Genomics Platform creates a Peer Learning Team and organizes an information meeting in the nearest available timeslot available. 
-- During the information meeting participants sign up to pre-made online courses hosted in learning platforms such as Coursera, DataCamp, Udemy or similar.
+- During the information meeting participants sign up to pre-made online courses hosted in learning platforms such as Coursera, DataCamp, Udemy or similar - or to selected free online ttutorials.
 - During the information meeting there is an opportunity for Peer Learning members to elect a coordinator among themselves.
 - If no coordinator is elected, a Genomics Platform staff member (Adrija) coordinates the team during the course duration. 
 
 ## Course Completion
 
-Since these are online courses, each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and receiving a course completion certificate from the online learning platform, participants must remember to unsubscribe from the learning platform to avoid recurring charges (if the course is not free). When a participant finished the course and presents the certificate of completion, to acknowledge the effort, Genomics Platform will issue a Peer Learning certificate to the participant.
+Since the Peer Learning takes advantage of online courses/tutorials, each participant can progress through the courses at their own pace, but we suggest setting aside one month for a course that takes approximately 4-6 hours to complete. Upon finishing a course and receiving a course completion certificate from the online learning platform, participants must remember to unsubscribe from the learning platform to avoid recurring charges (if the course is not free). When a participant finishes the course and presents the certificate of completion, to acknowledge the effort, Genomics Platform issues a Peer Learning Certificate with KU credentials to the participant.
 
 
 ## Financial Responsibility for Courses 
 
-Peer Learning participants are responsible for agreeing with their Principal Investigators (PIs) regarding the funding of the online courses. While some groups may have a credit card to cover the subscription-based payment model, others can seek reimbursement. It is highly encouraged by the management of CPR and renEW for researchers who require bioinformatics training to take advantage of these courses.
+Peer Learning participants are responsible for agreeing with their Principal Investigators (PIs) regarding the funding of the online courses. While some groups may have a credit card to cover the subscription-based payment model, others can seek reimbursement. It is highly encouraged by the management of CPR and reNEW for researchers who require bioinformatics training to take advantage of these courses.
 
 ## Course Registration Process 
 
-To sign up for courses, please fill out the Matchmaking form, which will help us identify the most sought-after courses among participants. The top three courses will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the autumn semester. During an information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
+To sign up for courses, please fill out the MATCHMAKING FORM, which will help us identify the most sought-after courses among participants. The top three courses will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the autumn semester. During an information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
 
 ## Coordination Opportunities 
 
