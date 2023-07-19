@@ -28,7 +28,8 @@ discuss assay-specific data analysis and integration approaches
 discuss machine learning, present new techniques, present open problems
 
 
-The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR, reNEW
+The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR, reNEW.  
+
 There will be refreshments!
  
 ## Feedback
