@@ -18,67 +18,87 @@ The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00
 
 However, sometimes there is a change a location or host availability. Please refer to the list below to see the most updated information on the upcoming sessions.  
 
-09/Aug/23 (week 32)
-hosts: Adrija/Sen
+09/Aug/23 (week 32)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-16/Aug/23 (week 33)
-hosts: Adrija/Sen
+16/Aug/23 (week 33)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-23/Aug/23 (week 34)
-hosts: Adrija/Sen
+23/Aug/23 (week 34)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-30/Aug/23 (week 35)
-hosts: Adrija/Sen
+30/Aug/23 (week 35)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-06/Sep/23 (week 36)
-hosts: Adrija/Sen
+06/Sep/23 (week 36)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-13/Sep/23 (week 37)
-hosts: Adrija/Sen
+13/Sep/23 (week 37)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-20/Sep/23 (week 38)
-hosts: Adrija/Sen
+20/Sep/23 (week 38)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-27/Sep/23 (week 39)
-hosts: Adrija/Sen
+27/Sep/23 (week 39)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-04/Oct/23 (week 40)
-hosts: Adrija/Sen
+04/Oct/23 (week 40)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-11/Oct/23 (week 41)
-hosts: Adrija/Sen
+11/Oct/23 (week 41)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-18/Oct/23 (week 42)
-hosts: Sen      	
+18/Oct/23 (week 42)  
+hosts: Sen  
+room: 4.5.17  
 
-25/Oct/23 (week 43)
-hosts: Adrija/Sen
+25/Oct/23 (week 43)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-01/Nov/23 (week 44)
-hosts: Adrija/Sen
+01/Nov/23 (week 44)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-08/Nov/23 (week 45)
-hosts: Adrija/Sen
+08/Nov/23 (week 45)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-15/Nov/23 (week 46)
-hosts: Adrija/Sen
+15/Nov/23 (week 46)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-22/Nov/23 (week 47)
-hosts: Adrija/Sen
+22/Nov/23 (week 47)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-29/Nov/23 (week 48)
-hosts: Adrija/Sen
+29/Nov/23 (week 48)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-06/Dec/23 (week 49)
-hosts: Adrija/Sen
+06/Dec/23 (week 49)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-13/Dec/23 (week 50)
-hosts: Adrija/Sen
+13/Dec/23 (week 50)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-20/Dec/23 (week 51)
-hosts: Adrija/Sen
+20/Dec/23 (week 51)  
+hosts: Adrija/Sen  
+room: 4.5.17  
 
-27/Dec/23 (week 52)
-winter holidays
+27/Dec/23 (week 52)  
+winter holidays  
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
