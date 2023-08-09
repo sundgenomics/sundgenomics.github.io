@@ -7,10 +7,13 @@ In this program participants engage in pre-made online courses to boost their da
 
 ## How does Peer Learning work? 
 
-- First, people interested in participating the program fill the MATCHMAKING FORM.
-- When there is enough of participants interested in the same course, Genomics Platform creates a Peer Learning Team and organizes an information meeting for the team in the nearest available timeslot. 
+- First, fill the [MATCHMAKING FORM](https://forms.office.com/e/JEpg10V4t1)
+  
+- When there is enough of participants interested in the same course (n>4), Genomics Platform creates a Peer Learning Team and organizes an information meeting for the team in the nearest available timeslot.
+  
 - During the information meeting participants sign up to pre-made online courses hosted in learning platforms such as Coursera, DataCamp, Udemy or similar - or to selected free online tutorials.
-- During the information meeting there is an opportunity for Peer Learning members to elect a coordinator among themselves.
+  
+- During the information meeting there is an opportunity for Peer Learning members to elect a coordinator among themselves.  
 
 ## Course Completion
 
