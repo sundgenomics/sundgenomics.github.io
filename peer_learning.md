@@ -20,7 +20,7 @@ Since the Peer Learning takes advantage of online courses/tutorials, each partic
 
 ## Financial Responsibility for Courses 
 
-Peer Learning participants are responsible for agreeing with their Principal Investigators (PIs) regarding the funding of the online courses. While some groups may have a credit card to cover the subscription-based payment model, others can seek reimbursement. It is highly encouraged by the management of CPR and reNEW for researchers who require bioinformatics training to take advantage of these courses.
+Peer Learning participants are responsible for agreeing with their Principal Investigators (PIs) regarding the funding. While some groups may have a credit card to cover the subscription-based payment model, others can seek reimbursement. It is highly encouraged by the management of CPR and reNEW for researchers who require bioinformatics training to take advantage of these courses.
 
 ## Course Registration Process 
 
