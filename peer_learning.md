@@ -26,11 +26,11 @@ Peer Learning participants are responsible for agreeing with their Principal Inv
 
 ## Course Registration Process 
 
-To sign up for courses, please fill out the MATCHMAKING FORM, which will help us identify the most sought-after courses among participants. The top three courses will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the autumn semester. During an information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
+To sign up for courses, please fill out the [MATCHMAKING FORM](https://forms.office.com/e/JEpg10V4t1), which will help us identify the most sought-after courses among participants. The courses with more than 3 people interested will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the 2023 autumn semester (August 30, October 4, November 8). During the information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
 
 ## Coordination Opportunities 
 
-For those interested in taking a more active role, becoming a course coordinator is a possibility. After a Peer Learning teem is formed, participants have an opportunity to volunteer as a coordinator during the time the team goes through the course.  As a coordinator, you will help organize regular meet-ups for your learning team, track progress, and offer support. This role does not require advanced computational knowledge, and coordinators will receive a special KU certificate for their efforts. At the end of the year, a special thanks will be given to all the course coordinators in the closing event on Friday, December 8th. 
+For those interested in taking a more active role, becoming a course coordinator is a possibility. After a Peer Learning teem is formed, participants have an opportunity to volunteer as a coordinator during the time the team goes through the course.  As a coordinator, you will help organize regular meet-ups for your learning team, track progress, and offer support. This role does NOT require advanced computational knowledge, and coordinators will receive a special KU certificate for their efforts. At the end of the year, a special thanks will be given to all the course coordinators in the closing event on Friday, December 8th. 
 
 ## Mark your calendars
 Please mark your calendars with the following dates for Peer Learning events:
