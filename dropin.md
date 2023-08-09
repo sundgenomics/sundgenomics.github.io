@@ -18,87 +18,87 @@ The drop-in sessions take place in the room 4.5.17 every Wednesday between 13:00
 
 However, sometimes there is a change a location or host availability. Please refer to the list below to see the most updated information on the upcoming sessions.  
 
-09/Aug/23 (week 32)  
+09 Aug 2023 (week 32)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-16/Aug/23 (week 33)  
+16 Aug 2023 (week 33)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-23/Aug/23 (week 34)  
+23 Aug 2023 (week 34)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-30/Aug/23 (week 35)  
+30 Aug 2023 (week 35)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-06/Sep/23 (week 36)  
+06 Sep 2023 (week 36)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-13/Sep/23 (week 37)  
+13 Sep 2023 (week 37)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-20/Sep/23 (week 38)  
+20 Sep 2023 (week 38)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-27/Sep/23 (week 39)  
+27 Sep 2023 (week 39)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-04/Oct/23 (week 40)  
+04 Oct 2023 (week 40)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-11/Oct/23 (week 41)  
+11 Oct 2023 (week 41)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-18/Oct/23 (week 42)  
+18 Oct 2023 (week 42)  
 hosts: Sen  
 room: 4.5.17  
 
-25/Oct/23 (week 43)  
+25 Oct 2023 (week 43)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-01/Nov/23 (week 44)  
+01 Nov 2023 (week 44)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-08/Nov/23 (week 45)  
+08 Nov 2023 (week 45)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-15/Nov/23 (week 46)  
+15 Nov 2023 (week 46)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-22/Nov/23 (week 47)  
+22 Nov 2023 (week 47)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-29/Nov/23 (week 48)  
+29 Nov 2023 (week 48)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-06/Dec/23 (week 49)  
+06 Dec 2023 (week 49)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-13/Dec/23 (week 50)  
+13 Dec 2023 (week 50)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-20/Dec/23 (week 51)  
+20 Dec 2023 (week 51)  
 hosts: Adrija/Sen  
 room: 4.5.17  
 
-27/Dec/23 (week 52)  
+27 Dec 2023 (week 52)  
 winter holidays  
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
