@@ -10,7 +10,7 @@ The reNEW/CPR genomics platform together with reNEW system administrator Sen Li 
 
 [Sign up here to help yourself (and us) to estimate how long is your waiting time at the session](https://forms.office.com/e/Xz1NZxXAgX)
 
-We look forward to see many of you :-)
+We look forward to see many of you!
 
 # Upcoming support sessions
 
