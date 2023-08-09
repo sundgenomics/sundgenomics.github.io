@@ -37,5 +37,5 @@ Please remember to acknowledge the platform not only on your publications but al
 - [Pipelines](/pipeline_overview/)
 - [Sensitive data](/sequencing_sensitive_data_2/)
 - [Weekly Computational Support](/dropin/)
+- [Peer learning](/peer_learning/)
 - [Acknowledgments](/acknowledgments/)
-
