@@ -27,7 +27,7 @@ hosts: Adrija/Sen
 room: 4.5.17  
 
 **23 Aug 2023 (week 34)**  
-hosts: Adrija/Sen  
+hosts: Adrija 
 room: 4.5.17  
 
 **30 Aug 2023 (week 35)**  
