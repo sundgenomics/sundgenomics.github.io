@@ -15,7 +15,7 @@ In this program participants engage in pre-made online courses to boost their da
   
 - During the information meeting there is an opportunity for Peer Learning members to elect a coordinator among themselves.
 
-- During the course the participants [share an interactive notebook](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Falumni.sharepoint.com%2F%3Ao%3A%2Fs%2FUCPH_SUND_GENOMICS_PLATFORM%2FEke4QysbIlBPvm8GDbtu0qUBJ6sjQ8G79b_WBZddycfO1A%3Fe%3D5%253adfq5Qz%26fromShare%3Dtrue%26at%3D9&data=05%7C01%7Cadrija.kalvisa%40sund.ku.dk%7C6b7a81c17709447f705c08dbae48f2e9%7Ca3927f91cda14696af898c9f1ceffa91%7C0%7C0%7C638295400552724789%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=eFZCWR7GIo6p1%2B%2FRHF3hv7j6cKkWT8zoJ52UEplRdXc%3D&reserved=0) to write down important information, summarize and discuss.
+- During the course the participants [share an interactive notebook](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/Eke4QysbIlBPvm8GDbtu0qUBJ6sjQ8G79b_WBZddycfO1A?e=JrToHu) to write down important information, summarize and discuss.
 
 
 ## Course Completion
