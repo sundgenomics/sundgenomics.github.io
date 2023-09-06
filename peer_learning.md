@@ -1,4 +1,4 @@
-![image](https://github.com/sundgenomics/sundgenomics.github.io/assets/12237326/df4290e9-2e59-4ab2-8ee0-896c188ce34b)# Peer Learning
+# Peer Learning
 
 Peer Learning is an ongoing training initiative by CPR/reNEW Genomics Platform with an aim to create a learning community within the research centers that are supported by the Genomics Platform: NNF reNEW, NNF CPR, ICMM and CGEN.
 
