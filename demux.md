@@ -1,0 +1,48 @@
+## Sample sheet and demultiplexing
+
+### How do I prepare my sample sheet?
+At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
+In most sequencing runs, several samples are combined with a set of multiplexing barcodes. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
+
+1. Download the template depending on your experiment: either [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](10X template) or [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](bulk template) 
+2. Fill out the template for this experiment, folling the instructions below
+3. Place the excel file in the submission folder of your specific run
+
+#### Filling out the bulk template
+* name
+  * this column will define how the fastq files are named (an ending will be added with S1.fastq.gz, S2.fastq.gz, ...)
+  * each name should be a one word (no space) without any special character (no #, +, -, % or other funny things - just letters, numbers, - and _ to separate). Please do not start with a number but rather with a letter (as this can be annoying afterwards in R)	
+* seqIndex1
+  * this is the sequence of the i7 barcode used for demultiplexing
+  * it is typically 6 or 8 bp, depending on the multiplexing kit (e.g. NEB, etc.) - but it could be a different number depending on your kit
+* seqIndex2	this is the sequence of the i5 barcode
+  * if you use single-indexing, leave that column empty
+  * for the CRISPR screens, this is the reverse-transcription of what you typically write in your i5 column	
+* species
+  * to double-check the info we have and in case not all samples are the same
+* contact
+  * when this is your project and you have prepared all samples and libraries, you just put your firstname
+  * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
+
+
+#### Filling out the 10X template
+  * If you have run 10X without hashes, just fill out the GEX table
+  * If you have run 10X with hasning, fill out both tables GEX and Hashing
+  * Just fill out values with the number of lines that you need
+  * Do not edit the headers
+  * Do not add additionnal information (you can email us instead if you want to provide some more info)
+  * Do not use any special character in the naming, nor space (in short, you can use letters and digits, possibly - and _)
+
+
+### What demultiplexing strategy do I need?
+
+#### Standard demultiplexing
+  * We will use bcl2fastq with standard options
+
+#### Custom demultiplexing
+  * We will add a regular expression to specific the structure of the runs and what we want to expect (e.g. index, read, UMI, etc.)
+
+
+![Summary table](./images/2023-03-16_NextSeq2000-kits.png)
+ 
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
