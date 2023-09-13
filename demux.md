@@ -25,8 +25,8 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * when this is your project and you have prepared all samples and libraries, you just put your firstname
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
 * split
-* if the run contains different sets of samples that need a different pipeline (e.g. different species and/or different library types), please write here a one word that we will use to split the files before running the pipeline
-  * e.g. CHOR_mm CHOR_hg SCAR
+  * if the run contains different sets of samples that need a different pipeline (e.g. different species and/or different library types), please write here a one word that we will use to split the files before running the pipeline
+  * e.g. CHOR_mm CHOR_hg SCAR_mm
 
 
 #### Filling out the 10X template
