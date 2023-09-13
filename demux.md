@@ -4,7 +4,7 @@
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
 In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more in the section below. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
 
-1. Download the template depending on your experiment: either ["https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm"](10X template) or ["https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm"](bulk template) 
+1. Download the template depending on your experiment: either [./templates/samples-10X.xlsx](10X template) or [./templates/samples-bulk.xlsx](bulk template) 
 2. Fill out the template for this experiment, following the instructions below
 3. Place the excel file in the submission folder of your specific run
 
