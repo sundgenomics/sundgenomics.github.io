@@ -2,7 +2,7 @@
 
 ### How do I prepare my sample sheet?
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
-In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more from the [https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/02/indexed-sequencing-overview-guide-15057455-04-Illumina-pages1to8.pdf](Illumina documentation here). Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
+In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more in the section below. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
 
 1. Download the template depending on your experiment: either [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](10X template) or [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](bulk template) 
 2. Fill out the template for this experiment, folling the instructions below
@@ -38,11 +38,18 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 
 #### Standard demultiplexing
   * We will use bcl2fastq with standard options
+  * bcl2fastq -R $RAWRUN -o . -r 16 -p 16 --sample-sheet samplesheet.csv --no-lane-splitting
 
 #### Custom demultiplexing
-  * We will add a regular expression to specific the structure of the runs and what we want to expect (e.g. index, read, UMI, etc.)
+  * We will add a regular expression to specify the structure of the reads and indices and what we want to extract (e.g. parts of index and read), typically
+  * bcl2fastq -R $RAWRUN -o . -r 16 -p 16 --sample-sheet samplesheet.csv --no-lane-splitting --use-bases-mask REGULAR_EXPRESSION --create-fastq-for-index-reads --mask-short-adapter-reads=8
+  * In this case, you do need to specify in the request form the regular expression you want us to use with the --use-bases-mask option
+    * E.g. TTchem single-read single-indexed: Y*,I8Y11
+    * E.g. TTchem single-read dual-indexed: Y*,I8Y11,I8
 
 ### How does indexed sequencing work
+
+To get all the details of indexed sequencing, you can read more from the [https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/02/indexed-sequencing-overview-guide-15057455-04-Illumina-pages1to8.pdf](Illumina documentation here). Let's just show here the illustration of single and dual-indexed sequencing.
 
 This is an illustration of single-indexed library sequencing.
 
