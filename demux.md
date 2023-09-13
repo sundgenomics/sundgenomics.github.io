@@ -2,7 +2,7 @@
 
 ### How do I prepare my sample sheet?
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
-In most sequencing runs, several samples are combined with a set of multiplexing barcodes. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
+In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more from the [https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/02/indexed-sequencing-overview-guide-15057455-04-Illumina-pages1to8.pdf](Illumina documentation here). Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
 
 1. Download the template depending on your experiment: either [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](10X template) or [https://alumni.sharepoint.com/:x:/r/sites/UCPH_SUND_GENOMICS_PLATFORM/Shared%20Documents/shared_samplesheet_templates/samples-bulk.xlsx?d=w0823af00c82742d3ae6de6fe3d9f8335&csf=1&web=1&e=LHfyZm](bulk template) 
 2. Fill out the template for this experiment, folling the instructions below
@@ -42,7 +42,16 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 #### Custom demultiplexing
   * We will add a regular expression to specific the structure of the runs and what we want to expect (e.g. index, read, UMI, etc.)
 
+### How does indexed sequencing work
 
-![Summary table](./images/2023-03-16_NextSeq2000-kits.png)
+This is an illustration of single-indexed library sequencing.
+
+![Summary table](./images/single-indexed.png)
+
+For dual-indexed library sequencing, please note that Illumona has 2 different workflows for different instruments. It means that in the indexing kit, you need to choose the column appropriate for NextSeq sequencing. It is using the Workflow B illustrated below.
+
+![Summary table](./images/dual-indexed.png)
+
+![Summary table](./images/workflow-B.png)
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
