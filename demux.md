@@ -4,7 +4,7 @@
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
 In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more in the section below. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
 
-1. Download the template depending on your experiment: either [https://sundgenomics.github.io/templates/samples-10X.xlsx](10X template) or [https://sundgenomics.github.io/templates/samples-bulk.xlsx](bulk template) 
+1. Download the template depending on your experiment: either [10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx) or [bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)
 2. Fill out the template for this experiment, following the instructions below
 3. Place the excel file in the submission folder of your specific run
 
@@ -53,7 +53,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 
 ### How does indexed sequencing work
 
-To get all the details of indexed sequencing, you can read more from the [https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/02/indexed-sequencing-overview-guide-15057455-04-Illumina-pages1to8.pdf](Illumina documentation here). Let's just show here the illustration of single and dual-indexed sequencing.
+To get all the details of indexed sequencing, you can read more from the [Illumina documentation here](https://dnatech.genomecenter.ucdavis.edu/wp-content/uploads/2019/02/indexed-sequencing-overview-guide-15057455-04-Illumina-pages1to8.pdf). Let's just show here the illustration of single and dual-indexed sequencing.
 
 This is an illustration of single-indexed library sequencing.
 
