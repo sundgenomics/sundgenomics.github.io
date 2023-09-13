@@ -12,17 +12,21 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 * name
   * this column will define how the fastq files are named (an ending will be added with S1.fastq.gz, S2.fastq.gz, ...)
   * each name should be a one word (no space) without any special character (no #, +, -, % or other funny things - just letters, numbers, - and _ to separate). Please do not start with a number but rather with a letter (as this can be annoying afterwards in R)	
-* seqIndex1
-  * this is the sequence of the i7 barcode used for demultiplexing
+* i7
+  * this is the sequence of the i7 barcode used for demultiplexing (we used to call it seqIndex1 - but try to remove confusion here)
   * it is typically 6 or 8 bp, depending on the multiplexing kit (e.g. NEB, etc.) - but it could be a different number depending on your kit
-* seqIndex2	this is the sequence of the i5 barcode
+* i5
+  * this is the sequence of the i5 barcode (we used to call it seqIndex2 - but try to remove confusion here)
   * if you use single-indexing, leave that column empty
-  * for the CRISPR screens, this is the reverse-transcription of what you typically write in your i5 column	
+  * (note: for the CRISPR screens, this is the reverse-transcription of what you typically write in your i5 column - but we extract the indices from the full sequence anyway)	
 * species
-  * to double-check the info we have and in case not all samples are the same
+  * to double-check the info we have and in case not all samples are the same, so we can split for processing
 * contact
   * when this is your project and you have prepared all samples and libraries, you just put your firstname
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
+* split
+* if the run contains different sets of samples that need a different pipeline (e.g. different species and/or different library types), please write here a one word that we will use to split the files before running the pipeline
+  * e.g. CHOR_mm CHOR_hg SCAR
 
 
 #### Filling out the 10X template
