@@ -58,6 +58,9 @@ To run snakepipes on dangpu server run the following command and follow the inst
 module load miniconda/latest snakePipes/2.5.4
 ```
 
+The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. 
+You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on dangpu during the work hours. 
+
 #### nf-core
 A dangpu-specific profile available for [nf-core/configs](https://github.com/nf-core/configs). 
 Please see development (aka most uopdated) guidelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
