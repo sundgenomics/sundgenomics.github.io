@@ -21,10 +21,12 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 ### CHORseq
 
 CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in genome.
+This pipeline can handle UMIs. 
+
 - Inputs: .fastq files, a reference genome  
 - Options: single-end, paired-end, with and without spike-in
 - Outputs: indexed, sorted .bam files  
-- Software used: bowtie2, samtools, picard, multiQC, custom scripts  
+- Software used: bowtie2, samtools, picard, multiQC, umi_tools, custom scripts  
 
 ![CHOR pipeline](/images/f03_CHOR.pdf)
 
