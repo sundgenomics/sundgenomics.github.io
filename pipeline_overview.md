@@ -1,7 +1,7 @@
 
 ## Overview of pipelines offered by Genomics Platform
 
-### DEMULTIPLEX
+### FASTQ
 
 Demultiplexing pipeline converts raw images (.bcl) into .fastq files according to samplesheet provided by the user. 
 - Inputs: raw .bcl files and a sample sheet  
@@ -9,7 +9,8 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq files according t
 - Software used: bcl2fasta, multiQC  
 
 ![demux pipeline](/images/f01_demultiplex.pdf)
-### RNAseq
+
+### RNA
 
 RNAseq pipeline aligns reads in .fastq to a specified reference genome
 - Inputs: .fastq files, a reference genome  
@@ -18,9 +19,9 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 
 ![RNA pipeline](/images/f02_RNAseq.pdf)
 
-### CHORseq
+### CHIP/CHOR
 
-CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in genome.
+CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. 
 This pipeline can handle UMIs. 
 
 - Inputs: .fastq files, a reference genome  
@@ -30,7 +31,7 @@ This pipeline can handle UMIs.
 
 ![CHOR pipeline](/images/f03_CHOR.pdf)
 
-### ATACseq
+### ATAC
 
 ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on dm-6 genome separately.
 
@@ -39,12 +40,13 @@ ATAC pipeline aligns reads in .fastq to a specified reference genome, removes ch
 - Outputs: indexed, sorted .bam files with chrM removed, .bw files
 - Software used: bowtie2, samtools, picard, multiQC, bedtools
 
-### CHIPseq
+### CUTRUN/CUTTAG
 
+This pipeline is derived from ATAC pipeline
 - Inputs: .fastq.gz files, a reference genome
-- Options: single-end
-- Outputs: indexed, sorted .bam files with chrM removed. 
-- Software used: bowtie2, samtools, picard, multiQC
+- Options: paired-end only
+- Outputs: indexed, sorted .bam files .bw files
+- Software used: bowtie2, samtools, picard, multiQC, bedtools, custom scripts
 
 ### COMMUNITY PIPELINES
 
