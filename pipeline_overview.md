@@ -42,7 +42,8 @@ ATAC pipeline aligns reads in .fastq to a specified reference genome, removes ch
 
 ### CUTRUN/CUTTAG
 
-This pipeline is derived from ATAC pipeline
+This pipeline is derived from the ATAC pipeline to handle reads produced by CUT'n'Run and Cut&Tag assays. 
+
 - Inputs: .fastq.gz files, a reference genome
 - Options: paired-end only
 - Outputs: indexed, sorted .bam files .bw files
