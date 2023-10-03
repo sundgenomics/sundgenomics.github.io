@@ -46,10 +46,10 @@ Faculty Lounge 7.15.149 (Mærsk building)
 Faculty Lounge 7.15.107A (Mærsk building)  
 11:00 – 12:00  Opening of Peer Learning v.2, including signup and information session.  
 
-**Wednesday, October 4**  
-Classroom 13.1.63 (Mærsk building)  
-11:00 – 11:30  Updates, closing, and feedback session for Peer Learning v.2.  
-11:30 – 12:00  Opening of Peer Learning v.3, including signup and information session.  
+**Tuesday, October 10**  
+meeting room 6-3-30 (CPR) 
+12:00 – 12:15  Updates, closing, and feedback session for Peer Learning v.2.  
+12:15 – 13:00  Opening of Peer Learning v.3, including signup and information session.  
 
 **Wednesday, November 8**  
 Classroom 21.2.14 (Panum building)  
