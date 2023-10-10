@@ -52,7 +52,7 @@ Faculty Lounge 7.15.107A (Mærsk building)
 
 **Tuesday, October 10**  
 meeting room 6-3-30 (CPR)  
-[Powerpoint Presentation from the meeting](https://alumni.sharepoint.com/:p:/s/UCPH_SUND_GENOMICS_PLATFORM/EdaWpXpFdJ1Ni-bR85l6yU8B5vMlJ6c672G5VJpIL0BwRw)
+[Powerpoint Presentation from the meeting](https://alumni.sharepoint.com/:p:/s/UCPH_SUND_GENOMICS_PLATFORM/EdaWpXpFdJ1Ni-bR85l6yU8B5vMlJ6c672G5VJpIL0BwRw)  
 12:00 – 12:15  Updates, closing, and feedback session for Peer Learning v.2.  
 12:15 – 13:00  Opening of Peer Learning v.3, including signup and information session.  
 
