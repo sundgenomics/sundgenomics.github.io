@@ -34,8 +34,7 @@ There will be refreshments!
  
 ## Feedback
 
-We would love to hear your input! [Please suggest topics for discussion via this survey](https://forms.office.com/e/Za6KbsrBsW). Submit your suggestions by noon in the day before the meeting, and it will be included in the meeting agenda. 
-Don't miss out on this excellent opportunity to connect and chat! We will be happy to see as many of you as possible!
+We would love to hear your input! [Please suggest topics for discussion directly at the common meeting notes](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/EpHtLJt2hH1DvEKMEmUzWscBcDha9VrhSVlides5aTYRkg?e=RDx4du).
 
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
