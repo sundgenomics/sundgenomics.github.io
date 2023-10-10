@@ -3,6 +3,10 @@
 Chat for Bioinformatics Peer Community (ChatBPC) is an informal Bioinformatician meetup, organized by the reNEW/CPR Genomics Platform.
 Join us for an informal gathering aimed to activate the bioinformatics community at reNEW, CPR, ICMM and CGEN.
 
+## Quick links
+
+[ChatBPC Meeting Notes](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/EpHtLJt2hH1DvEKMEmUzWscBcDha9VrhSVlides5aTYRkg?e=RDx4du)  
+
 ## Date and Time
 Tuesday, 22 August 2023: 13:30 - 14:30  
 Thursday, 28 September 2023: 14:00 - 15:00  
