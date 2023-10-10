@@ -57,7 +57,7 @@ meeting room 6-3-30 (CPR)
 12:15 – 13:00  Opening of Peer Learning v.3, including signup and information session.  
 
 **Tuesday, November 14**  
-Meeting room: TBA 
+Meeting room: TBA  
 10:00 – 10:30  Updates and feedback session for Peer Learning v.3.  
 10:30 – 11:00  Opening of Peer Learning v.4, including signup and information session.  
 
