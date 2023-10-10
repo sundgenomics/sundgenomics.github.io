@@ -2,16 +2,18 @@
 
 Peer Learning is an ongoing training initiative by CPR/reNEW Genomics Platform with an aim to create a learning community within the research centers that are supported by the Genomics Platform: NNF reNEW, NNF CPR, ICMM and CGEN.
 
-In this program participants engage in pre-made online courses to boost their data analysis literacy and bioinformatics skills. It serves as a platform for researchers to network and learn together.
+In this program participants engage in online courses and tutorials to boost their data analysis literacy and bioinformatics skills with focus on genomic data analysis. It serves as a platform for researchers to network by learning together.
+
+## Quick links
+
+[shared notes for social learning](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/Eke4QysbIlBPvm8GDbtu0qUBJ6sjQ8G79b_WBZddycfO1A?e=KCqLzf).
 
 
 ## How does Peer Learning work? 
 
-- First, fill the [MATCHMAKING FORM](https://forms.office.com/e/JEpg10V4t1)
+- First, add your name to the section within the [shared notes for social learning](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/Eke4QysbIlBPvm8GDbtu0qUBJ6sjQ8G79b_WBZddycfO1A?e=KCqLzf).
   
-- When there is enough of participants interested in the same course (n>4), Genomics Platform creates a Peer Learning Team and organizes an information meeting for the team in the nearest available timeslot.
-  
-- At the information meeting participants sign up to pre-made online courses hosted in learning platforms such as Coursera, DataCamp, Udemy or similar - or to selected free online tutorials.
+- When there is enough of participants interested in the same course (n>4), Genomics Platform creates a Peer Learning Team and organizes an information meeting for the team in the nearest available timeslot. At the information meeting participants sign up and have a chance to meet each other and ask questions about the course. 
   
 - During the information meeting there is an opportunity for Peer Learning members to elect a coordinator among themselves.
 
@@ -29,7 +31,9 @@ Peer Learning participants are responsible for agreeing with their Principal Inv
 
 ## Course Registration Process 
 
-To sign up for courses, please fill out the [MATCHMAKING FORM](https://forms.office.com/e/JEpg10V4t1), which will help us identify the most sought-after courses among participants. The courses with more than 3 people interested will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the 2023 autumn semester (August 30, October 4, November 8). During the information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
+To indicate your interest in a learning theme, please add your name under a relevant course in the shared notes, which will help us identify the most sought-after courses among participants. The courses with at least four participants will be selected for the upcoming Peer Learning round. There will be three Peer Learning information meetings organised during the 2023 autumn semester (August 30, October 10, November 8). 
+
+During the information meeting Adrija will provide an overview of the courses, and you will have the opportunity to sign up for your desired courses and meet your learning team members.
 
 ## Coordination Opportunities 
 
@@ -48,13 +52,14 @@ Faculty Lounge 7.15.107A (Mærsk building)
 
 **Tuesday, October 10**  
 meeting room 6-3-30 (CPR)  
+[Powerpoint Presentation from the meeting](https://alumni.sharepoint.com/:p:/s/UCPH_SUND_GENOMICS_PLATFORM/EdaWpXpFdJ1Ni-bR85l6yU8B5vMlJ6c672G5VJpIL0BwRw)
 12:00 – 12:15  Updates, closing, and feedback session for Peer Learning v.2.  
 12:15 – 13:00  Opening of Peer Learning v.3, including signup and information session.  
 
-**Wednesday, November 8**  
-Classroom 21.2.14 (Panum building)  
-11:00 – 11:30  Updates and feedback session for Peer Learning v.3.  
-11:30 – 12:00  Opening of Peer Learning v.4, including signup and information session.  
+**Tuesday, November 14**  
+Meeting room: TBA 
+10:00 – 10:30  Updates and feedback session for Peer Learning v.3.  
+10:30 – 11:00  Opening of Peer Learning v.4, including signup and information session.  
 
 **Friday, December 8**  
 Faculty Lounge 7.15.107A (Mærsk building)  
