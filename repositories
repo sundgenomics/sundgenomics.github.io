@@ -1,0 +1,21 @@
+## Instructions to upload NGS files to repositries
+
+## Annotare
+
+```bash
+# start a new screen session 
+
+# upload files to remote arrayexpress folder
+ascp -P 33001 --policy=high --overwrite=diff -k 1  -wf -N path/to/files/*.fastq.gz aexpress@fasp.ebi.ac.uk:<folder-id>/
+```
+
+The command is using the ascp tool to transfer a set of .fastq.gz files from the local path/to/files/ directory to a remote server (aexpress@fasp.ebi.ac.uk) in the specified destination folder (<folder-id>)
+You can find <folder-id> for each submission you create in Annotare. 
+
+
+`path/to/files/*.fastq.gz`: This part of the command represents the source files you want to transfer. It uses a wildcard * to match all files in the path/to/files/ directory with the .fastq.gz extension. These are the files that will be transferred to the destination.
+`--overwrite=diff`: This option specifies the behavior for overwriting files at the destination. In this case, it's set to "diff," which means that the files will only be overwritten if the diff (difference) between the source and destination files indicates that an update is needed. It will only transfer files if they have changed since the last transfer.
+`-k 1`: set the number of parallel file transfers. In this case, it's set to 1, which means only one file will be transferred at a time. You can increase this number to transfer multiple files in parallel if your network and system support it.
+`-wf`: This option is used to display file transfer progress information. It stands for "watch for progress," and it will show you the progress of the transfer as it happens.
+
+
