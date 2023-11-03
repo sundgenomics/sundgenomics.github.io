@@ -79,8 +79,8 @@ hosts: Adrija/Sen
 room: 4.5.17  
 
 **22 Nov 2023 (week 47)**  
-hosts: - 
-room: - 
+hosts: - (Platforms training day)   
+room: -   
 
 **29 Nov 2023 (week 48)**  
 hosts: Adrija/Sen  
