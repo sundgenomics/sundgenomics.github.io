@@ -71,7 +71,7 @@ hosts: Adrija/Sen
 room: 4.5.17  
 
 **08 Nov 2023 (week 45)**  
-hosts: Adrija/Sen  
+hosts: Sen  
 room: 4.5.17  
 
 **15 Nov 2023 (week 46)**  
@@ -79,8 +79,8 @@ hosts: Adrija/Sen
 room: 4.5.17  
 
 **22 Nov 2023 (week 47)**  
-hosts: Adrija/Sen  
-room: 4.5.17  
+hosts: - 
+room: - 
 
 **29 Nov 2023 (week 48)**  
 hosts: Adrija/Sen  
