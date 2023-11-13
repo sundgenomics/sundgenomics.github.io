@@ -4,7 +4,7 @@
 Please remember to acknowledge the platform on your publications and other dissemination materials (presentations, posters and similar).
 
 Suggested text for publications:
-"We thank the staff of the CPR/reNEW Genomics Platform for support: H. Wollmann, M.Michaut, A. Kalvisa. The Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) is supported by the Novo Nordisk Foundation grant number NNF21CC0073729. The Novo Nordisk Foundation Center for Protein Research (CPR) is supported by the Novo Nordisk Foundation grant number NNF14CC0001”
+"We thank the staff of the CPR/reNEW Genomics Platform for support: H. Wollmann, M.Michaut, A. Kalvisa, C. Emmerson. The Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW) is supported by the Novo Nordisk Foundation grant number NNF21CC0073729. The Novo Nordisk Foundation Center for Protein Research (CPR) is supported by the Novo Nordisk Foundation grant number NNF14CC0001”
 
 Please remeber to mention the grant number in your publications. 
 
