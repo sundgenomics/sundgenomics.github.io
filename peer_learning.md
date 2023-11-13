@@ -56,10 +56,10 @@ meeting room 6-3-30 (CPR)
 12:00 – 12:15  Updates, closing, and feedback session for Peer Learning v.2.  
 12:15 – 13:00  Opening of Peer Learning v.3, including signup and information session.  
 
-**Friday, December 8**  
-Faculty Lounge 7.15.107A (Mærsk building)  
-11:00 – 12:00  Closing of Peer Learning v.4 and End of the year get-together for all participants, where certificates will be awarded, feedback will be shared, and an opportunity to socialize will be provided.
+Currently we are at full capacity for peer learning, so no new signup events will be announced this year. 
+Next signup will be open sometime in January - until then feel free to suggest topics in shared notes.  
 
-We wish you success in connecting with your peers and learning new skills!
+
+
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
