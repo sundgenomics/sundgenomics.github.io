@@ -1,6 +1,18 @@
 
 ## Overview of pipelines offered by Genomics Platform
 
+The following pipelines can be selected for the Genomics Platform to run:
+ - FASTQ
+ - RNA
+ - CHOR
+ - CUTRUN
+ - ATAC
+ - CRISPR
+ - TT
+ - REPEATS
+ - NF-METHYL
+ - CELL-RANGER
+
 ### FASTQ
 
 Demultiplexing pipeline converts raw images (.bcl) into .fastq files according to samplesheet provided by the user. 
