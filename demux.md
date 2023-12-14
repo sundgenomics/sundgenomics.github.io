@@ -19,14 +19,18 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * this is the sequence of the i5 barcode (we used to call it seqIndex2 - but try to remove confusion here)
   * if you use single-indexing, leave that column empty
   * (note: for the CRISPR screens, this is the reverse-transcription of what you typically write in your i5 column - but we extract the indices from the full sequence anyway)	
-* species
-  * to double-check the info we have and in case not all samples are the same, so we can split for processing
 * contact
   * when this is your project and you have prepared all samples and libraries, you just put your firstname
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
-* split
-  * if the run contains different sets of samples that need a different pipeline (e.g. different species and/or different library types), please write here a one word that we will use to split the files before running the pipeline
-  * e.g. CHOR_mm CHOR_hg SCAR_mm
+* species - choose from the drop-down menu
+  * the species of the main genome for that sample - if not present, you can select other and let us know on email what species you would like us to add
+* pipeline - choose from the drop-down menu
+  * if you just need fastq files, please select fastq
+  * if you want us to run one of our pipelines, please select the one you want
+  * if not present, please contact us
+* dedup - choose from the drop-down menu
+  * by default this is without UMI
+  * if you have UMIs in your index and would like us to extract the UMIs at the demultiplexing stage as well as run a UMI-aware pipeline (e.g. CHOR), you can select with_UMI here
 
 
 #### Filling out the 10X template
