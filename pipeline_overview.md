@@ -8,6 +8,7 @@ The following pipelines can be selected for the Genomics Platform to run:
  - CUTRUN
  - ATAC
  - CRISPR
+ - CRISPRESSO2
  - TT
  - REPEATS
  - NF-METHYL
