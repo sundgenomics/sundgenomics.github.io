@@ -26,7 +26,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * the species of the main genome for that sample - if not present, you can select other and let us know on email what species you would like us to add
 * pipeline - choose from the drop-down menu
   * if you just need fastq files, please select fastq
-  * if you want us to run one of our pipelines, please select the one you want. Info about the pipelines are [pipeline_overview.md](here).
+  * if you want us to run one of our pipelines, please select the one you want. Info about the pipelines are [here](pipeline_overview.md).
   * if not present, please contact us
 * dedup - choose from the drop-down menu
   * by default this is without UMI
