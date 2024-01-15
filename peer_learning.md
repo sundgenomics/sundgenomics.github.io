@@ -13,8 +13,8 @@ In this program participants engage in online courses and tutorials to boost the
 This Peer Learning Group is meant for researchers interested in single cell sequencing experiments and provides a collaborative space to network and learn something new about scRNAseq while working on your own data. 
 
 **Details:**  
-**Date&Time:** February 7th  11:00-13:00 (feel free to bring your lunch to the meeting)  
-**Location:** Meeting room 7.15.107a (Maersk tower faculty lounge)  
+February 7th  11:00-13:00 (feel free to bring your lunch to the meeting)  
+Meeting room 7.15.107a (Maersk tower faculty lounge)  
 
 **What to Expect:**  
 There are plenty of scRNAseq analysis tutorials available for scRNA analysis software, but not enough guidelines on how to interpret the results when working with real world data. The Peer Learning Group will focus on participants discussing and analyzing their single cell sequencing datasets in a way that is compatible with the busy life in the lab: Adrija will work as a facilitator to help people discuss their data as they analyse them. There will be no homework, but instead we will take longer chunks of time (2 hours every 2-3 weeks) to advance through the various scRNAseq tutorials and look at user cases.  
