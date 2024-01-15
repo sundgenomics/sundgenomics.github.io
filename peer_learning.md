@@ -19,7 +19,7 @@ This Peer Learning Group is meant for researchers interested in single cell sequ
 **What to Expect:**  
 There are plenty of scRNAseq analysis tutorials available for scRNA analysis software, but not enough guidelines on how to interpret the results when working with real world data. The Peer Learning Group will focus on participants discussing and analyzing their single cell sequencing datasets in a way that is compatible with the busy life in the lab: Adrija will work as a facilitator to help people discuss their data as they analyse them. There will be no homework, but instead we will take longer chunks of time (2 hours every 2-3 weeks) to advance through the various scRNAseq tutorials and look at user cases.  
 
-People with experience in the analysis technique are more than welcome to join the Peer Learning Group and to provide feedback and learn something new themselves.  
+People with experience in scRNA seq data analysis are more than welcome to join the Peer Learning Group and to provide feedback and learn something new themselves.  
 
 We hope that you will use this opportunity to learn, advance your project, connect with peers and contribute to creating an active and involved research culture.  
 
