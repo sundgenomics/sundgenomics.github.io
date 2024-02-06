@@ -17,10 +17,11 @@ This is a sequencing service we provide for scientists who have experience with 
      * Create a folder
        * Typically Application-Name (e.g. SCAR-Valentin) 
        * With an index if submitting several runs in a short period of time (e.g. SCAR-Valentin-1, SCAR-Valentin-2)
-     * Prepare the samplesheet following the instructions [here](demux.md)
-     * Place the Fragment Analyser report and the sample annotation file
-        * If not available yet, place them as soon as you have them)
-        * There is a template for the sample annotation file in the template folder
+     * Prepare the samplesheet
+       * Following the instructions [here](demux.md)
+       * Place it in the folder just created (If not available yet, place it as soon as available - and BEFORE sequencing)
+     * Place the Fragment Analyser report in the folder
+        * If not available yet, place it as soon as you have it
 2. Fill the sequencing request form [here](https://forms.office.com/e/Dgq0KkLsi3)
      * When we ask for the folder name, it is the name of the folder you just created
      * For any additional information, there is a free text field at the end
