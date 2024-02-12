@@ -34,7 +34,7 @@ ATAC pipeline aligns reads in .fastq to a specified reference genome, removes ch
 
 ### CHIP-CHOR-SCAR
 
-CHORseq pipeline aligns reads in .fastq to a specified reference genome, using dm-6 as spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. 
+CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, using dm6 as spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. 
 This pipeline can handle UMIs. 
 
 - Inputs: .fastq files, a reference genome  
@@ -54,19 +54,20 @@ This pipeline can handle UMIs.
 
 
 
+
 ### CUTRUN-CUTTAG
 
-This pipeline is derived from the ATAC pipeline to handle reads produced by CUT'n'Run and Cut&Tag assays. 
+CUTRUN-CUTTAG pipeline is derived from the ATAC pipeline to handle reads produced by CUT&Run and Cut&Tag assays.
 
 - Inputs: .fastq.gz files, a reference genome
 - Options: paired-end only
-- Outputs: indexed, sorted .bam files .bw files
+- Outputs: indexed, sorted .bam files, .bw files
 - Software used: bowtie2, samtools, picard, multiQC, bedtools, custom scripts
 
 
 ### FASTQ
 
-Demultiplexing pipeline converts raw images (.bcl) into .fastq files according to samplesheet provided by the user. 
+Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files according to samplesheet provided by the user. Please find the most updated samplesheets [here](/demux.md)
 - Inputs: raw .bcl files and a sample sheet  
 - Outputs: .fastq files, multiQC report  
 - Software used: bcl2fasta, multiQC  
@@ -76,7 +77,7 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq files according t
 ### RNA
 
 RNAseq pipeline aligns reads in .fastq to a specified reference genome
-- Inputs: .fastq files, a reference genome  
+- Inputs: .fastq.gz files
 - Outputs: indexed, sorted .bam files, read counts in .tsv format  
 - Software used: STAR, multiQC  
 
@@ -112,12 +113,20 @@ The snakePipes workflows call SLURM jobs by default, so you do not need to run s
 
 Genomics platform uses can use refgenie for pre-built reference genomes. 
 ```bash
+# load modules
 module load dangpu_libs python/3.7.13 refgenie/0.12.1
+
+# list genomes
+refgenie list -g  GRCh38_ensembl
+
+# find a path to the file of interest
+# syntax: refgenie seek <genome>/<asset>:<tags>
+refgenie seek  GRCh38_ensembl/bowtie2_index
+refgenie seek  GRCh38_ensembl/blacklist:CUTANDRUN
 ```
-[refgenie documentation](http://refgenie.databio.org/en/latest/)
 
-
-
+[refgenie documentation](http://refgenie.databio.org/en/latest/)  
+[more guidelines for dangpu server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)  
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
 
