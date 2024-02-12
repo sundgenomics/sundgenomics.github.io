@@ -88,7 +88,7 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 If you select RAW option, we will give you access to the run folder containing raw images (.bcl), so you can demultiplex the reads yourself. 
 
 
-## NF-CORE PIPELINES USED AT GENOMICS PLATFORM
+### NF-CORE PIPELINES USED AT GENOMICS PLATFORM
 
 Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-core](https://nf-co.re/) pipelines if the user requests it. We also highly recommend to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever users request help. 
 
