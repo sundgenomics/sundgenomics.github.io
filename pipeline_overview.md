@@ -21,7 +21,7 @@ The following pipelines can be selected for the Genomics Platform to run:
 
 ### ATAC
 
-ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on dm-6 genome separately.
+ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on spike-in genome separately.
 
 - Inputs: .fastq.gz files, a reference genome
 - Options: paired-end only
@@ -49,14 +49,19 @@ This pipeline can handle UMIs.
 
 
 
-### CRISPRESSO
+### CRISPRESSO2
 
 
 
 
 ### CUTRUN-CUTTAG
 
+This pipeline is derived from the ATAC pipeline to handle reads produced by CUT'n'Run and Cut&Tag assays. 
 
+- Inputs: .fastq.gz files, a reference genome
+- Options: paired-end only
+- Outputs: indexed, sorted .bam files .bw files
+- Software used: bowtie2, samtools, picard, multiQC, bedtools, custom scripts
 
 
 ### FASTQ
@@ -77,14 +82,10 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome
 
 ![RNA pipeline](/images/f02_RNAseq.pdf)
 
-### CUTRUN-CUTTAG
 
-This pipeline is derived from the ATAC pipeline to handle reads produced by CUT'n'Run and Cut&Tag assays. 
+### RAW
 
-- Inputs: .fastq.gz files, a reference genome
-- Options: paired-end only
-- Outputs: indexed, sorted .bam files .bw files
-- Software used: bowtie2, samtools, picard, multiQC, bedtools, custom scripts
+If you select RAW option, we will give you access to the run folder containing raw images (.bcl), so you can demultiplex the reads yourself. 
 
 
 ## NF-CORE PIPELINES USED AT GENOMICS PLATFORM
