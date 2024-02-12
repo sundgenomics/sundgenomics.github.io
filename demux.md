@@ -1,8 +1,8 @@
 ## Sample sheet and demultiplexing
 
 ### Quick links
-[10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)
-[bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)
+[10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)  
+[bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)  
 
 ### How do I prepare my sample sheet?
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
