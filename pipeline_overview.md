@@ -92,19 +92,20 @@ This pipeline is derived from the ATAC pipeline to handle reads produced by CUT'
 Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-core](https://nf-co.re/) pipelines if the user requests it. We also highly recommend to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever users request help. 
 
 A dangpu-specific profile available for [nf-core/configs](https://github.com/nf-core/configs). 
-Please see development (aka most uopdated) guidelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
+Please see development (aka most uopdated) guidelines for nf-core pipelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
 
 
-#### RUNNING OTHER COMMUNITY PIPELINES: SnakePipes
+#### RUNNING OTHER COMMUNITY PIPELINES
 
-To run snakepipes on dangpu server run the following command and follow the instructions. 
+You can always ask for help to run other community-maintained pipelines that are within nf-core and SnakePipes platforms. To run snakepipes on dangpu server run the following command and follow the instructions. 
 
 ```bash
 module load miniconda/latest snakePipes/2.5.4
 ```
 
-The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. 
-You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on dangpu during the work hours. You can read more on how to use dangpu server [here](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)
+The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on dangpu during the work hours. You can read more on how to use dangpu server [here](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)
+
+
 
 ### AVAILABLE GENOMES
 
