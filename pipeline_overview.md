@@ -13,15 +13,15 @@ The following pipelines can be selected for the Genomics Platform to run:
  - FASTQ
  - RAW
 
- nf-core pipelines offered by Genomics Platform
- - NF-CHIP
- - NF-CUTANDRUN
- - NF-METHYL
- - NF-RNA
+ **nf-core** pipelines offered by Genomics Platform
+ - NF-CHIP ([nf-core/chipseq](https://nf-co.re/chipseq/2.0.0))
+ - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
+ - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
+ - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
 
 ### ATAC
 
-ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on spike-in genome separately.
+ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on a spike-in genome separately.
 
 - Inputs: .fastq.gz files, a reference genome
 - Options: paired-end only
