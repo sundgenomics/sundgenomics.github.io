@@ -30,7 +30,7 @@ ATAC pipeline aligns reads in .fastq to a specified reference genome, removes ch
 
 ### CELL-RANGER
 
-...
+CELL-RANGER pipeline uses cellranger v.7.1.0 to demultiplex, count and aggregate the reads. Depending on library design (with or without cell hashing), further `cellranger count` + `cellranger aggr` or `cellranger multi` is used to create count matrixes for downstream analysis in Loupe browser, Seurat, etc. By default, the pipeline uses the [pre-built reference transcriptome by 10X](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/inputs/cr-inputs-overview) for mouse and human.
 
 ### CHIP-CHOR-SCAR
 
@@ -91,13 +91,20 @@ If you select RAW option, we will give you access to the run folder containing r
 
 ### NF-CORE PIPELINES USED AT GENOMICS PLATFORM
 
-Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-core](https://nf-co.re/) pipelines if the user requests it. We also highly recommend to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever users request help. 
+Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-core](https://nf-co.re/) pipelines if the user requests it:
+
+ - NF-CHIP ([nf-core/chipseq](https://nf-co.re/chipseq/2.0.0))
+ - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
+ - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
+ - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
+
+We also highly recommend to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever a user requests help. 
 
 A dangpu-specific profile available for [nf-core/configs](https://github.com/nf-core/configs). 
 Please see development (aka most uopdated) guidelines for nf-core pipelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
 
 
-#### RUNNING OTHER COMMUNITY PIPELINES
+### RUNNING OTHER COMMUNITY PIPELINES
 
 You can always ask for help to run other community-maintained pipelines that are within nf-core and SnakePipes platforms. To run snakepipes on dangpu server run the following command and follow the instructions. 
 
@@ -109,9 +116,10 @@ The snakePipes workflows call SLURM jobs by default, so you do not need to run s
 
 
 
-### AVAILABLE GENOMES
+### AVAILABLE REFERENCE GENOMES
 
-Genomics platform uses can use refgenie for pre-built reference genomes. 
+refgenie reference genome manager is available for accessing for pre-built reference genomes on dangpu server:
+
 ```bash
 # load modules
 module load dangpu_libs python/3.7.13 refgenie/0.12.1
