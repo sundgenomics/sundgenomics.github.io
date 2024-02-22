@@ -76,7 +76,8 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files accordin
 
 ### RNA (deprecated)
 
-RNAseq pipeline aligns reads in .fastq to a specified reference genome using STAR
+RNAseq pipeline aligns reads in .fastq to a specified reference genome using STAR. We currently offer running this pipeline for projects that need wrapping-up, but for the new projects we recommend using NF-RNA pipeline. 
+
 - Inputs: .fastq.gz files
 - Outputs: indexed, sorted .bam files, read counts in .tsv format  
 - Software used: STAR, multiQC  
