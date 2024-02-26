@@ -11,26 +11,26 @@ We provide here a template of the email we would like to receive from the projec
 **Template email to send to genomics@sund.ku.dk**
  
 ```
-Request to process data 
- 
-Research Project Owner _[FULL NAME]_ would like the Genomics Platform to sequence the various pools placed in the Genomics Platform freezer - and including sensitive personal data from patients - during the timeframe of _[01-07-2023]_ to _[31-12-2025]_ in order to create sequencing files including BCL images, as well as fastq, fastqc and multiQC files describing sequencing reads as part of the research project. 
- 
-The sequencing data mentioned above will be generated on one of the sequencers of the Genomics Platform and copied on the Genomics Platform General Sensivite SIF project for internal handling.
+Request to process data for submission SUBXXX
 
-To deliver the task, the data will be copied on the following infrastructure - which is owned by the research project owner and appropriate for the project requirements: _[S-drive / SIF-project]_. 
-
-At the latest by the end of the timeframe mentioned above, the sequencing pool will be trashed and the sequencing data will be deleted from the sequencer. 
+Research Project Owner [FULL NAME] would like to notify the Genomics Platform that the direct sequencing submission [SUBXXX] contains sensitive patient material that will create sensitive data after sequencing: the sensitive data will be BCL images and fastq files.
  
+The sequencing data for this run will be generated on a sequencer at the Genomics Platform and copied to the dangpu server within the sensitive and access-controlled dataset /datasets/renew_genomics_sdata-AUDIT for internal handling. 
+
+To deliver the task, the data will be copied on the following infrastructure - which is owned by the research project owner and appropriate for the project requirements: [S-drive / SIF-project]. 
+
+The library pool will be immediately discarded after sequencing and the sequencing data will be deleted from the sequencer after completing the data transfer to safe storage drive. 
+
 The technical data related to the run (i.e. the sequencing folder without the bcl and fastq files) - which do not include personal data - can be kept on the Genomics Platform N-drives for technical meta-analyses and overall performance of the Genomics Platform. 
- 
-Contact person for this project is _[email@sund.ku.dk]_.
+
+Contact person for this project is [email@sund.ku.dk].
 ``` 
 
 ### Our practical workflow
 
 For sensitive data projects, we will 
    * generate raw sequencing data on the sequencer and sync it on the sequencer itself while running (for other runs, we sync the data onto a N-drive while sequencing, but this is not allowed for sensitive data).
-   * make a copy on our general SIF project, where only platform staff has access, for internal handling of the data
+   * make a copy on dangpu dataset (/datasets/renew_genomics_sdata-AUDIT), where only platform staff has access, for internal handling of the data
    * trash any remaining of the physical sample right after sequencing (we suggest you keep a backup in your lab if we need to resequence)
 
 For sharing the data with you, we need you to indicate on which location we can transfer the data, e.g.:
