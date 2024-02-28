@@ -1,9 +1,9 @@
 ## Sample sheet and demultiplexing
 
 ### Quick links
-[bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)  
-[10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)
-[CRISPR template](https://sundgenomics.github.io/templates/samples-CRISPR.xlsx)  
+* [bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)  
+* [10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)
+* [CRISPR template](https://sundgenomics.github.io/templates/samples-CRISPR.xlsx)  
 
 
 ### How do I prepare my sample sheet?
