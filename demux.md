@@ -37,7 +37,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * by default this is without UMI
   * if you have UMIs in your index and would like us to extract the UMIs at the demultiplexing stage as well as run a UMI-aware pipeline (e.g. CHOR), you can select with_UMI here
 
-#### Filling out the bulk template
+#### Filling out the CRISPR template
 * name
   * this column will define how the fastq files are named (an ending will be added with S1.fastq.gz, S2.fastq.gz, ...)
   * each name should be a one word (no space) without any special character (no #, +, -, % or other funny things - just letters, numbers, - and _ to separate). Please do not start with a number but rather with a letter (as this can be annoying afterwards in R)	
