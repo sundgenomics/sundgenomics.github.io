@@ -1,14 +1,16 @@
 ## Sample sheet and demultiplexing
 
 ### Quick links
-[10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)  
 [bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)  
+[10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx)
+[CRISPR template](https://sundgenomics.github.io/templates/samples-CRISPR.xlsx)  
+
 
 ### How do I prepare my sample sheet?
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
 In most sequencing runs, several samples are combined with a set of multiplexing barcodes. It is called indexed sequencing and you can read more in the section below. Thus the demultiplexing step will generate a fastq file for each sample using the information from the sample sheet (which associate barcodes - singe or dual - to sample names).
 
-1. Download the template depending on your experiment: either [10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx) or [bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx)
+1. Download the template depending on your experiment: [bulk template](https://sundgenomics.github.io/templates/samples-bulk.xlsx), [10X template](https://sundgenomics.github.io/templates/samples-10X.xlsx) or [CRISPR template](https://sundgenomics.github.io/templates/samples-CRISPR.xlsx)
 2. Fill out the template for this experiment, following the instructions below
 3. Place the excel file in the submission folder of your specific run
 
@@ -17,12 +19,11 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * this column will define how the fastq files are named (an ending will be added with S1.fastq.gz, S2.fastq.gz, ...)
   * each name should be a one word (no space) without any special character (no #, +, -, % or other funny things - just letters, numbers, - and _ to separate). Please do not start with a number but rather with a letter (as this can be annoying afterwards in R)	
 * i7
-  * this is the sequence of the i7 barcode used for demultiplexing (we used to call it seqIndex1 - but try to remove confusion here)
+  * this is the sequence of the i7 barcode used for demultiplexing (we used to call it seqIndex1)
   * it is typically 6 or 8 bp, depending on the multiplexing kit (e.g. NEB, etc.) - but it could be a different number depending on your kit
 * i5
-  * this is the sequence of the i5 barcode (we used to call it seqIndex2 - but try to remove confusion here)
+  * this is the sequence of the i5 barcode (we used to call it seqIndex2)
   * if you use single-indexing, leave that column empty
-  * (note: for the CRISPR screens, this is the reverse-transcription of what you typically write in your i5 column - but we extract the indices from the full sequence anyway)	
 * contact
   * when this is your project and you have prepared all samples and libraries, you just put your firstname
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
@@ -35,6 +36,31 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 * dedup - choose from the drop-down menu
   * by default this is without UMI
   * if you have UMIs in your index and would like us to extract the UMIs at the demultiplexing stage as well as run a UMI-aware pipeline (e.g. CHOR), you can select with_UMI here
+
+#### Filling out the bulk template
+* name
+  * this column will define how the fastq files are named (an ending will be added with S1.fastq.gz, S2.fastq.gz, ...)
+  * each name should be a one word (no space) without any special character (no #, +, -, % or other funny things - just letters, numbers, - and _ to separate). Please do not start with a number but rather with a letter (as this can be annoying afterwards in R)	
+* i7
+  * this is the sequence of the i7 barcode used for demultiplexing
+  * it is typically 6 or 8 bp, depending on the multiplexing kit (e.g. NEB, etc.) - but it could be a different number depending on your kit
+* i5
+  * this is the sequence of the i5 barcode (we used to call it seqIndex2 - but try to remove confusion here)
+  * if you use single-indexing, leave that column empty
+  * note: previously we have extracted this from the full sequence of the primer, checking that the sequence you indicated in i5 made sense with what we exactraced. But there might be a need to reverse-transcribed that one as compared to what you put before - we can talk about it if unclear. 
+* staggerSize
+  * if you did not use staggers, indicate 0
+  * if you used staggers, we suggest that you fill the last 4 columns with the full sequences of forward and reverse primers so that we can check the structure of the read (including the stagger sequence and size)
+* contact
+  * when this is your project and you have prepared all samples and libraries, you just put your firstname
+  * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
+* pipeline - choose from the drop-down menu
+  * if you want us to run one of our pipelines, please select the one you want. [Info about the pipelines are here](pipeline_overview.md).
+  * if you select CRISPRESSO2, please add additional columns in your sample sheet for the parameters to use.
+  * if not present, please contact us
+* GUIDES - choose from the drop-down menu
+  * we list here the libraries that we have already formatted and worked with
+  * if not present, please contact us
 
 
 #### Filling out the 10X template
