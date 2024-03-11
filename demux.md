@@ -36,6 +36,8 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 * dedup - choose from the drop-down menu
   * by default this is without UMI
   * if you have UMIs in your index and would like us to extract the UMIs at the demultiplexing stage as well as run a UMI-aware pipeline (e.g. CHOR), you can select with_UMI here
+* control_name
+  * Only for pipelines that use IgG, KO or input controls (nf-cutandrun, nf-chip): indicate the name of the corresponding control (empty values are accepted) 
 
 #### Filling out the CRISPR template
 * name
