@@ -6,7 +6,7 @@
 * [CRISPR template](https://sundgenomics.github.io/templates/samples-CRISPR.xlsx)  
 
 
-Before pooling your libraries (and preparing your samplesheet), please make sure to check the [index pooling guides](/indexpooling.md/).
+Before pooling your libraries (and preparing your samplesheet), please make sure to check the [index pooling guides](/indexpooling/).
 
 ### How do I prepare my sample sheet?
 At the end of the sequencing run, the raw data consist of images in the form of bcl files. The first data processing step is to generate fastq files.
