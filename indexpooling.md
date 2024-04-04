@@ -8,6 +8,6 @@ When pooling libraries to sequence them altogether, you need to pay attention to
 * [Illumina NextSeq 1000-2000](https://knowledge.illumina.com/instrumentation/nextseq-1000-2000/instrumentation-nextseq-1000-2000-reference_material-list/000003339)  
 * [Illumina Pooling](https://support-docs.illumina.com/SHARE/IndexAdaptersPooling/Content/SHARE/IndexAdaptersPooling/SequencingChemistry.htm)  
 
-You can find some more information about the follow-up step (i.e. preparing the samplesheet for future demultiplexing) on [/demux/](this page).
+You can find some more information about the follow-up step (i.e. preparing the samplesheet for future demultiplexing) on [this page](/demux.md/).
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
