@@ -6,7 +6,8 @@ When pooling libraries to sequence them altogether, you need to pay attention to
 
 ### Quick links
 * [Illumina NextSeq 1000-2000](https://knowledge.illumina.com/instrumentation/nextseq-1000-2000/instrumentation-nextseq-1000-2000-reference_material-list/000003339)  
-* [Illumina Pooling](https://support-docs.illumina.com/SHARE/IndexAdaptersPooling/Content/SHARE/IndexAdaptersPooling/SequencingChemistry.htm)  
+* [Illumina Pooling](https://support-docs.illumina.com/SHARE/IndexAdaptersPooling/Content/SHARE/IndexAdaptersPooling/SequencingChemistry.htm)
+* [Illumina Library Prep Troubleshooting](https://knowledge.illumina.com/library-preparation/general/library-preparation-general-troubleshooting-list/000001911)
 
 You can find some more information about the follow-up step (i.e. preparing the samplesheet for future demultiplexing) on [this page](/demux/).
  
