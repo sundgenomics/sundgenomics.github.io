@@ -15,6 +15,7 @@ When pooling libraries to sequence them altogether, you need to pay attention to
 * [Illumina Pooling](https://support-docs.illumina.com/SHARE/IndexAdaptersPooling/Content/SHARE/IndexAdaptersPooling/SequencingChemistry.htm)
 
 
+### Preparing the samplesheet
 You can find some more information about the follow-up step (i.e. preparing the samplesheet for future demultiplexing) on [this page](/demux/).
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
