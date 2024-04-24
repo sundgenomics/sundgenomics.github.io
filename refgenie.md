@@ -79,7 +79,7 @@ For human reference genome there are several options:
   
 **GRCh38_dm6** - hybrid genome between GRCh38_ensembl and dm6_ensembl. This can be used for alignments when you have used spike-in from the fly. This reference contains only fasta and bowtie2 index.  
   
-**GRCh38_refgenie** (same as GRCh38) - the reference genome pulled from refgenie. Genomics Platform does not use this reference but it is available for users. Please note that if you run nf-core pipelines and use GRCh38 as reference genome, it will use GRCh38 from [AWS_iGenomes](https://ewels.github.io/AWS-iGenomes/) reference genome instead of refgenie reference genome.  
+**GRCh38_refgenie** (same as GRCh38) - the reference genome pulled from refgenie. Genomics Platform does not use this reference but it is available for users. Please note that if you run nf-core pipelines and use GRCh38 as reference genome, it will use GRCh38 from [AWS_iGenomes](https://ewels.github.io/AWS-iGenomes/) reference genome instead of refgenie local list.  
 
 ## Reference genome options for mouse (mm)
 
