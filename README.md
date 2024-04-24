@@ -36,6 +36,7 @@ Please remember to acknowledge the platform not only on your publications but al
 - [Direct sequencing](/directsequencing/) (submit a request [here](https://forms.office.com/e/Dgq0KkLsi3))
 - [Index pooling](/indexpooling/) and [Demultiplexing and sample sheets](/demux/)
 - [Pipelines](/pipeline_overview/)
+- [Genomes](/refgenie)
 - [Sensitive data](/sequencing_sensitive_data_2/)
 - [User meetings](/user_meetings/)
 - [Weekly Computational Support](/dropin/)
