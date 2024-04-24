@@ -127,16 +127,16 @@ refgenie list -g  GRCh38_ensembl
 └────────────────┴────────────────────────────────────────────────────────────────┴───────────────────┘
 ```
 
-Characteristics:  
+#### Characteristics
 This genome genome uses `fasta` (GRCh38.p14 primary assembly) and `ensembl_gtf` (Ensembl release 111) to generate `star_index` (using STAR 2.7.11b) `bowtie2_index` (using bowtie2 v.2.5.3) `bismark_bt2_index` (using bismark v.0.24.2) and `10x_index` for GEX (using CellRanger v.7.2.0).
 
-Additional files:  
-- `gencode_gtf`: Gencode release 45  
-- `blacklist`: Contains regions prone to misalignment or bias in genomic analysis, `blacklist:ENCODE` is sourced from [ENCODE project](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg38-blacklist.v2.bed.gz) for ATAC/ChIP-seq and `blacklist:CUTANDRUN` is sourced from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3) for use with CUT&RUN.  
+#### Additional files
+`gencode_gtf`: Gencode release 45  
+`blacklist`: Contains regions prone to misalignment or bias in genomic analysis, `blacklist:ENCODE` is sourced from [ENCODE project](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg38-blacklist.v2.bed.gz) for ATAC/ChIP-seq and `blacklist:CUTANDRUN` is sourced from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3) for use with CUT&RUN.  
 
-Additional info:  
-- Chromosome names: 1, 2, 3, ... , MT, X, Y
-- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
+#### Additional info
+Chromosome names: 1, 2, 3, ... , MT, X, Y
+Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
 
 
 ### GRCm39_ensembl
@@ -159,7 +159,7 @@ refgenie list -g  GRCm39_ensembl
 └────────────────┴────────────────────────────────────────────────────────────────┴──────────────────────────┘
 ```
 
-Characteristics:  
+#### Characteristics
 This genome references use `fasta` (GRCm39 primary assembly) and `ensembl_gtf` (Ensembl release 111) to build `star_index` for STAR v.2.7.11b, `bowtie2_index` for bowtie2 v.2.5.3, `bismark_bt2_index` for Bismark v.0.24.2. and `10x_index` for Cellranger v.7.2.0.  
 
 ```bash
@@ -168,12 +168,12 @@ wget -L http://ftp.ensembl.org/pub/release-$VERSION/fasta/mus_musculus/dna/Mus_m
 wget -L http://ftp.ensembl.org/pub/release-$VERSION/gtf/mus_musculus/Mus_musculus.GRCm39.$VERSION.gtf.gz
 ```
 
-Additional files:  
-•	`blacklist`: `blacklist:EXCLUDERANGES` from [Ogata et al. 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126321/) and `blacklist:CUTANDRUN` from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3)
+#### Additional files
+`blacklist`: `blacklist:EXCLUDERANGES` from [Ogata et al. 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126321/) and `blacklist:CUTANDRUN` from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3)
 
-Additional info:  
-•	Chromosome names: 1, 2, 3, ... , MT, X, Y  
-•	Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
+#### Additional info
+Chromosome names: 1, 2, 3, ... , MT, X, Y  
+Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
 
 ### GRCh38_legacy
 ```bash
@@ -197,16 +197,16 @@ refgenie list -g GRCh38_legacy
 └───────────────┴────────────────────────────────────────────────────────┴─────────┘
 ```
 
-Characteristics:  
+#### Characteristics
 For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.  
 
-Additional files:  
-- `10x_index`: 10x index for GEX, issued by 10x in 2020 as refdata-gex-GRCh38-2020-A  
-- `blacklist`: ENCODE blacklist sourced from [nf-core/atac assets](https://github.com/nf-core/atacseq/tree/master/assets/blacklists/v2.0)
+#### Additional files
+`10x_index`: 10x index for GEX, issued by 10x in 2020 as refdata-gex-GRCh38-2020-A  
+`blacklist`: ENCODE blacklist sourced from [nf-core/atac assets](https://github.com/nf-core/atacseq/tree/master/assets/blacklists/v2.0)
 
-Additional info:  
-- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
-- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html)  
+#### Additional info
+Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
+Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html)  
 
 ### mm10_legacy
 
@@ -224,13 +224,13 @@ Additional info:
 └─────────────┴────────────────────────────────────────────┴───────────────────┘
 ```
 
-Characteristics:  
+#### Characteristics 
 mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `gencode_gtf` (gencode vM15) to generate `star_index` for STAR v.2.7.2d , `bowtie2_index` and `bismark_bt2_index` for Bismark v.0.22.3.  
 
-Additional files:  
-- `blacklist` files from [ENCODE](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/mm10-blacklist.v2.bed.gz) and GUAVA  
-- `10x_index` files (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
+#### Additional files
+`blacklist` files from [ENCODE](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/mm10-blacklist.v2.bed.gz) and GUAVA  
+`10x_index` files (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
 
-Additional info:  
-- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
-- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
+#### Additional info
+Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
+Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
