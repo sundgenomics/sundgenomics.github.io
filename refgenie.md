@@ -46,7 +46,8 @@ which gives you a path to the file:
 /maps/projects/dan1/data/RefGenomes_reNEW/alias/GRCh38_ensembl/blacklist/CUTANDRUN/GRCh38_ensembl_blacklist.bed.gz
 ```
 
-## Reference genome options for human
+## Reference genome options for human (hg)
+
 For human reference genome there are several options:  
 
 **GRCh38_ensembl** - the most updated reference genome that we suggest for new projects starting from 2024 and on. We currently use this as our default reference genome for human.  
