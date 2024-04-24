@@ -9,12 +9,30 @@ refgenie list
 
 which will output a list of available genomes.
 ```bash
-
-
+                                                       Local refgenie assets                                                       
+                                        Server subscriptions: http://refgenomes.databio.org                                        
+┏━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ genome              ┃ assets                                                                                                    ┃
+┡━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ GRCh38_ensembl      │ fasta, ensembl_gtf, gencode_gtf, blacklist, star_index, bowtie2_index, bismark_bt2_index, 10x_index       │
+│ hg38_refgenie, hg38 │ fasta, gencode_gtf, ensembl_gtf, bwa_index, bowtie2_index, star_index, hisat2_index,                      │
+│                     │ cellranger_reference, bismark_bt2_index, fasta_txome, salmon_sa_index                                     │
+│ GRCm39_ensembl      │ fasta, ensembl_gtf, bowtie2_index, star_index, bismark_bt2_index, 10x_index, blacklist                    │
+│ dm6_ensembl         │ fasta, bowtie2_index                                                                                      │
+│ GRCh38_dm6          │ fasta, bowtie2_index                                                                                      │
+│ GRCm39_dm6          │ fasta, bowtie2_index                                                                                      │
+│ GRCh38_legacy       │ fasta, gencode_gtf, blacklist, gtf_TE, star_index, bowtie2_index, bismark_bt2_index, 10x_index            │
+│ mm10_legacy         │ fasta, gencode_gtf, blacklist, star_index, bowtie2_index, bismark_bt2_index, 10x_index                    │
+│ dm6_FlyBase         │ fasta, flybase_gtf, star_index, bowtie2_index, bismark_bt2_index                                          │
+│ puc19               │ fasta, bismark_bt2_index                                                                                  │
+│ lambda              │ fasta, bismark_bt2_index                                                                                  │
+│ Spombe_h90          │ fasta, bowtie2_index                                                                                      │
+│ Ecoli               │ fasta, bowtie2_index                                                                                      │
+│ sacCer3             │ fasta, ncbi_gff, star_index, bowtie2_index                                                                │
+└─────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-You can further find contents of each reference genome using `list -g` option
-
+You can further find contents of each reference genome using `list -g` option:
 ```bash
 refgenie list -g GRCh38_ensembl
 ```
@@ -36,12 +54,13 @@ which gives you the information on available assets for the reference genome of 
 │ GRCh38_ensembl │ 10x_index (10x_index, dir, filtered_gtf)                       │ 7.2.0             │
 └────────────────┴────────────────────────────────────────────────────────────────┴───────────────────┘
 ```
-And finally you can find a path to a specific asset as `<genome>/<asset>:<tag>`
+
+finally, you can find a path to a specific asset as `<genome>/<asset>:<tag>`
 ```bash
 refgenie seek GRCh38_ensembl/blacklist:CUTANDRUN
 ```
 
-which gives you a path to the file:
+which gives you a path to the asset file:
 ```bash
 /maps/projects/dan1/data/RefGenomes_reNEW/alias/GRCh38_ensembl/blacklist/CUTANDRUN/GRCh38_ensembl_blacklist.bed.gz
 ```
@@ -51,21 +70,21 @@ which gives you a path to the file:
 For human reference genome there are several options:  
 
 **GRCh38_ensembl** - the most updated reference genome that we suggest for new projects starting from 2024 and on. We currently use this as our default reference genome for human.  
-
+  
 **GRCh38_legacy** - The human reference genome the Genomics Platform used 2017-2023.  
-
+  
 **GRCh38_dm6** - hybrid genome between GRCh38_ensembl and dm6_ensembl. This can be used for alignments when you have used spike-in from the fly. This reference contains only fasta and bowtie2 index.  
-
+  
 **GRCh38_refgenie** (same as GRCh38) - the reference genome pulled from refgenie. Genomics Platform does not use this reference but it is available for users. Please note that if you run nf-core pipelines and use GRCh38 as reference genome, it will use GRCh38 from iGenomes reference genome instead of refgenie reference genome.  
 
 ## Reference genome options for mouse (mm)
 
 For mouse reference genome there are also several options:  
-
+  
 **GRCm39_ensembl** - the newest reference genome that we recommend for new projects starting from 2024 and on. This genome is the default reference genome for running Genomics Platform pipelines.  
-
+  
 **mm10_legacy** - This is the mouse reference genome we used 2017-2023.  
-
+  
 **GRCm39_dm6** - hybrid genome between GRCm39_ensembl and dm6_ensembl. This can be used for alignments when you have used spike-in from the fly.  
 
 
@@ -103,16 +122,15 @@ refgenie list -g GRCh38_legacy
 └───────────────┴────────────────────────────────────────────────────────┴─────────┘
 ```
 Characteristics:  
-For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.
+For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.  
 
 Additional files:  
-- `10x_index`: 10x index for GEX, sourced from 10x refdata-gex-GRCh38-2020-A  
+- `10x_index`: 10x index for GEX, issued by 10x in 2020 as refdata-gex-GRCh38-2020-A  
 - `blacklist`: ENCODE blacklist sourced from [nf-core/atac assets](https://github.com/nf-core/atacseq/tree/master/assets/blacklists/v2.0)
 
 Additional info:  
 - Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
 - Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html)  
-
 
 ### GRCh38_ensembl
 
@@ -137,12 +155,12 @@ refgenie list -g  GRCh38_ensembl
 └────────────────┴────────────────────────────────────────────────────────────────┴───────────────────┘
 ```
 
-Characteristics:
-This genome genome uses fasta (GRCh38.p14 primary assembly) and ensembl_gtf (Ensembl release 111) to generate star_index (using STAR 2.7.11b) bowtie2_index (using bowtie2 v.2.5.3) bismark_bt2_index (using bismark v.0.24.2) and 10x_index for GEX (using CellRanger v.7.2.0).
+Characteristics:  
+This genome genome uses `fasta` (GRCh38.p14 primary assembly) and `ensembl_gtf` (Ensembl release 111) to generate `star_index` (using STAR 2.7.11b) `bowtie2_index` (using bowtie2 v.2.5.3) `bismark_bt2_index` (using bismark v.0.24.2) and `10x_index` for GEX (using CellRanger v.7.2.0).
 
 Additional files:  
-- gencode_gtf: Gencode release 45  
-- blacklist: Contains regions prone to misalignment or bias in genomic analysis, sourced from [ENCODE project](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg38-blacklist.v2.bed.gz) for ATAC/ChIP-seq and from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3) for CUT&RUN.  
+- `gencode_gtf`: Gencode release 45  
+- `blacklist`: Contains regions prone to misalignment or bias in genomic analysis, `blacklist:ENCODE` is sourced from [ENCODE project](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg38-blacklist.v2.bed.gz) for ATAC/ChIP-seq and `blacklist:CUTANDRUN` is sourced from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3) for use with CUT&RUN.  
 
 Additional info:  
 - Chromosome names: 1, 2, 3, ... , MT, X, Y
@@ -169,9 +187,8 @@ refgenie list -g  GRCm39_ensembl
 └────────────────┴────────────────────────────────────────────────────────────────┴──────────────────────────┘
 ```
 
-Characteristics:
-
-this genome references use fasta (GRCm39 primary assembly) and ensembl_gtf (Ensembl release 111).
+Characteristics:  
+This genome references use `fasta` (GRCm39 primary assembly) and `ensembl_gtf` (Ensembl release 111) to build `star_index` for STAR v.2.7.11b, `bowtie2_index` for bowtie2 v.2.5.3, `bismark_bt2_index` for Bismark v.0.24.2. and `10x_index` for Cellranger v.7.2.0.  
 
 ```bash
 VERSION=111
@@ -179,10 +196,8 @@ wget -L http://ftp.ensembl.org/pub/release-$VERSION/fasta/mus_musculus/dna/Mus_m
 wget -L http://ftp.ensembl.org/pub/release-$VERSION/gtf/mus_musculus/Mus_musculus.GRCm39.$VERSION.gtf.gz
 ```
 
-These files were used to build `star_index` for STAR v.2.7.11b, `bowtie2_index` for bowtie2 v.2.5.3, `bismark_bt2_index` for Bismark v.0.24.2. and `10x_index` for Cellranger v.7.2.0.  
-
 Additional files:
-•	`blacklist` files from Excluderanges tool (default) and CUT&RUN publication ()
+•	`blacklist`: `blacklist:EXCLUDERANGES` from [Ogata et al. 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126321/) and `blacklist:CUTANDRUN` from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3)
 
 Additional info:
 •	Chromosome names: 1, 2, 3, ... , MT, X, Y  
@@ -207,9 +222,9 @@ Characteristics:
 mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `gencode_gtf` (gencode vM15) to generate `star_index` for STAR v.2.7.2d , `bowtie2_index` and `bismark_bt2_index` for Bismark v.0.22.3.  
 
 Additional files:  
-- blacklists from [ENCODE](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/mm10-blacklist.v2.bed.gz) and GUAVA  
-- 10x indexes (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
+- `blacklist` files from [ENCODE](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/mm10-blacklist.v2.bed.gz) and GUAVA  
+- `10x_index` files (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
 
 Additional info:  
-- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.  
-•	Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
+- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
+- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
