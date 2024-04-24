@@ -121,6 +121,7 @@ refgenie list -g GRCh38_legacy
 │ GRCh38_legacy │ 10x_index (10x_index, dir)                             │ default │
 └───────────────┴────────────────────────────────────────────────────────┴─────────┘
 ```
+
 Characteristics:  
 For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.  
 
@@ -196,10 +197,10 @@ wget -L http://ftp.ensembl.org/pub/release-$VERSION/fasta/mus_musculus/dna/Mus_m
 wget -L http://ftp.ensembl.org/pub/release-$VERSION/gtf/mus_musculus/Mus_musculus.GRCm39.$VERSION.gtf.gz
 ```
 
-Additional files:
+Additional files:  
 •	`blacklist`: `blacklist:EXCLUDERANGES` from [Ogata et al. 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126321/) and `blacklist:CUTANDRUN` from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3)
 
-Additional info:
+Additional info:  
 •	Chromosome names: 1, 2, 3, ... , MT, X, Y  
 •	Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
 
@@ -218,6 +219,7 @@ Additional info:
 │ mm10_legacy │ 10x_index (10x_index, dir)                 │ GEX, GEX_GFP, ARC │
 └─────────────┴────────────────────────────────────────────┴───────────────────┘
 ```
+
 Characteristics:  
 mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `gencode_gtf` (gencode vM15) to generate `star_index` for STAR v.2.7.2d , `bowtie2_index` and `bismark_bt2_index` for Bismark v.0.22.3.  
 
