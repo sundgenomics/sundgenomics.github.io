@@ -1,6 +1,8 @@
 # Using reference genomes with refgenie
 
-Reference genomes used in genomics pipelines can be accessed via [refgenie](http://refgenie.databio.org/en/latest/). [Please refer to DANGPU user guide for more details.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/#reference-genomes-on-dangpu) 
+Reference genomes used in genomics pipelines can be accessed via [refgenie](http://refgenie.databio.org/en/latest/). 
+
+[Please refer to DANGPU user guide for more details.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/#reference-genomes-on-dangpu) 
 
 In short, you can find available reference genomes like this:
 
