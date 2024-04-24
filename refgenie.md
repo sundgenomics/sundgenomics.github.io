@@ -94,6 +94,7 @@ For mouse reference genome there are also several options:
 
 ## Other reference genomes
 There are various spike-in genomes included in refgenie:  
+dm6_ensembl  
 dm6_FlyBase  
 puc19  
 lambda  
@@ -130,6 +131,12 @@ refgenie list -g  GRCh38_ensembl
 #### Characteristics
 This genome genome uses `fasta` (GRCh38.p14 primary assembly) and `ensembl_gtf` (Ensembl release 111) to generate `star_index` (using STAR 2.7.11b) `bowtie2_index` (using bowtie2 v.2.5.3) `bismark_bt2_index` (using bismark v.0.24.2) and `10x_index` for GEX (using CellRanger v.7.2.0).
 
+```bash
+VERSION=111
+wget -L http://ftp.ensembl.org/pub/release-${VERSION}/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+wget -L http://ftp.ensembl.org/pub/release-${VERSION}/gtf/homo_sapiens/Homo_sapiens.GRCh38.${VERSION}.gtf.gz
+```
+
 #### Additional files
 `gencode_gtf`: Gencode release 45  
 `blacklist`: Contains regions prone to misalignment or bias in genomic analysis, `blacklist:ENCODE` is sourced from [ENCODE project](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg38-blacklist.v2.bed.gz) for ATAC/ChIP-seq and `blacklist:CUTANDRUN` is sourced from [Nordin et al. 2023](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03027-3) for use with CUT&RUN.  
@@ -164,8 +171,8 @@ This genome references use `fasta` (GRCm39 primary assembly) and `ensembl_gtf` (
 
 ```bash
 VERSION=111
-wget -L http://ftp.ensembl.org/pub/release-$VERSION/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna_sm.primary_assembly.fa.gz
-wget -L http://ftp.ensembl.org/pub/release-$VERSION/gtf/mus_musculus/Mus_musculus.GRCm39.$VERSION.gtf.gz
+wget -L http://ftp.ensembl.org/pub/release-${VERSION}/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna_sm.primary_assembly.fa.gz
+wget -L http://ftp.ensembl.org/pub/release-${VERSION}/gtf/mus_musculus/Mus_musculus.GRCm39.${VERSION}.gtf.gz
 ```
 
 #### Additional files
