@@ -100,39 +100,6 @@ sacCer3
 ## Genomes in detail
 Below you can find more detailed description of some of the main genomes.
 
-### GRCh38_legacy
-```bash
-refgenie list -g GRCh38_legacy
-```
-
-```bash
-                               Local refgenie assets                                
-                Server subscriptions: http://refgenomes.databio.org                 
-┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┓
-┃ genome        ┃ asset (seek_keys)                                      ┃ tags    ┃
-┡━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━┩
-│ GRCh38_legacy │ fasta (fasta, fai, chrom_sizes, hg38_chrom_sizes, dir) │ default │
-│ GRCh38_legacy │ gencode_gtf (gencode_gtf, dir)                         │ default │
-│ GRCh38_legacy │ blacklist (blacklist, dir)                             │ ENCODE  │
-│ GRCh38_legacy │ gtf_TE (gtf_TE, dir)                                   │ default │
-│ GRCh38_legacy │ star_index (star_index, dir)                           │ 2.7.2d  │
-│ GRCh38_legacy │ bowtie2_index (bowtie2_index, dir)                     │ default │
-│ GRCh38_legacy │ bismark_bt2_index (bismark_bt2_index, dir)             │ 0.22.3  │
-│ GRCh38_legacy │ 10x_index (10x_index, dir)                             │ default │
-└───────────────┴────────────────────────────────────────────────────────┴─────────┘
-```
-
-Characteristics:  
-For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.  
-
-Additional files:  
-- `10x_index`: 10x index for GEX, issued by 10x in 2020 as refdata-gex-GRCh38-2020-A  
-- `blacklist`: ENCODE blacklist sourced from [nf-core/atac assets](https://github.com/nf-core/atacseq/tree/master/assets/blacklists/v2.0)
-
-Additional info:  
-- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
-- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html)  
-
 ### GRCh38_ensembl
 
 ```bash
@@ -204,7 +171,40 @@ Additional info:
 •	Chromosome names: 1, 2, 3, ... , MT, X, Y  
 •	Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
 
-## mm10_legacy
+### GRCh38_legacy
+```bash
+refgenie list -g GRCh38_legacy
+```
+
+```bash
+                               Local refgenie assets                                
+                Server subscriptions: http://refgenomes.databio.org                 
+┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┓
+┃ genome        ┃ asset (seek_keys)                                      ┃ tags    ┃
+┡━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━┩
+│ GRCh38_legacy │ fasta (fasta, fai, chrom_sizes, hg38_chrom_sizes, dir) │ default │
+│ GRCh38_legacy │ gencode_gtf (gencode_gtf, dir)                         │ default │
+│ GRCh38_legacy │ blacklist (blacklist, dir)                             │ ENCODE  │
+│ GRCh38_legacy │ gtf_TE (gtf_TE, dir)                                   │ default │
+│ GRCh38_legacy │ star_index (star_index, dir)                           │ 2.7.2d  │
+│ GRCh38_legacy │ bowtie2_index (bowtie2_index, dir)                     │ default │
+│ GRCh38_legacy │ bismark_bt2_index (bismark_bt2_index, dir)             │ 0.22.3  │
+│ GRCh38_legacy │ 10x_index (10x_index, dir)                             │ default │
+└───────────────┴────────────────────────────────────────────────────────┴─────────┘
+```
+
+Characteristics:  
+For GRCh38_legacy reference, `fasta` (Encode fasta GRCh38.p13) and `gencode_gtf` (from gencode.v32) were used to generate `star_index` using STAR v.2.7.2d, `bowtie2_index` using bowtie2 v2.3.4.1, `bismark_bt2_index` using bismark v0.22.3, `gtf_TE` for using with TETranscripts.  
+
+Additional files:  
+- `10x_index`: 10x index for GEX, issued by 10x in 2020 as refdata-gex-GRCh38-2020-A  
+- `blacklist`: ENCODE blacklist sourced from [nf-core/atac assets](https://github.com/nf-core/atacseq/tree/master/assets/blacklists/v2.0)
+
+Additional info:  
+- Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
+- Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html)  
+
+### mm10_legacy
 
 ```bash
 ┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
