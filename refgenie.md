@@ -129,7 +129,7 @@ refgenie list -g  GRCh38_ensembl
 ```
 
 #### Characteristics
-This genome genome uses `fasta` (GRCh38.p14 primary assembly from soft masked genome) and `ensembl_gtf` (Ensembl release 111) to generate `star_index` (using STAR 2.7.11b) `bowtie2_index` (using bowtie2 v.2.5.3) `bismark_bt2_index` (using bismark v.0.24.2) and `10x_index` for GEX (using CellRanger v.7.2.0).
+This genome genome uses `fasta` (GRCh38.p14 primary assembly from soft-masked genome) and `ensembl_gtf` (Ensembl release 111) to generate `star_index` (using STAR 2.7.11b) `bowtie2_index` (using bowtie2 v.2.5.3) `bismark_bt2_index` (using bismark v.0.24.2) and `10x_index` for GEX (using CellRanger v.7.2.0).
 
 ```bash
 VERSION=111
@@ -169,7 +169,7 @@ refgenie list -g  GRCm39_ensembl
 ```
 
 #### Characteristics
-This genome references use `fasta` (GRCm39 primary assembly) and `ensembl_gtf` (Ensembl release 111) to build `star_index` for STAR v.2.7.11b, `bowtie2_index` for bowtie2 v.2.5.3, `bismark_bt2_index` for Bismark v.0.24.2. and `10x_index` for Cellranger v.7.2.0.  
+This genome references use `fasta` (GRCm39 primary assembly from soft-masked genome) and `ensembl_gtf` (Ensembl release 111) to build `star_index` for STAR v.2.7.11b, `bowtie2_index` for bowtie2 v.2.5.3, `bismark_bt2_index` for Bismark v.0.24.2. and `10x_index` for Cellranger v.7.2.0.  
 
 ```bash
 VERSION=111
@@ -245,5 +245,5 @@ mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `genc
 `10x_index` files (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
 
 #### Additional info
-Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.
+Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.  
 Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
