@@ -239,7 +239,7 @@ Effective genome sizes can be found in [deeptools documentation](https://deeptoo
 mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `gencode_gtf` (gencode vM15) to generate `star_index` for STAR v.2.7.2d , `bowtie2_index` and `bismark_bt2_index` for Bismark v.0.22.3.  
 
 #### Additional files
-`blacklist` files are included:
+`blacklist` files are included:  
 `blacklist:ENCODE` from [ENCODE](https://github.com/Boyle-Lab/Blacklist/blob/master/lists/mm10-blacklist.v2.bed.gz) and  
 `blacklist:GUAVA` from [GUAVA](https://github.com/MayurDivate/GUAVA/blob/master/lib/blacklists/JDB_blacklist.mm10.bed)  
 `10x_index` files (issued by 10x in 2020): `10_index:GEX` for gene expression profiling, `10x_index:ARC` for single cell ATAC. For internal use we have also generated , `10x_index:GEX_GFP` for gene expression profiling with GFP reference included.  
