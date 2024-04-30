@@ -11,28 +11,27 @@ The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR
 
 The monthly meeting happens on Wednesdays 11:00-12:00 on week 20, 26, 35, 40, 45, 49:
 
-**week 20**: 
+**week 20**:  
 Wednesday - May 15th - 11:00-12:00
 meeting room: 7.15.122
 
-**week 26**:
+**week 26**:  
 Wednesday - June 26th - 11:00-12:00
 meeting room: 7.15.122
 
-**week 35**:
+**week 35**:  
 Wednesday - Aug 28 - 11:00-12:00
 ATTENTION! DIFFERENT MEETING ROOM: Faculty Club 16.6.16
 
-**week 40**
+**week 40**:  
 Wednesday - Oct 02 - 11:00-12:00
 meeting room: 7.15.122
 
-
-**week 45**
+**week 45**:  
 Wednesday - Nov 06 - 11:00-12:00
 meeting room: 7.15.122
 
-**week 49**
+**week 49**:  
 Wednesday - Dec 04 - 11:00-12:00
 meeting room: 7.15.122
 
