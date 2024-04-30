@@ -1,44 +1,48 @@
 # Chat for Bioinformatics Peer Community
 
 Chat for Bioinformatics Peer Community (ChatBPC) is an informal Bioinformatician meetup, organized by the reNEW/CPR Genomics Platform.
-Join us for an informal gathering aimed to activate the bioinformatics community at reNEW, CPR, ICMM and CGEN.
+The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR, reNEW.
 
 ## Quick links
 
 [ChatBPC Meeting Notes](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/EpHtLJt2hH1DvEKMEmUzWscBcDha9VrhSVlides5aTYRkg?e=RDx4du)  
 
-## Date and Time
-Tuesday, 22 August 2023: 13:30 - 14:30  
-Thursday, 28 September 2023: 14:00 - 15:00  
-Wednesday, 1 November 2023: 11:00 - 12:00  
-Wednesday, 13 December 2023: 10:30 - 11:30  
- 
-## Place
-Faculty Lounge 7.15.149 (Maersk tower)
+## Date, Time, Place
+
+The monthly meeting happens on Wednesdays 11:00-12:00 on week 20, 26, 35, 40, 45, 49:
+
+**week 20**: 
+Wednesday - May 15th - 11:00-12:00
+meeting room: 7.15.122
+
+**week 26**:
+Wednesday - June 26th - 11:00-12:00
+meeting room: 7.15.122
+
+**week 35**:
+Wednesday - Aug 28 - 11:00-12:00
+ATTENTION! DIFFERENT MEETING ROOM: Faculty Club 16.6.16
+
+** week 40 **
+Wednesday - Oct 02 - 11:00-12:00
+meeting room: 7.15.122
+
+
+** week 45 **
+Wednesday - Nov 06 - 11:00-12:00
+meeting room: 7.15.122
+
+** week 49 **
+Wednesday - Dec 04 - 11:00-12:00
+meeting room: 7.15.122
+
  
 ## What to expect
-The meetings will take one hour, with an opportunity to use Maersk tower space afterwards.
 
-Each meeting will be divided into three theme slots:
+ChatBPC is an informal gathering aimed to bring together people working with topics related to computational biology and bioinformatics of any level. The meetings are organised as discussion panels where people can share news/events/tools/publications they find interesting and discuss topics of interest. Reserve time to crawl out of your comfort zone of sitting in front of the computer (or lab bench) to have some human interaction with colleagues you don't see that often!
 
-
-**1. Fantastic Pipelines & where to find them**  
-beginner-friendly tools for bioinformatics 
-
-**2. Intermediate Bioinformagics**  
-discuss assay-specific data analysis and integration approaches
-
-**3. Advanced Sorcery**  
-discuss machine learning, present new techniques, present open problems
-
-
-The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR, reNEW.  
-
-There will be refreshments!
- 
 ## Feedback
 
-We would love to hear your input! [Please suggest topics for discussion directly at the common meeting notes](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/EpHtLJt2hH1DvEKMEmUzWscBcDha9VrhSVlides5aTYRkg?e=RDx4du).
-
+We would love to hear your input! If you have ideas on what topics should be discussed next, you can write to adrija.kalvisa@sund.ku.dk or just bring them on the meeting day.
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
