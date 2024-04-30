@@ -21,7 +21,8 @@ meeting room: 7.15.122
 
 **week 35**:  
 Wednesday - Aug 28 - 11:00-12:00  
-ATTENTION! DIFFERENT MEETING ROOM: Faculty Club 16.6.16
+ATTENTION! DIFFERENT MEETING ROOM:  
+Faculty Club 16.6.16
 
 **week 40**:  
 Wednesday - Oct 02 - 11:00-12:00  
