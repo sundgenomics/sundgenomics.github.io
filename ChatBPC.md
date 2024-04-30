@@ -39,7 +39,7 @@ meeting room: 7.15.122
  
 ## What to expect
 
-ChatBPC is an informal gathering aimed to bring together people working with topics related to computational biology and bioinformatics of any level. The meetings are organised as discussion panels where people can share news/events/tools/publications they find interesting and discuss topics of interest. Reserve time to crawl out of your comfort zone of sitting in front of the computer (or lab bench) to have some human interaction with colleagues you don't see that often!
+ChatBPC is an informal gathering aimed to bring together people working with computational biology and bioinformatics of any level. The meetings are organised as discussion panels where people can share news/events/tools/publications they find interesting and discuss topics of interest. Reserve time to crawl out of your comfort zone of sitting in front of the computer (or lab bench) to have some human interaction with colleagues you don't see that often!
 
 ## Feedback
 
