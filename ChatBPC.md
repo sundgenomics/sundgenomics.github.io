@@ -9,7 +9,7 @@ The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR
 
 ## Date, Time, Place
 
-The monthly meeting happens on Wednesdays 11:00-12:00 on week 20, 26, 35, 40, 45, 49:
+The monthly meeting happens on Wednesdays 11:00-12:00 on week 20, 26, 35, 40, 45, 49 in the room 7.15.122 at Maersk Tower.
 
 **week 20**:  
 Wednesday - May 15th - 11:00-12:00  
