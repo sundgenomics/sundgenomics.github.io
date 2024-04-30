@@ -23,16 +23,16 @@ meeting room: 7.15.122
 Wednesday - Aug 28 - 11:00-12:00
 ATTENTION! DIFFERENT MEETING ROOM: Faculty Club 16.6.16
 
-** week 40 **
+**week 40**
 Wednesday - Oct 02 - 11:00-12:00
 meeting room: 7.15.122
 
 
-** week 45 **
+**week 45**
 Wednesday - Nov 06 - 11:00-12:00
 meeting room: 7.15.122
 
-** week 49 **
+**week 49**
 Wednesday - Dec 04 - 11:00-12:00
 meeting room: 7.15.122
 
