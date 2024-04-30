@@ -43,6 +43,6 @@ ChatBPC is an informal gathering aimed to bring together people working with com
 
 ## Feedback
 
-We would love to hear your input! If you have ideas on what topics should be discussed next, you can write to adrija.kalvisa@sund.ku.dk or just bring them on the meeting day.
+We would love to hear your input! If you have ideas on what topics should be discussed next, you can write to adrija.kalvisa@sund.ku.dk, add to the agenda of the [ChatBPC Meeting Notes](https://alumni.sharepoint.com/:o:/s/UCPH_SUND_GENOMICS_PLATFORM/EpHtLJt2hH1DvEKMEmUzWscBcDha9VrhSVlides5aTYRkg?e=RDx4du) or just bring them on the meeting day.
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
