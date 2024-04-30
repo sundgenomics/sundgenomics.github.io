@@ -10,26 +10,27 @@ This is a sequencing service we provide for scientists who have experience with 
 
 ### How does it work?
 
-1. Create your submission folder
+1. You create your submission folder
      * Connect to the submission folder 
        * `smb://unicph.domain/groupdir/SUN-CPR-genomics-users/DIRECT-SEQUENCING-SUBMISSION/`
-       * If you don't have access, please contact Magali
+       * If you don't have access but have already done the  [onboarding](onboarding.md), please contact the platform by email at genomics@sund.ku.dk
      * Create a folder
        * Typically Application-Name (e.g. SCAR-Valentin) 
        * With an index if submitting several runs in a short period of time (e.g. SCAR-Valentin-1, SCAR-Valentin-2)
      * Prepare the samplesheet
        * Following the instructions [here](demux.md)
        * Place it in the folder just created (If not available yet, place it as soon as available - and BEFORE sequencing)
-     * Place the Fragment Analyser report in the folder
+     * Place the Tape Station or Fragment Analyser report in the folder
         * If not available yet, place it as soon as you have it
-2. Fill the sequencing request form [here](https://forms.office.com/e/Dgq0KkLsi3)
+2. You fill the sequencing request form [here](https://forms.office.com/e/Dgq0KkLsi3)
      * When we ask for the folder name, it is the name of the folder you just created
      * For any additional information, there is a free text field at the end
      * By default, we add PhiX. If you don't want that, please indicate in the final text box.
      * Regarding the data analysis, if you want the fastq files to process yourself, you select FASTQ, otherwise you can choose one of the existing pipelines (described here soon..). If you need more, then we need a meeting beforehand.
      * After you submit, you will receive your submission by email (on the email you have filled at the top)
-3. We validate the submission (you get the submission_ID)
-     * When we receive the request, we look at it and rename the folder with the submission_ID from our database
+     * You can now add your submission ID at the start of the folder name
+3. We validate the submission
+     * When we receive the request, we look at it and check if everything is clear (or ask questions if not)
      * We schedule the sequencing with the first availability from the date you have mentioned that the samples are ready
      * We check that we have the required files at least the day before the schedule sequencing date
 4. You place the submission pool in the freezer
