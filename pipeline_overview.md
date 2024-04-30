@@ -7,10 +7,12 @@ The following pipelines can be selected for the Genomics Platform to run:
  - ATAC 
  - CELL-RANGER
  - CHIP-CHOR-SCAR
- - CRISPR
  - CRISPRESSO2
  - CUTRUN-CUTTAG
  - FASTQ
+ - MAGECK
+ - MAGECK_BEAN
+ - MAGECK_DRUGZ_BAGEL
  - RAW
 
  **nf-core** pipelines offered by Genomics Platform
@@ -44,15 +46,11 @@ This pipeline can handle UMIs.
 
 ![CHOR pipeline](/images/f03_CHOR.pdf)
 
-### CRISPR
-
-
 
 
 ### CRISPRESSO2
 
-
-
+This pipeline is used for amplicon submissions and described [here](http://crispresso.pinellolab.org/submission).
 
 
 ### CUTRUN-CUTTAG
@@ -73,6 +71,22 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files accordin
 - Software used: bcl2fasta, multiQC  
 
 ![demux pipeline](/images/f01_demultiplex.pdf)
+
+### MAGECK
+
+This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
+
+### MAGECK_BEAN
+
+For CRISPR_reporter_library submissions, we typically run Mageck as well as [BEAN](https://pinellolab.github.io/crispr-bean/).
+We run Mageck 3 times as follows:
+  * guide on R1
+  * rev-compl of guide on R2
+  * insert on R1
+
+### MAGECK_DRUGZ_BAGEL
+
+This pipeline starts with the Mageck pipeline explained above to compute the raw count matrix. After that, we run DrugZ on the raw counts. Also, we compute a normalised count matrix and run Bagel. For all these steps, we need you to email us the details of the experimental design amd which exact comparisons you need.
 
 ### RNA (deprecated)
 
