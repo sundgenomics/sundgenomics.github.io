@@ -74,7 +74,7 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files accordin
 
 ### MAGECK
 
-This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
+This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers following Durocher's lab protocol. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
 
 ### MAGECK-BEAN
 
