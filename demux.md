@@ -64,7 +64,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * if not present, please contact us
 * GUIDES - choose from the drop-down menu
   * we list here the libraries that we have already formatted and worked with
-  * if not present, please contact us
+  * if not present, select NEW_LIBRARY and prepare a new library file following the instructions [here](crispr.md)
 
 
 #### Filling out the 10X template
