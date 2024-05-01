@@ -11,8 +11,8 @@ The following pipelines can be selected for the Genomics Platform to run:
  - CUTRUN-CUTTAG
  - FASTQ
  - MAGECK
- - MAGECK_BEAN
- - MAGECK_DRUGZ_BAGEL
+ - MAGECK-BEAN
+ - MAGECK-DRUGZ-BAGEL
  - RAW
 
  **nf-core** pipelines offered by Genomics Platform
@@ -76,7 +76,7 @@ Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files accordin
 
 This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
 
-### MAGECK_BEAN
+### MAGECK-BEAN
 
 For CRISPR_reporter_library submissions, we typically run Mageck as well as [BEAN](https://pinellolab.github.io/crispr-bean/).
 We run Mageck 3 times as follows:
@@ -84,7 +84,7 @@ We run Mageck 3 times as follows:
   * rev-compl of guide on R2
   * insert on R1
 
-### MAGECK_DRUGZ_BAGEL
+### MAGECK-DRUGZ-BAGEL
 
 This pipeline starts with the Mageck pipeline explained above to compute the raw count matrix. After that, we run DrugZ on the raw counts. Also, we compute a normalised count matrix and run Bagel. For all these steps, we need you to email us the details of the experimental design amd which exact comparisons you need.
 
