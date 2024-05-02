@@ -65,6 +65,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 * GUIDES - choose from the drop-down menu
   * we list here the libraries that we have already formatted and worked with
   * if not present, select NEW_LIBRARY and prepare a new library file following the instructions [here](crispr.md)
+* CRISPRESSO2_XXX - required only when you select the CRISPRESSO2 pipeline. These columns follow the naming of the [CRISPRESSO2 command parameters](http://crispresso.pinellolab.org/submission).
 
 
 #### Filling out the 10X template
