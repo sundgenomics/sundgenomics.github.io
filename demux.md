@@ -60,7 +60,7 @@ In most sequencing runs, several samples are combined with a set of multiplexing
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
 * pipeline - choose from the drop-down menu
   * if you want us to run one of our pipelines, please select the one you want. [Info about the pipelines are here](pipeline_overview.md).
-  * if you select CRISPRESSO2, please add additional columns in your sample sheet for the parameters to use.
+  * if you select CRISPRESSO2, please make sure to fill out the CRISPRESS2-specific columns in your samplesheet.
   * if not present, please contact us
 * GUIDES - choose from the drop-down menu
   * we list here the libraries that we have already formatted and worked with
