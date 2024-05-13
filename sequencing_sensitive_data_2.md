@@ -17,7 +17,7 @@ Research Project Owner [FULL NAME] would like to notify the Genomics Platform th
  
 The sequencing data for this run will be generated on a sequencer at the Genomics Platform and copied to the dangpu server within the sensitive and access-controlled dataset /datasets/renew_genomics_sdata-AUDIT for internal handling. 
 
-To deliver the task, the data will be copied on the following infrastructure - which is owned by the research project owner and appropriate for the project requirements: [S-drive / SIF-project]. 
+To deliver the task, the data will be copied on the following infrastructure - which is owned by the research project owner and appropriate for the project requirements: [S-drive / SIF-project / S-dataset]. 
 
 The library pool will be immediately discarded after sequencing and the sequencing data will be deleted from the sequencer after completing the data transfer to safe storage drive. 
 
@@ -29,13 +29,14 @@ Contact person for this project is [email@sund.ku.dk].
 ### Our practical workflow
 
 For sensitive data projects, we will 
-   * generate raw sequencing data on the sequencer and sync it on the sequencer itself while running (for other runs, we sync the data onto a N-drive while sequencing, but this is not allowed for sensitive data).
-   * make a copy on dangpu dataset (/datasets/renew_genomics_sdata-AUDIT), where only platform staff has access, for internal handling of the data
+   * generate raw sequencing data on the sequencer
+   * sync it while running to our server dangpu sensitive dataset (/datasets/renew_genomics_sdata-AUDIT), where only platform staff has access, for internal handling of the data
    * trash any remaining of the physical sample right after sequencing (we suggest you keep a backup in your lab if we need to resequence)
 
 For sharing the data with you, we need you to indicate on which location we can transfer the data, e.g.:
-   * Your project-specific S-drive, to which we need access
+   * Your project-specific S-drive or S-dataset provided by KU-IT, to which we need access
    * You project on [SIF](https://sif.ku.dk) (e.g. ERDA solution for sensitive data), to which we need access
+  
 
 
 
