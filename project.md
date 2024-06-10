@@ -18,7 +18,7 @@ If you are already familiar with our direct sequencing process (i.e. we have dis
 
 If you have computing or computational infrastructure questions, if you want to get access to the server danGPUThe, please contact [Sen Li](mailto:sen.li@sund.ku.dk). Here are some reference pages for information and convenience: 
 
-- [DanGPU server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/) for reNEW and [CPRGPU](https://lzg167.gitbook.io/cprgpu/general-info/readme) for CPR
+- [Dan server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
 - [Research Management and GDPR at KU](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 - [HPC facilities at KU](https://kunet.ku.dk/work-areas/research/data/data-collection-processing-analysis/high-performance-computing-facilities/Pages/default.aspx)
 - [Computerome 2](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/computerome-2.0/Pages/default.aspx)
