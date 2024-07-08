@@ -36,8 +36,7 @@ CELL-RANGER pipeline uses cellranger v.7.1.0 to demultiplex, count and aggregate
 
 ### CHIP-CHOR-SCAR
 
-CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, using dm6 as spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. 
-This pipeline can handle UMIs. 
+CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, using dm6 as the spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. This pipeline can handle UMIs. 
 
 - Inputs: .fastq files, a reference genome  
 - Options: single-end, paired-end, with and without spike-in
@@ -50,7 +49,7 @@ This pipeline can handle UMIs.
 
 ### CRISPRESSO2
 
-This pipeline is used for amplicon submissions and described [here](http://crispresso.pinellolab.org/submission).
+CRISPRESSO2 pipeline is used for amplicon submissions and described [here](http://crispresso.pinellolab.org/submission).
 
 
 ### CUTRUN-CUTTAG
@@ -65,10 +64,12 @@ CUTRUN-CUTTAG pipeline is derived from the ATAC pipeline to handle reads produce
 
 ### FASTQ
 
-Demultiplexing pipeline converts raw images (.bcl) into .fastq.gz files according to samplesheet provided by the user. Please find the most updated samplesheets [here](/demux.md)
+FASTQ pipeline demultiplexes raw images (.bcl) into .fastq.gz files according to samplesheet provided by the user. It can handle UMIs. 
+
+Please find the most updated samplesheets [here](/demux.md)
 - Inputs: raw .bcl files and a sample sheet  
-- Outputs: .fastq files, multiQC report  
-- Software used: bcl2fasta, multiQC  
+- Outputs: .fastq files, multiQC report, md5sums for fastq files
+- Software used: bcl2fasta, multiQC
 
 ![demux pipeline](/images/f01_demultiplex.pdf)
 
@@ -127,8 +128,7 @@ You can always ask for help to run other community-maintained pipelines that are
 module load miniconda/latest snakePipes/2.5.4
 ```
 
-The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on dangpu during the work hours. You can read more on how to use dangpu server [here](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)
-
+The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on DANHEAD during the work hours. [You can read more on how to use DANHEAD HPC here.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
 
 
 ### AVAILABLE REFERENCE GENOMES
