@@ -247,3 +247,5 @@ mm10_legacy genome references use `fasta` (GRCm38.p5 primary_assembly) and `genc
 #### Additional info
 Chromosome naming: chr1, chr2, ... chrM, chrX, chrY.  
 Effective genome sizes can be found in [deeptools documentation](https://deeptools.readthedocs.io/en/develop/content/feature/effectiveGenomeSize.html) 
+
+Go back to the [Genomics Platform home](https://sundgenomics.github.io)
