@@ -114,10 +114,10 @@ Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-co
  - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
  - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
 
-We also highly recommend to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever a user requests help. 
+We also highly recommend the users to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever a user requests help. 
 
-A dangpu-specific profile available for [nf-core/configs](https://github.com/nf-core/configs). 
-Please see development (aka most uopdated) guidelines for nf-core pipelines [here](https://github.com/AdrijaK/configs/blob/master/docs/ku_sund_dangpu.md).
+A profile for DANHEAD is available for nf-core pipelines [nf-core/configs](https://github.com/nf-core/configs). 
+Please see the pipeline use guidelines for nf-core pipelines [here](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danhead.md).
 
 
 ### RUNNING OTHER COMMUNITY PIPELINES
