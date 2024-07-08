@@ -19,7 +19,7 @@ When pooling libraries to sequence them altogether (aka multiplexing), you need 
 You can find some more information about the follow-up step (i.e. preparing the samplesheet for future demultiplexing) on [this page](/demux/).
 
 
-# Resequencing a library
+### Resequencing a library
 
 If you find that your samples require repeated sequencing, [use these guidelines to submit a re-sequencing request](/resequencing/). 
 
