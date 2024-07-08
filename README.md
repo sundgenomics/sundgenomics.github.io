@@ -34,6 +34,7 @@ Please remember to acknowledge the platform not only on your publications but al
 - [PPMS](/ppms/)
 - [Project](/project/)
 - [Direct sequencing](/directsequencing/) (submit a request [here](https://forms.office.com/e/Dgq0KkLsi3))
+- [Resequencing](/resequencing/)
 - [Index pooling](/indexpooling/) and [Demultiplexing and sample sheets](/demux/)
 - [Pipelines](/pipeline_overview/)
 - [Genomes](/refgenie)
