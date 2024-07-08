@@ -21,7 +21,7 @@ If you find that your samples require repeated sequencing, the Genomics Platform
    
 3. **Copy the Samplesheet Excel File:**  
    - Take the samplesheet from the previous SUB24_000 submission and place it in the current submission folder for the upcoming sequencing run.  
-   - Ensure that you do not change the sample names in the samplesheet unless you have added or removed libraries compared to the old run.  
+   - Ensure that you do not change the sample names in the samplesheet.  
 
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
