@@ -6,10 +6,10 @@ If you find that your samples require repeated sequencing, the Genomics Platform
    - Opt for repeated shallow sequencing of all samples instead of splitting them into two separate batches.  
    
 2. **Avoid Adding or Removing Samples:**  
-   - Do not add or remove samples during the re-sequencing run.  
+   - We do not recommend to add or remove samples to the re-sequencing run. However, you can use the initial run to find which samples should be combined in larger quantities to achieve an equal number of reads after both runs have been sequenced.  
    
 3. **Maintain Consistent Sample Naming:**  
-   - Keep the sample names consistent throughout the process.  
+   - Keep the sample names the same between the runs.  
 
 ## Steps for Requesting Resequencing:  
 
