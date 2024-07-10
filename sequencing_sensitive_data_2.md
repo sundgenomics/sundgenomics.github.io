@@ -35,6 +35,7 @@ For sensitive data projects, we will
 
 For sharing the data with you, we need you to indicate on which location we can transfer the data, e.g.:
    * Your project-specific S-drive or S-dataset provided by KU-IT, to which we need access
+      *  Read more info about how to create and use a S-drive [here](https://kunet.ku.dk/employee-guide/Pages/IT/S-drive.aspx).
    * You project on [SIF](https://sif.ku.dk) (e.g. ERDA solution for sensitive data), to which we need access
   
 
