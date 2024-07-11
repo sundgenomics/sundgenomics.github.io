@@ -23,9 +23,15 @@ In most sequencing runs, several samples are combined with a set of multiplexing
 * i7
   * this is the sequence of the i7 barcode used for demultiplexing (we used to call it seqIndex1)
   * it is typically 6 or 8 bp, depending on the multiplexing kit (e.g. NEB, etc.) - but it could be a different number depending on your kit
+  * if the index includes a UMI, please indicate it with the right number of Ns so that we know the structure and how we need to demultiplex
+    * e.g. GTTGACCTNNNNNNNNN (we sequence 17bp and extract the 9bp UMI when demultiplexing
+    * e.g. AGGTGTACNNNNNNNNNNNN (we sequence 20bp and extract the 12bp UMI when demultiplexing
 * i5
   * this is the sequence of the i5 barcode (we used to call it seqIndex2)
   * if you use single-indexing, leave that column empty
+  * if the index includes a UMI, please indicate it with the right number of Ns so that we know the structure and how we need to demultiplex
+    * e.g. GTTGACCTNNNNNNNNN (we sequence 17bp and extract the 9bp UMI when demultiplexing
+    * e.g. AGGTGTACNNNNNNNNNNNN (we sequence 20bp and extract the 12bp UMI when demultiplexing
 * contact
   * when this is your project and you have prepared all samples and libraries, you just put your firstname
   * when the pool is a merge of several libraries prepared by different people, or your prepared libraries from sets of samples coming from different people, you write the firstname of those people so we know which is which
