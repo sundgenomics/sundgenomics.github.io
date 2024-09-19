@@ -9,7 +9,7 @@ The Genomics Platform team consists of:
 - [Adrija Kalvisa](https://renew.ku.dk/people/?id=645384&vis=medarbejder): Bioinformatics Specialist
 - [Magali Michaut](https://renew.ku.dk/people/?pure=en/persons/591326): Bioinformatics Specialist
 
-You can contact us by email at  [genomics@sund.ku.dk](mailto:genomics@sund.ku.dk).
+You can contact us by email at  [genomics@sund.ku.dk](mailto:genomics@sund.ku.dk). If you are not part of CPR, reNEW, CGEN or ICMM, you can read about other platforms [here](/platforms/).
 
 ### Onboarding
 
