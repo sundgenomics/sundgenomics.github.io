@@ -32,10 +32,6 @@ meeting room: 7.15.122
 Wednesday - Nov 06 - 11:00-12:00  
 meeting room: 7.15.122
 
-**week 49**:  
-Wednesday - Dec 04 - 11:00-12:00  
-meeting room: 7.15.122
-
  
 ## What to expect
 
