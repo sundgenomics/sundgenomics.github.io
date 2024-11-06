@@ -28,8 +28,8 @@ Faculty Club 16.6.16
 Wednesday - Oct 02 - 11:00-12:00  
 meeting room: 7.15.122
 
-**week 45**:  
-Wednesday - Nov 06 - 11:00-12:00  
+**week 49**:  
+Wednesday - Dec 04 - 11:00-12:00  
 meeting room: 7.15.122
 
  
