@@ -4,7 +4,7 @@
 
 
     Due to window replacement at Panum 5th floor, there will be   
-    no sequencing on Feb 5 and Feb 6.
+    no sequencing during week 9 (24-28 Feb).
 
 
 ### Team & contact
