@@ -3,7 +3,8 @@
 ### Current status
 
 
-    Due to window replacement at Panum 5th floor, there will be no sequencing on Feb 5 and Feb 6
+    Due to window replacement at Panum 5th floor, there will be no  
+    sequencing on Feb 5 and Feb 6.
 
 
 ### Team & contact
