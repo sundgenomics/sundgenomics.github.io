@@ -11,6 +11,7 @@ When pooling libraries to sequence them altogether (aka multiplexing), you need 
 * The overall composition of the indexes on each bp should be diverse enough (in terms of A,T,C,G but also in terms of colors, see Illumina guides below) to optimize the sequencing
 
  Useful links
+* [XLEAP update](https://knowledge.illumina.com/instrumentation/novaseq-x-x-plus/instrumentation-novaseq-x-x-plus-reference_material-list/000008422)
 * [Illumina NextSeq 1000-2000](https://knowledge.illumina.com/instrumentation/nextseq-1000-2000/instrumentation-nextseq-1000-2000-reference_material-list/000003339)  
 * [Illumina Pooling](https://support-docs.illumina.com/SHARE/IndexAdaptersPooling/Content/SHARE/IndexAdaptersPooling/SequencingChemistry.htm)
 
