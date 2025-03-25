@@ -7,7 +7,8 @@
     on April 11-13.
 
 [//]: # (This is a comment)
-[//]: # (No disruption to report at the moment! :-))
+[//]: # "Comment"
+[//]: # "No disruption to report at the moment! :-)"
 
 ### Team & contact
 
