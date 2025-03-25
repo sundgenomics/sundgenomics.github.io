@@ -3,8 +3,11 @@
 ### Current status
 
 
-    No disruption to report at the moment! :-)
+    Due to ventilation work, there will be no sequencing
+    on April 11-13.
 
+[//]: # (This is a comment)
+[//]: # (No disruption to report at the moment! :-))
 
 ### Team & contact
 
