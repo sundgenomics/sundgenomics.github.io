@@ -5,6 +5,7 @@
 
     Due to ventilation work, there will be no sequencing
     on April 11-13.
+    The platform is close for Eastern Holidays April 14-21.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
