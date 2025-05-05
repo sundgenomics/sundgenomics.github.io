@@ -3,9 +3,8 @@
 ### Current status
 
 
-    Due to ventilation work, there will be no sequencing
-    on April 11-13.
-    The platform is close for Eastern Holidays April 14-21.
+    Due to fancoil service, there will be no sequencing
+    on June 16.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
