@@ -5,6 +5,7 @@
 
     Due to fancoil service, there will be no sequencing
     on June 16.
+    The platform will be closed Jul 14-Aug 1.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
