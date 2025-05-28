@@ -11,8 +11,9 @@ The following pipelines can be selected for the Genomics Platform to run:
  - CUTRUN-CUTTAG
  - FASTQ
  - MAGECK
- - MAGECK-BEAN
  - MAGECK-DRUGZ-BAGEL
+ - MAGECK-BE
+ - MAGECK-BEAN
  - RAW
 
  **nf-core** pipelines offered by Genomics Platform
@@ -77,13 +78,14 @@ Please find the most updated samplesheets [here](/demux.md)
 
 This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers following Durocher's lab protocol. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
 
-### MAGECK-BEAN
+### MAGECK-BE and MAGECK-BEAN
 
-For CRISPR_reporter_library submissions, we typically run Mageck as well as [BEAN](https://pinellolab.github.io/crispr-bean/).
-We run Mageck 3 times as follows:
+For CRISPR_reporter_library submissions, we typically run Mageck 3 times as follows (MAGECK-BE):
   * guide on R1
   * rev-compl of guide on R2
   * insert on R1
+
+In addition, it can be useful to run [BEAN](https://pinellolab.github.io/crispr-bean/). We have investigated that tool and initially created MAGECK-BEAN pipeline to apply both methods. However, it is not clear at this point how to run BEAN in a routine way, so MAGECK-BEAN is not used at the moment, but we use instead MAGECK-BE, which only focused on MAGECK.
 
 ### MAGECK-DRUGZ-BAGEL
 
