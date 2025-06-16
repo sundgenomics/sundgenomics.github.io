@@ -3,9 +3,7 @@
 ### Current status
 
 
-    We are currently experiencing computing
-    issues. Please expect a few days delay.
-    
+     
     The platform will be closed Jul 14-Aug 1.
 
 [//]: # (This is a comment)
