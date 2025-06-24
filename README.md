@@ -3,7 +3,9 @@
 ### Current status
 
 
-     
+    We are experiencing network issues. Please expect some
+    delays in data processing and distribution.
+    
     The platform will be closed Jul 14-Aug 1.
 
 [//]: # (This is a comment)
