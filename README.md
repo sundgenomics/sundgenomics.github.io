@@ -3,8 +3,10 @@
 ### Current status
 
 
-    We are experiencing network issues. Please expect some
-    delays in data processing and distribution.
+    Genomics pipette calibration day 31 and 1 July.
+    There will be one set of pipettes provided at reNEW lab. 
+    Please consider bringing your own pipettes if you use 
+    Chromium and TapeStation in these dates. 
     
     The platform will be closed Jul 14-Aug 1.
 
