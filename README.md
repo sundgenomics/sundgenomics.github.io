@@ -2,13 +2,9 @@
 
 ### Current status
 
-
-    Genomics pipette calibration day 31 and 1 July.
-    There will be one set of pipettes provided at reNEW lab. 
-    Please consider bringing your own pipettes if you use 
-    Chromium and TapeStation in these dates. 
     
     The platform will be closed Jul 14-Aug 1.
+    All new submissions will be sequenced after closure.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
