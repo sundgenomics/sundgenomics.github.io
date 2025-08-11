@@ -4,8 +4,8 @@
 
     
     We are preparing a transition from our N-drives
-    from CPR to RENEW. There is infomration [here](https://sundgenomics.github.io/news20250812drives/).
-    This should be shortly in action.
+    from CPR to RENEW. This should be shortly in action.
+    Information in the links section below.
     
     The sequencers will be moved to 10.5 at the end of August.
     Expect some down-time.
@@ -44,6 +44,7 @@ Please remember to acknowledge the platform not only on your publications but al
 
 ### Direct links to pages
 
+- [N-drive transition](/news20250812drives/)
 - [Onboarding](/onboarding/)
 - [PPMS](/ppms/)
 - [Project](/project/)
