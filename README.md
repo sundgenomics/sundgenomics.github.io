@@ -3,8 +3,12 @@
 ### Current status
 
     
-    The platform will be closed Jul 14-Aug 1.
-    All new submissions will be sequenced after closure.
+    We are preparing a transition from our N-drives
+    from CPR to RENEW. There is infomration [here](https://sundgenomics.github.io/news20250812drives/).
+    This should be shortly in action.
+    
+    The sequencers will be moved to 10.5 at the end of August.
+    Expect some down-time.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
