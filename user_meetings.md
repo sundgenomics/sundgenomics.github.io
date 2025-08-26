@@ -2,7 +2,7 @@
 
 You can find the slides of our user meetings on the following N-drive:
 
-smb://unicph.domain/groupdir/SUN-CPR-genomics-users/USER-MEETINGS
+smb://unicph.domain/groupdir/SUN-RENEW-genomics-users/USER-MEETINGS
 
  * 25-02-2022 (reNEW)
  * 28-03-2022 (CPR)
