@@ -3,11 +3,10 @@
 ### Current status
 
     
-    We are preparing a transition from our N-drives
-    from CPR to RENEW. This should be shortly in action.
-    Information in the links section below.
+    We have done a transition from our N-drives
+    from CPR to RENEW. Information in the links section below.
     
-    The sequencers will be moved to 10.5 at the end of August.
+    The sequencers are being moved to 10.5 these days.
     Expect some down-time.
 
 [//]: # (This is a comment)
