@@ -21,7 +21,7 @@ If you have computing or computational infrastructure questions, if you want to 
 - [Dan server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
 - [Research Management and GDPR at KU](https://kunet.ku.dk/work-areas/research/data/Pages/default.aspx)
 - [HPC facilities at KU](https://kunet.ku.dk/work-areas/research/data/data-collection-processing-analysis/high-performance-computing-facilities/Pages/default.aspx)
-- [Computerome 2](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/computerome-2.0/Pages/default.aspx)
+- [Computerome 2](https://kunet.ku.dk/work-areas/research/Research%20Infrastructure/research-it/computerome-2.0/Pages/default.aspx)([compliant with ISO 27001, NIS2, ISAE-3000](https://computerome.dk/transparency))
 
 ### Available bioinformatics pipelines
 
