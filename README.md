@@ -47,7 +47,7 @@ Please remember to acknowledge the platform not only on your publications but al
 - [Onboarding](/onboarding/)
 - [PPMS](/ppms/)
 - [Project](/project/)
-- [Direct sequencing](/directsequencing/) (submit a request [here](https://smart-forms.saasjet.com/e/COZtF5vWtp_)
+- [Direct sequencing](/directsequencing/) (submit a request [here](https://smart-forms.saasjet.com/e/COZtF5vWtp_))
 - [Resequencing](/resequencing/)
 - [Index pooling](/indexpooling/) and [Demultiplexing and sample sheets](/demux/)
 - [Pipelines](/pipeline_overview/)
