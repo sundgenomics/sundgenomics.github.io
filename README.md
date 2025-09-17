@@ -47,7 +47,7 @@ Please remember to acknowledge the platform not only on your publications but al
 - [Onboarding](/onboarding/)
 - [PPMS](/ppms/)
 - [Project](/project/)
-- [Direct sequencing](/directsequencing/) (submit a request [here]([https://forms.office.com/e/Dgq0KkLsi3](https://smart-forms.saasjet.com/external?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRLZXkiOiI5MTc0NGViOC1jMTlkLTNkNTAtOTU5OS04NmNhOWQ0MTc0M2YiLCJpYXQiOjE3NDA1ODAzMDY3MDh9.4eV5iSkfA725xD2sz0TQUt-rIlvJriRpGvKX6ty5prg)))
+- [Direct sequencing](/directsequencing/) (submit a request [here](https://smart-forms.saasjet.com/e/COZtF5vWtp_)
 - [Resequencing](/resequencing/)
 - [Index pooling](/indexpooling/) and [Demultiplexing and sample sheets](/demux/)
 - [Pipelines](/pipeline_overview/)
