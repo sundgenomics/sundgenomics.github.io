@@ -22,7 +22,7 @@ This is a sequencing service we provide for scientists who have experience with 
        * Place it in the folder just created (If not available yet, place it as soon as available - and BEFORE sequencing)
      * Place the Tape Station or Fragment Analyser report in the folder
         * If not available yet, place it as soon as you have it
-2. You fill the sequencing request form [here](https://forms.office.com/e/Dgq0KkLsi3)
+2. You fill the sequencing request form [here]([https://forms.office.com/e/Dgq0KkLsi3](https://smart-forms.saasjet.com/external?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRLZXkiOiI5MTc0NGViOC1jMTlkLTNkNTAtOTU5OS04NmNhOWQ0MTc0M2YiLCJpYXQiOjE3NDA1ODAzMDY3MDh9.4eV5iSkfA725xD2sz0TQUt-rIlvJriRpGvKX6ty5prg))
      * When we ask for the folder name, it is the name of the folder you just created
      * For any additional information, there is a free text field at the end
      * By default, we add PhiX. If you don't want that, please indicate in the final text box.
