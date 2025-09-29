@@ -6,8 +6,8 @@
     The Genomics Platform will be closed during Efterårsferie
     in week 42 (13-17 October).
     
-    The sequencers and office have moved to 10.5, but the lab not yet.
-    The N-drives have moved to SUN-RENEW-genomics.
+    The sequencers and office have moved to 10.5, but the lab
+    not yet. The N-drives have moved to SUN-RENEW-genomics.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
