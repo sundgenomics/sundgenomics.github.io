@@ -9,13 +9,11 @@ The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR
 
 ## Date, Time, Place
 
-Genomics platform will continue ChatBPC activity in spring 2025 in Maersk Tower meeting room 7.15.122 with this schedule: 
+Genomics platform will continue ChatBPC activity in autumn 2025 in Maersk Tower meeting room 7.15.122 with this schedule: 
 
-Wednesday, January 29 at 11:00 – 12:00  
-Thursday, February 27 at 11:00 – 12:00  
-Wednesday, April 2 at 11:00 – 12:00  
-Thursday, May 8 at 11:00 - 12:00  
-Wednesday, June 11 at 11:00 - 12:00  
+October 9 at 13:00-14:00​
+November 6 at 13:00-14:00​
+December 4 at 13:00-14:00
 
 If you would like to be updated on ChatBPC news, please reach out to Adrija. 
 
