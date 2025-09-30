@@ -11,9 +11,9 @@ The event is open to anyone identifying as a bioinformatician at ICMM, CGEN, CPR
 
 Genomics platform will continue ChatBPC activity in autumn 2025 in Maersk Tower meeting room 7.15.122 with this schedule: 
 
-October 9 at 13:00-14:00​
-November 6 at 13:00-14:00​
-December 4 at 13:00-14:00
+October 9 at 13:00-14:00​  
+November 6 at 13:00-14:00​  
+December 4 at 13:00-14:00  
 
 If you would like to be updated on ChatBPC news, please reach out to Adrija. 
 
