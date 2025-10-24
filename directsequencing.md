@@ -3,43 +3,29 @@
 ### What is it?
 This is a sequencing service we provide for scientists who have experience with sequencing and are doing regular sequencing with the platform without needing much support from us.
 
-* We suggest that the request is send at least 4 days in advance of the pool being ready (ideally a week) so we can plan accordingly (kit, sequencing time slot, check files) and address your request asap when the pool is in the freezer
+* We suggest that the request is send at least 5 days in advance of the pool being ready (ideally a week) so we can plan accordingly (kit, sequencing time slot, check files) and address your request asap when the pool is in the freezer
 * Each submission is independant and typically corresponds to one sequencing run
-* In some cases, if you don't need the full output of a run, we can pool 2 submissions together (we talk about that on email)
-* If delay in lib prep, a sequencing request can be postponed to the following week, but not more. In that case it is cancelled and resubmitted when the libraries are close to ready.
+* When you submit a request requiring a sequencing kit from the platform, you are buying this kit. If the submission is cancelled or postponed and the kit can't be used, charges are on you. For frequently used kits that we keep in stock, it is generally not a problem to be used for another submission though.
+* If delay in library prep, a sequencing request can be postponed to the following week, but not more. In that of a longer delay, the submission is cancelled and resubmitted when the libraries are close to ready.
 
 ### How does it work?
-
-1. You create your submission folder
-     * Connect to the submission folder 
-       * `smb://unicph.domain/groupdir/SUN-RENEW-genomics-users/DIRECT-SEQUENCING-SUBMISSION/`
-       * If you don't have access but have already done the  [onboarding](onboarding.md), please contact the platform by email at genomics@sund.ku.dk
-     * Create a folder
-       * Typically Application-Name (e.g. SCAR-Valentin) 
-       * With an index if submitting several runs in a short period of time (e.g. SCAR-Valentin-1, SCAR-Valentin-2)
-     * Prepare the samplesheet
-       * Following the instructions [here](demux.md)
-       * Place it in the folder just created (If not available yet, place it as soon as available - and BEFORE sequencing)
-     * Place the Tape Station or Fragment Analyser report in the folder
-        * If not available yet, place it as soon as you have it
-2. You fill the sequencing request form [here](https://smart-forms.saasjet.com/e/COZtF5vWtp_)
-     * When we ask for the folder name, it is the name of the folder you just created
-     * For any additional information, there is a free text field at the end
-     * By default, we add PhiX. If you don't want that, please indicate in the final text box.
-     * Regarding the data analysis, if you want the fastq files to process yourself, you select FASTQ, otherwise you can choose one of the existing pipelines (described here soon..). If you need more, then we need a meeting beforehand.
-     * After you submit, you will receive your submission by email (on the email you have filled at the top)
-     * You can now add your submission ID at the start of the folder name
-3. We validate the submission
+        
+1. You fill the sequencing request form [here](https://smart-forms.saasjet.com/e/COZtF5vWtp_)
+     * We have tried to explain all the fields and details in the form directly
+     * After you submit the request, you will receive your submission by email (on the email you have filled in the form)
+     * This email includes your unique submission ID
+     * You can now create your folder and place the QC and samplesheet (as indicated in the email) - remember to follow the instructions [here](demux.md)
+2. We validate the submission
      * When we receive the request, we look at it and check if everything is clear (or ask questions if not)
      * We schedule the sequencing with the first availability from the date you have mentioned that the samples are ready
-     * We check that we have the required files at least the day before the schedule sequencing date
-4. You place the submission pool in the freezer
-     * Label the tube with submission ID, library concentration, name or initials and date of library submission to our freezer.
-     * min. 45 uL at 1nM
-     * min. 20ul at 4nM (fully QCed library pools only)
-     * min. 10ul at 10nM (pooled libraries for platform QC)
+     * We check that we have the required files at least the day before the scheduled sequencing date
+3. You place the submission pool in the freezer
+     * As indicated in the email, you label the tube with submission ID, library concentration, name or initials and date of library submission to our freezer.
+         * min. 45 uL at 1nM
+         * min. 20ul at 4nM (fully QCed library pools only)
+         * min. 10ul at 10nM (pooled libraries for platform QC)
 
-During that process, if there is any question or change, please email us at genomics@sund.ku.dk mentioning the submission_ID.
+During that process, if there is any question or change, please email us at genomics@sund.ku.dk mentioning the submission ID.
 
 If you have any suggestions to improve this process, please let us know.
 
