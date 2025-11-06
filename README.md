@@ -12,6 +12,8 @@
     - Monday Nov 10th 9am-12pm
     - Wednesday Nov 19th 9am-5pm
 
+    Closure during the Holiday Season (Dec 22th to Jan 2nd).
+
 [//]: # (This is a comment)
 [//]: # "Comment"
 [//]: # "No disruption to report at the moment! :-)"
