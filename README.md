@@ -5,6 +5,12 @@
     
     The sequencers and office have moved to 10.5, but the lab
     not yet. The N-drives have moved to SUN-RENEW-genomics.
+    
+    Due to testing and special events at 10.5, there will be no 
+    access to our Genomics Platform on the following dates:
+    - Wednesday Nov 5th  4pm-10pm
+    - Monday Nov 10th 9am-12pm
+    - Wednesday Nov 19th 9am-5pm
 
 [//]: # (This is a comment)
 [//]: # "Comment"
