@@ -3,6 +3,12 @@
 
 The following pipelines can be selected for the Genomics Platform to run:
 
+ **nf-core** pipelines offered by Genomics Platform
+ - NF-CHIP ([nf-core/chipseq](https://nf-co.re/chipseq/2.0.0))
+ - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
+ - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
+ - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
+
 **in-house** pipelines offered by Genomics Platform:
  - ATAC 
  - CELL-RANGER
@@ -16,13 +22,41 @@ The following pipelines can be selected for the Genomics Platform to run:
  - MAGECK-BEAN
  - RAW
 
- **nf-core** pipelines offered by Genomics Platform
- - NF-CHIP ([nf-core/chipseq](https://nf-co.re/chipseq/2.0.0))
- - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
- - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
- - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
-
 **We ALWAYS include a copy of the script we used to run the pipeline when we share the pipeline output with the user to make sure the results are reproducible. You can find details on how the pipeline was run as .sbatch file inside the pipeline folder.**
+
+---
+
+### NF-CORE PIPELINES
+
+Genomics Platform can also run selected https://nf-co.re/ pipelines:
+
+- **NF-CHIP** (https://nf-co.re/chipseq/2.0.0)
+- **NF-CUTANDRUN** (https://nf-co.re/cutandrun/3.2.2)
+- **NF-METHYL** (https://nf-co.re/methylseq/2.6.0)
+- **NF-RNA** ([nf-corenf-co.re/rnaseq/3.14.0)
+- **NF-ATAC** ([nf-core/atacseq](https://nf-co.re/atacseq/2.1.2/)
+
+**Recommendations for running nf-core**
+
+- We **highly recommend** users try running these pipelines themselves.  
+- We are happy to provide **support and training** whenever requested.  
+- A **DANHEAD profile** for nf-core pipelines is available here:  
+  https://github.com/nf-core/configs
+- Please read the **pipeline usage guidelines**:  
+  [KU SUND DANHEAD Guidelines](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danheadips
+
+### RUNNING OTHER COMMUNITY PIPELINES
+
+You can always ask for help to run other community-maintained pipelines that are within nf-core and SnakePipes platforms. To run snakepipes on dangpu server run the following command and follow the instructions. 
+
+```bash
+module load miniconda/latest snakePipes/2.5.4
+```
+
+The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on DANHEAD during the work hours. [You can read more on how to use DANHEAD HPC here.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
+
+
+
 
 ### ATAC
 
