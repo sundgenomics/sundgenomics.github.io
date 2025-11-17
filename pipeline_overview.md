@@ -22,9 +22,11 @@ The following pipelines can be selected for the Genomics Platform to run:
  - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
  - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
 
+**We ALWAYS include a copy of the script we used to run the pipeline when we share the pipeline output with the user to make sure the results are reproducible. You can find details on how the pipeline was run as .sbatch file inside the pipeline folder.**
+
 ### ATAC
 
-ATAC pipeline aligns reads in .fastq to a specified reference genome, removes chrM and blacklisted regions for mouse. Spike-in option is not built in by default, but alignment can be done on a spike-in genome separately.
+ATAC pipeline aligns reads in .fastq to a specified reference genome, and removes mitochondrial reads. Spike-in option is not built in by default, but alignment can be done on a spike-in genome separately.
 
 - Inputs: .fastq.gz files, a reference genome
 - Options: paired-end only
@@ -93,24 +95,34 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome using STA
 - Outputs: indexed, sorted .bam files, read counts in .tsv format  
 - Software used: STAR, multiQC
 
+---
+
 ### RAW
 
 If you select RAW option, we will give you access to the run folder containing raw images (.bcl), so you can demultiplex the reads yourself. 
 
+---
 
 ### NF-CORE PIPELINES USED AT GENOMICS PLATFORM
 
-Apart from maintaining in-house pipelines, Genomics Platform can run some [nf-core](https://nf-co.re/) pipelines if the user requests it:
+Genomics Platform can also run selected https://nf-co.re/ pipelines:
 
- - NF-CHIP ([nf-core/chipseq](https://nf-co.re/chipseq/2.0.0))
- - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
- - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
- - NF-RNA ([nf-cpre/rnaseq](https://nf-co.re/rnaseq/3.14.0))
+- **NF-CHIP** (https://nf-co.re/chipseq/2.0.0)
+- **NF-CUTANDRUN** (https://nf-co.re/cutandrun/3.2.2)
+- **NF-METHYL** (https://nf-co.re/methylseq/2.6.0)
+- **NF-RNA** ([nf-corenf-co.re/rnaseq/3.14.0)
+- **NF-ATAC** ([nf-core/atacseq](https://nf.2)
 
-We also highly recommend the users to try running these pipelines by themselves and are happy to provide support and training for running these pipeliens whenever a user requests help. 
+---
 
-A profile for DANHEAD is available for nf-core pipelines [nf-core/configs](https://github.com/nf-core/configs). 
-Please see the pipeline use guidelines for nf-core pipelines [here](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danhead.md).
+**Recommendations for running nf-core**
+
+- We **highly recommend** users try running these pipelines themselves.  
+- We are happy to provide **support and training** whenever requested.  
+- A **DANHEAD profile** for nf-core pipelines is available here:  
+  https://github.com/nf-core/configs
+- Please read the **pipeline usage guidelines**:  
+  [KU SUND DANHEAD Guidelines](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danheadips
 
 
 ### RUNNING OTHER COMMUNITY PIPELINES
