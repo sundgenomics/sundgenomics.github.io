@@ -155,10 +155,13 @@ module load miniconda/latest snakePipes/2.5.4
 
 The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on DANHEAD during the work hours. [You can read more on how to use DANHEAD HPC here.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
 
+---
 
 ### AVAILABLE REFERENCE GENOMES
 
 refgenie reference genome manager is available for accessing for pre-built reference genomes on dangpu server: [more info here](/refgenie.md)
+
+---
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
 
