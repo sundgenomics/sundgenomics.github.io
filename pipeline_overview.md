@@ -45,6 +45,8 @@ Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 - Please read the **pipeline usage guidelines**:  
  (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
 
+---
+
 ### ATAC
 
 ATAC pipeline aligns reads in .fastq to a specified reference genome, and removes mitochondrial reads. Spike-in option is not built in by default, but alignment can be done on a spike-in genome separately.
@@ -54,9 +56,13 @@ ATAC pipeline aligns reads in .fastq to a specified reference genome, and remove
 - Outputs: indexed, sorted .bam files with chrM removed, .bw files
 - Software used: bowtie2, samtools, picard, multiQC, bedtools
 
+---
+
 ### CELL-RANGER
 
 CELL-RANGER pipeline uses cellranger v.7.1.0 to demultiplex, count and aggregate the reads. Depending on library design (with or without cell hashing), further `cellranger count` + `cellranger aggr` or `cellranger multi` is used to create count matrixes for downstream analysis in Loupe browser, Seurat, etc. By default, the pipeline uses the [pre-built reference transcriptome by 10X](https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/inputs/cr-inputs-overview) for mouse and human.
+
+---
 
 ### CHIP-CHOR-SCAR
 
@@ -67,10 +73,13 @@ CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, usin
 - Outputs: indexed, sorted .bam files  
 - Software used: bowtie2, samtools, picard, multiQC, umi_tools, custom scripts  
 
+---
+
 ### CRISPRESSO2
 
 CRISPRESSO2 pipeline is used for amplicon submissions and described [here](http://crispresso.pinellolab.org/submission).
 
+---
 
 ### CUTRUN-CUTTAG
 
@@ -81,6 +90,7 @@ CUTRUN-CUTTAG pipeline is derived from the ATAC pipeline to handle reads produce
 - Outputs: indexed, sorted .bam files, .bw files
 - Software used: bowtie2, samtools, picard, multiQC, bedtools, custom scripts
 
+---
 
 ### FASTQ
 
@@ -91,9 +101,13 @@ Please find the most updated samplesheets [here](/demux.md)
 - Outputs: .fastq files, multiQC report, md5sums for fastq files
 - Software used: bcl2fasta, multiQC
 
+---
+
 ### MAGECK
 
 This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers following Durocher's lab protocol. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
+
+---
 
 ### MAGECK-BE and MAGECK-BEAN
 
@@ -104,9 +118,13 @@ For CRISPR_reporter_library submissions, we typically run Mageck 3 times as foll
 
 In addition, it can be useful to run [BEAN](https://pinellolab.github.io/crispr-bean/). We have investigated that tool and initially created MAGECK-BEAN pipeline to apply both methods. However, it is not clear at this point how to run BEAN in a routine way, so MAGECK-BEAN is not used at the moment, but we use instead MAGECK-BE, which only focused on MAGECK.
 
+---
+
 ### MAGECK-DRUGZ-BAGEL
 
 This pipeline starts with the Mageck pipeline explained above to compute the raw count matrix. After that, we run DrugZ on the raw counts. Also, we compute a normalised count matrix and run Bagel. For all these steps, we need you to email us the details of the experimental design amd which exact comparisons you need.
+
+---
 
 ### RNA (deprecated)
 
@@ -124,28 +142,6 @@ If you select RAW option, we will give you access to the run folder containing r
 
 ---
 
-### NF-CORE PIPELINES USED AT GENOMICS PLATFORM
-
-Genomics Platform can also run selected https://nf-co.re/ pipelines:
-
-- **NF-CHIP** (https://nf-co.re/chipseq/2.0.0)
-- **NF-CUTANDRUN** (https://nf-co.re/cutandrun/3.2.2)
-- **NF-METHYL** (https://nf-co.re/methylseq/2.6.0)
-- **NF-RNA** ([nf-corenf-co.re/rnaseq/3.14.0)
-- **NF-ATAC** ([nf-core/atacseq](https://nf.2)
-
----
-
-**Recommendations for running nf-core**
-
-- We **highly recommend** users try running these pipelines themselves.  
-- We are happy to provide **support and training** whenever requested.  
-- A **DANHEAD profile** for nf-core pipelines is available here:  
-  https://github.com/nf-core/configs
-- Please read the **pipeline usage guidelines**:  
-  [KU SUND DANHEAD Guidelines](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danheadips
-
-
 ### RUNNING OTHER COMMUNITY PIPELINES
 
 You can always ask for help to run other community-maintained pipelines that are within nf-core and SnakePipes platforms. To run snakepipes on dangpu server run the following command and follow the instructions. 
@@ -160,8 +156,6 @@ The snakePipes workflows call SLURM jobs by default, so you do not need to run s
 ### AVAILABLE REFERENCE GENOMES
 
 refgenie reference genome manager is available for accessing for pre-built reference genomes on dangpu server: [more info here](/refgenie.md)
-[refgenie documentation](http://refgenie.databio.org/en/latest/)  
-[more guidelines for dangpu server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)  
 
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
 
