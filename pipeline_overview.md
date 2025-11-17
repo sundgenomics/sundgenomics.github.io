@@ -31,11 +31,11 @@ The following pipelines can be selected for the Genomics Platform to run:
 
 Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 
-**NF-CHIP** [https://nf-co.re/chipseq/2.0.0](https://nf-co.re/chipseq/2.0.0)
-**NF-CUTANDRUN** [https://nf-co.re/cutandrun/3.2.2](https://nf-co.re/cutandrun/3.2.2)
-**NF-METHYL** [https://nf-co.re/methylseq/2.6.0](https://nf-co.re/methylseq/2.6.0)
-**NF-RNA** [https://nf-co.re/rnaseq/3.14.0](https://nf-co.re/rnaseq/3.14.0)
-**NF-ATAC** [https://nf-co.re/atacseq/2.1.2/](https://nf-co.re/atacseq/2.1.2/)
+**NF-CHIP** [https://nf-co.re/chipseq/2.0.0](https://nf-co.re/chipseq/2.0.0)  
+**NF-CUTANDRUN** [https://nf-co.re/cutandrun/3.2.2](https://nf-co.re/cutandrun/3.2.2)  
+**NF-METHYL** [https://nf-co.re/methylseq/2.6.0](https://nf-co.re/methylseq/2.6.0)  
+**NF-RNA** [https://nf-co.re/rnaseq/3.14.0](https://nf-co.re/rnaseq/3.14.0)  
+**NF-ATAC** [https://nf-co.re/atacseq/2.1.2/](https://nf-co.re/atacseq/2.1.2/)  
 
 **Recommendations for running nf-core**
 
