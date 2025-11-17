@@ -28,7 +28,7 @@ The following pipelines can be selected for the Genomics Platform to run:
 
 ### NF-CORE PIPELINES
 
-Genomics Platform can also run selected https://nf-co.re/ pipelines:
+Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 
 - **NF-CHIP** (https://nf-co.re/chipseq/2.0.0)
 - **NF-CUTANDRUN** (https://nf-co.re/cutandrun/3.2.2)
