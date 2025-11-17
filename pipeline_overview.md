@@ -21,6 +21,7 @@ The following pipelines can be selected for the Genomics Platform to run:
  - MAGECK-BE
  - MAGECK-BEAN
  - RAW
+ - RNA (deprecated)
 
 **We ALWAYS include a copy of the script we used to run the pipeline when we share the pipeline output with the user to make sure the results are reproducible. You can find details on how the pipeline was run as .sbatch file inside the pipeline folder.**
 
