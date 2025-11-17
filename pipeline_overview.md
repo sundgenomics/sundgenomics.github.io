@@ -44,10 +44,6 @@ CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, usin
 - Outputs: indexed, sorted .bam files  
 - Software used: bowtie2, samtools, picard, multiQC, umi_tools, custom scripts  
 
-![CHOR pipeline](/images/f03_CHOR.pdf)
-
-
-
 ### CRISPRESSO2
 
 CRISPRESSO2 pipeline is used for amplicon submissions and described [here](http://crispresso.pinellolab.org/submission).
@@ -72,8 +68,6 @@ Please find the most updated samplesheets [here](/demux.md)
 - Outputs: .fastq files, multiQC report, md5sums for fastq files
 - Software used: bcl2fasta, multiQC
 
-![demux pipeline](/images/f01_demultiplex.pdf)
-
 ### MAGECK
 
 This pipeline was developed with Emil Hertz (CPR) and tailored for specific CRISPR primers following Durocher's lab protocol. If unaware, please ask us about it. The pipeline trims the reads (taking into account the staggers if present) and then run Mageck on the trimmed fastq with the library file indicated in the samplesheet.
@@ -97,10 +91,7 @@ RNAseq pipeline aligns reads in .fastq to a specified reference genome using STA
 
 - Inputs: .fastq.gz files
 - Outputs: indexed, sorted .bam files, read counts in .tsv format  
-- Software used: STAR, multiQC  
-
-![RNA pipeline](/images/f02_RNAseq.pdf)
-
+- Software used: STAR, multiQC
 
 ### RAW
 
