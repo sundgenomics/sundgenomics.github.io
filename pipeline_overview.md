@@ -38,25 +38,12 @@ Genomics Platform can also run selected https://nf-co.re/ pipelines:
 
 **Recommendations for running nf-core**
 
-- We **highly recommend** users try running these pipelines themselves.  
+- We **highly recommend** users try running these pipelines themselves.
 - We are happy to provide **support and training** whenever requested.  
 - A **DANHEAD profile** for nf-core pipelines is available here:  
   https://github.com/nf-core/configs
 - Please read the **pipeline usage guidelines**:  
-  [KU SUND DANHEAD Guidelines](https://github.com/nf-core/configs/blob/master/docs/ku_sund_danheadips
-
-### RUNNING OTHER COMMUNITY PIPELINES
-
-You can always ask for help to run other community-maintained pipelines that are within nf-core and SnakePipes platforms. To run snakepipes on dangpu server run the following command and follow the instructions. 
-
-```bash
-module load miniconda/latest snakePipes/2.5.4
-```
-
-The snakePipes workflows call SLURM jobs by default, so you do not need to run snakePipes workflows as slurm jobs. You can specify max CPUs with an option `-j`. Remember to not exceed the maximum allowed number of CPUs on DANHEAD during the work hours. [You can read more on how to use DANHEAD HPC here.](https://sgn102.pages.ku.dk/a-not-long-tour-of-dan-system/)
-
-
-
+ (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
 
 ### ATAC
 
