@@ -128,6 +128,8 @@ This pipeline starts with the Mageck pipeline explained above to compute the raw
 
 ### RNA (deprecated)
 
+**ATTENTION: this pipeline is deprecated. We recommend selecting nf-core/rnaseq pipeline instead (NF-RNA). PLease contact us if you need this pipeline for finishing old projects**
+
 RNAseq pipeline aligns reads in .fastq to a specified reference genome using STAR. We currently offer running this pipeline for projects that need wrapping-up, but for the new projects we recommend using NF-RNA pipeline. 
 
 - Inputs: .fastq.gz files
