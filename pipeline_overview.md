@@ -39,12 +39,12 @@ Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 
 **Recommendations for running nf-core**
 
-- We **highly recommend** users try running these pipelines themselves.
-- We are happy to provide **support and training** whenever requested.  
-- A **DANHEAD profile** for nf-core pipelines is available here:  
-  https://github.com/nf-core/configs
-- Please read the **pipeline usage guidelines**:  
- (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
+- We **highly recommend** users try running these pipelines themselves: we provide **support and training** during data drop-in on Wednesdays 13:00-14:00.  
+  
+- A **DANHEAD profile** for nf-core pipelines is available here: https://github.com/nf-core/configs
+
+- Please read the **pipeline usage guidelines**: (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
+
 
 ---
 
