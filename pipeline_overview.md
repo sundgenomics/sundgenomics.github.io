@@ -67,7 +67,7 @@ CELL-RANGER pipeline uses cellranger v.7.1.0 to demultiplex, count and aggregate
 
 ### CHIP-CHOR-SCAR
 
-CHORseq pipeline aligns reads in .fastq.gz to a specified reference genome, using dm6 as the spike-in genome.This pipeline is used to align reads for CHIP and CHOR assays. This pipeline can handle UMIs. 
+CHIP-CHOR-SCAR  pipeline aligns reads in .fastq.gz to a specified reference genome, using dm6 as the spike-in genome. This pipeline is used to align reads for CHIP and CHOR assays. This pipeline can handle UMIs. 
 
 - Inputs: .fastq files, a reference genome  
 - Options: single-end, paired-end, with and without spike-in
