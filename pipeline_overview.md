@@ -138,21 +138,7 @@ The snakePipes workflows call SLURM jobs by default, so you do not need to run s
 
 ### AVAILABLE REFERENCE GENOMES
 
-refgenie reference genome manager is available for accessing for pre-built reference genomes on dangpu server:
-
-```bash
-# load modules
-module load dangpu_libs python/3.7.13 refgenie/0.12.1
-
-# list genomes
-refgenie list -g  GRCh38_ensembl
-
-# find a path to the file of interest
-# syntax: refgenie seek <genome>/<asset>:<tags>
-refgenie seek  GRCh38_ensembl/bowtie2_index
-refgenie seek  GRCh38_ensembl/blacklist:CUTANDRUN
-```
-
+refgenie reference genome manager is available for accessing for pre-built reference genomes on dangpu server: [more info here](/refgenie.md)
 [refgenie documentation](http://refgenie.databio.org/en/latest/)  
 [more guidelines for dangpu server](https://sgn102.pages.ku.dk/a-not-long-tour-of-dangpu/)  
 
