@@ -37,14 +37,11 @@ Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 **NF-RNA** [https://nf-co.re/rnaseq/3.14.0](https://nf-co.re/rnaseq/3.14.0)  
 **NF-ATAC** [https://nf-co.re/atacseq/2.1.2/](https://nf-co.re/atacseq/2.1.2/)  
 
-**Recommendations for running nf-core**
+- genomics platform uses a standard set of parameters when running nf-core pipelines. If the user needs spcific parameters, this should be discussed with the genomics platform before the libraries are submitted!
 
 - We **highly recommend** users try running these pipelines themselves: we provide **support and training** during data drop-in on Wednesdays 13:00-14:00.  
-  
-- A **DANHEAD profile** for nf-core pipelines is available here: https://github.com/nf-core/configs
 
 - Please read the **pipeline usage guidelines**: (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
-
 
 ---
 
