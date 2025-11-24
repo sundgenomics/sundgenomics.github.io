@@ -3,11 +3,11 @@
 ### Current status
 
     
-    The Genomics Platform is now located at 10.5 and the
-    N-drives at SUN-RENEW-genomics.
+    The Genomics Platform is now located at 10.5 and the N-drives
+    at SUN-RENEW-genomics.
     
-    Due to building testing, there will be no access
-    to our Genomics Platform on the following dates:
+    Due to building testing, there will be no access to our
+    Genomics Platform on the following dates:
     - Tuesday Nov 25th  from 4:30pm
     - Wednesday Dec 3rd from 2:00pm
     - Tuesday Dec 9th from 2:00pm
