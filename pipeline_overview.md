@@ -42,7 +42,7 @@ Genomics Platform can also run selected [nf-core](https://nf-co.re/) pipelines:
 
 - We **highly recommend** users try running these pipelines themselves: we provide **support and training** during data drop-in on Wednesdays 13:00-14:00.  
 
-- Please read the **pipeline usage guidelines**: (nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/)
+- Please read the **pipeline usage guidelines**: ([nf-core/configs - ku_sund_danhead](https://nf-co.re/configs/ku_sund_danhead/))
 
 ---
 
@@ -127,7 +127,7 @@ This pipeline starts with the Mageck pipeline explained above to compute the raw
 
 ### RNA (deprecated)
 
-**ATTENTION: this pipeline is deprecated. We recommend selecting nf-core/rnaseq pipeline instead (NF-RNA). PLease contact us if you need this pipeline for finishing old projects**
+**ATTENTION: this pipeline is deprecated. We recommend selecting nf-core/rnaseq pipeline instead (NF-RNA). Contact us if you need this pipeline for finishing old projects.**
 
 RNAseq pipeline aligns reads in .fastq to a specified reference genome using STAR. We currently offer running this pipeline for projects that need wrapping-up, but for the new projects we recommend using NF-RNA pipeline. 
 
