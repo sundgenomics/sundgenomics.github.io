@@ -8,7 +8,7 @@ The following pipelines can be selected for the Genomics Platform to run:
  - NF-CUTANDRUN ([nf-core/cutandrun](https://nf-co.re/cutandrun/3.2.2))
  - NF-METHYL ([nf-core/methylseq](https://nf-co.re/methylseq/2.6.0))
  - NF-RNA ([nf-core/rnaseq](https://nf-co.re/rnaseq/3.14.0))
- - NF-ATAC ([nf-core/atacseq](https://nf-co.re/atacseq/2.1.2/)
+ - NF-ATAC ([nf-core/atacseq](https://nf-co.re/atacseq/2.1.2/))
 
 **in-house** pipelines offered by Genomics Platform:
  - ATAC 
