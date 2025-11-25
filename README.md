@@ -8,8 +8,8 @@
     
     Due to building testing, there will be no access to our
     Genomics Platform on the following dates:
-    - Tuesday Nov 25th  from 4:30pm
-    - Wednesday Dec 3rd from 2:00pm
+    - Tuesday Nov 25th from 4:30pm
+    - Thursday Dec 4th from 2:00pm
     - Tuesday Dec 9th from 2:00pm
 
     Closure during the Holiday Season (Dec 22th to Jan 2nd).
