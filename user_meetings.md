@@ -12,5 +12,6 @@ smb://unicph.domain/groupdir/SUN-RENEW-genomics-users/USER-MEETINGS
  * 06-03-2024 (CPR, reNEW, CGEN, ICMM)
  * 01-10-2024 (CPR, reNEW, CGEN, ICMM)
  * 18-03-2025 (CPR, reNEW, CGEN, ICMM)
+ * 01-10-2025 (CPR, reNEW, CGEN, ICMM)
  
 Go back to the [Genomics Platform home](https://sundgenomics.github.io)
