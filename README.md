@@ -3,14 +3,18 @@
 ### Current status
 
     
-    The Genomics Platform is now located at 10.5 and the N-drives
-    at SUN-RENEW-genomics.
+    The Genomics Platform is currently in transition towards
+    the Genomics Research Infrastructure (GRI) at the
+    Center for Core Facilities (CCF).
+    The platform will be close July 13-31.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
 [//]: # "No disruption to report at the moment! :-)"
 
 ### Team & contact
+
+Find information about the Genomics Research Infrastructure [here](https://ccf.ku.dk/corefacilities/gri/).
 
 The Genomics Platform team consists of:
 
