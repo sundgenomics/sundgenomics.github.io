@@ -6,7 +6,6 @@
     The Genomics Platform is currently in transition towards
     the Genomics Research Infrastructure (GRI) at the
     Center for Core Facilities (CCF).
-    The platform will be close July 13-31.
 
 [//]: # (This is a comment)
 [//]: # "Comment"
