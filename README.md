@@ -1,16 +1,17 @@
 ## Welcome to the Genomics Platform
 
-### Current status
+### Website not maintained any more
 
     
     The Genomics Platform has now transitionned into
     the Genomics Research Infrastructure (GRI) at the
-    Center for Core Facilities (CCF). This website is not
-    maintained any more. [Please consult this website instead](https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
+    Center for Core Facilities (CCF).
 
 [//]: # (This is a comment)
 [//]: # "Comment"
 [//]: # "No disruption to report at the moment! :-)"
+
+This website is not maintained any more. [Please consult this website instead] (https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
 
 ### Team & contact
 
