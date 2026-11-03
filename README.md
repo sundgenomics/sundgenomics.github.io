@@ -11,7 +11,8 @@
 [//]: # "Comment"
 [//]: # "No disruption to report at the moment! :-)"
 
-This website is not maintained any more. [Please consult this website instead](https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
+Since September 2026, this website is not maintained any longer.
+For current information, please consult [the GRI official website](https://ccf.ku.dk/corefacilities/gri/) or [the GRI user website](https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
 
 ### Team & contact
 
