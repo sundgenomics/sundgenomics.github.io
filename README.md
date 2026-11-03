@@ -11,7 +11,7 @@
 [//]: # "Comment"
 [//]: # "No disruption to report at the moment! :-)"
 
-This website is not maintained any more. [Please consult this website instead] (https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
+This website is not maintained any more. [Please consult this website instead](https://sundgenomics.atlassian.net/wiki/external/ZTg0ODAwM2IyYzdjNGY4MGI2ZjdiZjI2OWU1NTI5MzI).
 
 ### Team & contact
 
