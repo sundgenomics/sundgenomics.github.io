@@ -5,7 +5,7 @@ PPMS is the online booking and ordering system we use in all platforms at reNEW.
 
 ### Creating your account
 
-1. Login with you KUID [here](https://ppms.eu/ku/start/)
+1. Login with you KUID [here](https://ppms.eu/gri/start/)
 2. Klick through to request an account
 3. Fill out your name, phone and select a group, then click on "Financial Account number:" bubble
 
